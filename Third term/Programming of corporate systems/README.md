@@ -4,4 +4,4 @@ number | grade
 :----: | :---:
 1      | ✅
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)
