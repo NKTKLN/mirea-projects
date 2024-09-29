@@ -14,4 +14,4 @@ number | name                                                                  |
 6      | Структуры данных (часть 1)                                            | ✅
 extra  | Структуры данных (часть 2)                                            | ✅
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

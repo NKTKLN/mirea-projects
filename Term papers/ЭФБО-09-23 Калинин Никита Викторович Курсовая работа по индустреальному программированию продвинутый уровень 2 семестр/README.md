@@ -4,4 +4,4 @@
 
 [Таблица с баллами №2](https://docs.google.com/spreadsheets/d/1Hw_KSd1EosDXJSxlOPvrz2Vf19kcJhIePvIgcTbfkfQ/edit#gid=388351660)
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

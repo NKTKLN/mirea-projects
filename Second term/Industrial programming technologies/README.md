@@ -23,4 +23,4 @@ number | name                                                       | grade
 5.4    | Задачу своровали                                           | ✅
 5.5    | Человечки                                                  | ✅
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

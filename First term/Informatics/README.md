@@ -11,4 +11,4 @@ number | name                                                                  |
 7      | Машина Тьюринга                                                       | ✅
 8      | ООП                                                                   | ✅
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

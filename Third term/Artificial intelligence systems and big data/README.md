@@ -8,4 +8,4 @@ number | grade
 4      | ✅
 5      | ✅
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

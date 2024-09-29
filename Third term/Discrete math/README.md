@@ -13,4 +13,4 @@ number | grade
 9      | ❓
 10     | ❓
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)

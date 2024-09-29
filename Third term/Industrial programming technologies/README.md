@@ -14,4 +14,4 @@ number  | grade
 10      | 7.5/7.5
 Project | -/30
 
-[Back](/NKTKLN/mirea-projects)
+[Back](/)
