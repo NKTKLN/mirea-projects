@@ -6,7 +6,7 @@ This repository was created for saving and transferring MIREA Institute assignme
 
 ## First term
 
-* [Algorithms](/NKTKLN/mirea-projects/tree/main/First%20term/Algorithms)
+* [Algorithms](/First%20term/Algorithms)
 * [Informatics](/NKTKLN/mirea-projects/src/branch/main/First%20term/Informatics)
 
 ## Second term
