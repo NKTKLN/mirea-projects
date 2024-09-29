@@ -1,0 +1,9 @@
+# ninja log v6
+2	199	1727407333961268500	2_Calculator_autogen/timestamp	3f7a2abed0bc60aa
+2	199	1727407333961268500	2_Calculator_autogen/mocs_compilation.cpp	3f7a2abed0bc60aa
+2	199	1727407333961268500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/2_Calculator/build/Desktop-Debug/2_Calculator_autogen/timestamp	3f7a2abed0bc60aa
+2	199	1727407333961268500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/2_Calculator/build/Desktop-Debug/2_Calculator_autogen/mocs_compilation.cpp	3f7a2abed0bc60aa
+215	1704	1727407333988852300	CMakeFiles/2_Calculator.dir/2_Calculator_autogen/mocs_compilation.cpp.o	7c12e1f96fd22342
+216	1747	1727407333989121800	CMakeFiles/2_Calculator.dir/main.cpp.o	d4d025782d209320
+216	1982	1727407333990937400	CMakeFiles/2_Calculator.dir/calculator.cpp.o	9fcf43cfe68523a2
+1983	2295	1727407335756769300	2_Calculator	ffdd4dfe1cc638d9

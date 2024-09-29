@@ -1,0 +1,82 @@
+[
+    {
+        "email": "demo2@mail.com",
+        "id": "6",
+        "name": "Тимур",
+        "patronymic": "Даниилович",
+        "phone": "+7-937-183-91-71",
+        "surname": "Попов"
+    },
+    {
+        "email": "example1@yandex.ru",
+        "id": "5",
+        "name": "Артем",
+        "patronymic": "Тимурович",
+        "phone": "+7-998-469-99-55",
+        "surname": "Смирнов"
+    },
+    {
+        "email": "info2@tutanota.com",
+        "id": "1",
+        "name": "Иван",
+        "patronymic": "Александрович",
+        "phone": "+7-000-000-00-00",
+        "surname": "Малышев"
+    },
+    {
+        "email": "sample1@outlook.com",
+        "id": "10",
+        "name": "Александр",
+        "patronymic": "Романович",
+        "phone": "+7-980-304-72-28",
+        "surname": "Малышев"
+    },
+    {
+        "email": "sample2@hushmail.com",
+        "id": "3",
+        "name": "Максим",
+        "patronymic": "Юрьевич",
+        "phone": "+7-952-408-22-98",
+        "surname": "Иванов"
+    },
+    {
+        "email": "test1@example.com",
+        "id": "7",
+        "name": "Олег",
+        "patronymic": "Тимурович",
+        "phone": "+7-977-916-75-63",
+        "surname": "Попов"
+    },
+    {
+        "email": "test1@mail.com",
+        "id": "2",
+        "name": "Алексей",
+        "patronymic": "Михайлович",
+        "phone": "+7-000-000-00-00",
+        "surname": "Захаров"
+    },
+    {
+        "email": "test1@mail.com",
+        "id": "4",
+        "name": "Виктор",
+        "patronymic": "Артемович",
+        "phone": "+7-996-501-28-64",
+        "surname": "Захаров"
+    },
+    {
+        "email": "test2@aol.com",
+        "id": "8",
+        "name": "Тимур",
+        "patronymic": "Даниилович",
+        "phone": "+7-967-913-95-82",
+        "surname": "Гусевский"
+    },
+    {
+        "email": "user2@bk.ru",
+        "id": "9",
+        "name": "Михаил",
+        "patronymic": "Тимурович",
+        "phone": "+7-925-265-15-51",
+        "surname": "Зуев"
+    }
+]

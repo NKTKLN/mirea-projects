@@ -1,0 +1,82 @@
+[
+    {
+        "email": "victor@yahoo.com",
+        "id": "1",
+        "name": "Даниил",
+        "patronymic": "Викторович",
+        "phone": "+7-977-469-17-23",
+        "surname": "Гусевский"
+    },
+    {
+        "email": "victor@gmail.com",
+        "id": "2",
+        "name": "Александр",
+        "patronymic": "Викторович",
+        "phone": "+7-999-571-23-70",
+        "surname": "Иванов"
+    },
+    {
+        "email": "nikita@yahoo.com",
+        "id": "3",
+        "name": "Никита",
+        "patronymic": "Иванович",
+        "phone": "+7-925-364-87-84",
+        "surname": "Абрамов"
+    },
+    {
+        "email": "alex@yahoo.com",
+        "id": "4",
+        "name": "Даниил",
+        "patronymic": "Иванович",
+        "phone": "+7-915-472-38-95",
+        "surname": "Абрамов"
+    },
+    {
+        "email": "nikita@gmail.com",
+        "id": "5",
+        "name": "Даниил",
+        "patronymic": "Александрович",
+        "phone": "+7-969-762-36-41",
+        "surname": "Абрамов"
+    },
+    {
+        "email": "nikita@example.com",
+        "id": "6",
+        "name": "Даниил",
+        "patronymic": "Иванович",
+        "phone": "+7-981-629-20-45",
+        "surname": "Дроздов"
+    },
+    {
+        "email": "victor@gmail.com",
+        "id": "7",
+        "name": "Александр",
+        "patronymic": "Викторович",
+        "phone": "+7-963-362-84-73",
+        "surname": "Гусевский"
+    },
+    {
+        "email": "victor@yahoo.com",
+        "id": "8",
+        "name": "Никита",
+        "patronymic": "Александрович",
+        "phone": "+7-980-550-85-36",
+        "surname": "Дроздов"
+    },
+    {
+        "email": "nikita@gmail.com",
+        "id": "9",
+        "name": "Никита",
+        "patronymic": "",
+        "phone": "+7-901-836-61-40",
+        "surname": "Иванов"
+    },
+    {
+        "email": "daniil@example.com",
+        "id": "10",
+        "name": "Александр",
+        "patronymic": "Викторович",
+        "phone": "+7-900-208-71-33",
+        "surname": "Дроздов"
+    }
+]

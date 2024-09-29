@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug/7_User_Form_autogen",
+	"CMAKE_BINARY_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form",
+	"CMAKE_SOURCE_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug/7_User_Form_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/icons8-male-50.png",
+		"/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/icons8-female-50.png"
+	],
+	"LOCK_FILE" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug/CMakeFiles/7_User_Form_autogen.dir/AutoRcc_imageF_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "imageF" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_imageF.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/build/Desktop-Debug/CMakeFiles/7_User_Form_autogen.dir/AutoRcc_imageF_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/7_User_Form/imageF.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

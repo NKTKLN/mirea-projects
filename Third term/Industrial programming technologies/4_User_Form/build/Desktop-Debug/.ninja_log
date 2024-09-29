@@ -1,0 +1,27 @@
+# ninja log v6
+3	197	1727407443115897100	4_User_Form_autogen/timestamp	995faeff127300e7
+3	197	1727407443115897100	4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+3	197	1727407443115897100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/timestamp	995faeff127300e7
+3	197	1727407443115897100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+212	1597	1727407443144520900	CMakeFiles/4_User_Form.dir/4_User_Form_autogen/mocs_compilation.cpp.o	9287b84f824b04a2
+212	1647	1727407443144795000	CMakeFiles/4_User_Form.dir/main.cpp.o	322a4f11e4ad09cb
+213	1834	1727407443145079600	CMakeFiles/4_User_Form.dir/userform.cpp.o	fbbf871b4aea1506
+1835	2110	1727407444767245800	4_User_Form	308593f576e57b1e
+4	41	1727524108022928300	4_User_Form_autogen/timestamp	995faeff127300e7
+4	41	1727524108022928300	4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+4	41	1727524108022928300	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/timestamp	995faeff127300e7
+4	41	1727524108022928300	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+42	1749	1727524108061053200	CMakeFiles/4_User_Form.dir/userform.cpp.o	fbbf871b4aea1506
+1749	2096	1727524109767918000	4_User_Form	308593f576e57b1e
+4	35	1727524185625011500	4_User_Form_autogen/timestamp	995faeff127300e7
+4	35	1727524185625011500	4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+4	35	1727524185625011500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/timestamp	995faeff127300e7
+4	35	1727524185625011500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+35	1712	1727524185656457700	CMakeFiles/4_User_Form.dir/userform.cpp.o	fbbf871b4aea1506
+1713	2043	1727524187333870500	4_User_Form	308593f576e57b1e
+5	43	1727524227038612000	4_User_Form_autogen/timestamp	995faeff127300e7
+5	43	1727524227038612000	4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+5	43	1727524227038612000	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/timestamp	995faeff127300e7
+5	43	1727524227038612000	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug/4_User_Form_autogen/mocs_compilation.cpp	995faeff127300e7
+44	1745	1727524227077620000	CMakeFiles/4_User_Form.dir/userform.cpp.o	fbbf871b4aea1506
+1745	2112	1727524228779546700	4_User_Form	308593f576e57b1e

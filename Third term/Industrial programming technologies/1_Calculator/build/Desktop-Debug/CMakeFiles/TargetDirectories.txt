@@ -1,0 +1,9 @@
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/Calculator.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/install.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Calculator/build/Desktop-Debug/CMakeFiles/Calculator_autogen.dir

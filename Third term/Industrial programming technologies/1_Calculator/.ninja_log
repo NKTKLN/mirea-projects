@@ -1,0 +1,18 @@
+# ninja log v6
+2	227	1727267384745859600	Calculator_autogen/timestamp	840bb77fc78304ae
+2	227	1727267384745859600	Calculator_autogen/mocs_compilation.cpp	840bb77fc78304ae
+244	2538	1727267384775032500	CMakeFiles/Calculator.dir/calculator.cpp.o	2ad87c8a3b911e33
+2	227	1727267384745859600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/1_Calculator/Calculator_autogen/timestamp	840bb77fc78304ae
+2	227	1727267384745859600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/1_Calculator/Calculator_autogen/mocs_compilation.cpp	840bb77fc78304ae
+2540	3012	1727267387070339400	Calculator	1de1baaa9959b7c9
+244	2136	1727267384773803300	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	f3e2b99f7473be1c
+244	2393	1727267384774071900	CMakeFiles/Calculator.dir/main.cpp.o	ae4e9801ca14c29b
+4	234	1727409504853673700	Calculator_autogen/timestamp	840bb77fc78304ae
+4	234	1727409504853673700	Calculator_autogen/mocs_compilation.cpp	840bb77fc78304ae
+4	234	1727409504853673700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/1_Calculator/Calculator_autogen/timestamp	840bb77fc78304ae
+4	234	1727409504853673700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/1_Calculator/Calculator_autogen/mocs_compilation.cpp	840bb77fc78304ae
+236	1803	1727409504865044700	CMakeFiles/Calculator.dir/main.cpp.o	ae4e9801ca14c29b
+235	1882	1727409504864753500	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	f3e2b99f7473be1c
+236	2165	1727409504865796300	CMakeFiles/Calculator.dir/calculator.cpp.o	2ad87c8a3b911e33
+2166	2441	1727409506795040800	Calculator	1de1baaa9959b7c9
+2	247	1727409543607654500	Calculator	1de1baaa9959b7c9

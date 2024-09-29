@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-15921bb3b66afc182b9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4_User_Form",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4_User_Form::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_User_Form-Debug-9e26b5cd1f3a717549fe.json",
+					"name" : "4_User_Form",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_User_Form_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_User_Form_autogen-Debug-2f9d10e62e6c729ce1df.json",
+					"name" : "4_User_Form_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4_User_Form_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_User_Form_autogen_timestamp_deps-Debug-db84e6983b0415f08c4c.json",
+					"name" : "4_User_Form_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form/build/Desktop-Debug",
+		"source" : "/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/4_User_Form"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

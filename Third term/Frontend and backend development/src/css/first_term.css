@@ -1,0 +1,34 @@
+/* Общие стили для таблицы */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+/* Стили для ячеек */
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+/* Фон заголовков */
+th {
+  background-color: #f2f2f2;
+}
+
+/* Чередование цветов строк */
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #e9e9e9;
+}
+
+/* Размер чекбоксов */
+.checkbox {
+  width: 18px;
+  height: 18px;
+}

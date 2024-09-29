@@ -1,0 +1,23 @@
+# ninja log v6
+1	148	1727291295868003800	8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+1	148	1727291295868003800	8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+1	148	1727291295868003800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+1	148	1727291295868003800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+158	1426	1727291295888304500	CMakeFiles/8_User_Form.dir/main.cpp.o	1777bc439dae04c6
+158	1442	1727291295887960400	CMakeFiles/8_User_Form.dir/8_User_Form_autogen/mocs_compilation.cpp.o	dbffec4a6a14d6bb
+159	2001	1727291295888585300	CMakeFiles/8_User_Form.dir/userform.cpp.o	eda11dc9df43902a
+2002	2344	1727291297731505400	8_User_Form	eb944a1a2c769984
+3	27	1727291704282921800	8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+3	27	1727291704282921800	8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+3	27	1727291704282921800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+3	27	1727291704282921800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+27	1293	1727291704307142400	CMakeFiles/8_User_Form.dir/userform.cpp.o	eda11dc9df43902a
+1293	1564	1727291705572813400	8_User_Form	eb944a1a2c769984
+4	126	1727406338141836900	8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+4	126	1727406338141836900	8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+4	126	1727406338141836900	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/timestamp	77f2cbdf8926ac73
+4	126	1727406338141836900	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/8_User_Form/build/Desktop-Debug/8_User_Form_autogen/mocs_compilation.cpp	77f2cbdf8926ac73
+126	1062	1727406338149800400	CMakeFiles/8_User_Form.dir/8_User_Form_autogen/mocs_compilation.cpp.o	dbffec4a6a14d6bb
+126	1243	1727406338149995300	CMakeFiles/8_User_Form.dir/main.cpp.o	1777bc439dae04c6
+127	1606	1727406338150149000	CMakeFiles/8_User_Form.dir/userform.cpp.o	eda11dc9df43902a
+1606	1869	1727406339629256500	8_User_Form	eb944a1a2c769984
