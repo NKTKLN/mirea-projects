@@ -2,6 +2,25 @@
 body {
   border: 2px solid black;
   font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+/* Стили для заголовков */
+h1, h2 {
+  color: black;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 10px 0;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 5px 0;
 }
 
 /* Общий контейнер для flex элементов */
@@ -9,7 +28,7 @@ body {
   display: flex;
 }
 
-/* Стили для иконок */
+/* Стили для логотипа */
 .icon {
   width: 32px;
   height: 32px;
@@ -22,52 +41,175 @@ body {
   padding: 5px;
   margin: 0 auto;
   border: 2px solid black;
+  max-width: 100%;
 }
 
-/* Стили для информации в шапке и футере */
-.header-info,
-footer {
+.user-info {
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+}
+
+/* Стили для шапки */
+.header-info {
+  display: flex;
+  align-items: center;
   justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  font-size: 1em;
 }
 
 /* Стили для навигации в шапке */
 .header-navigation {
+  display: flex;
+  justify-content: center;
   padding: 15px;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
 }
 
-/* Общие стили для ссылок в шапке, на странице и в футере */
-.header-navigation-link,
-.page-navigation-link,
-.footer-navigation-link {
+/* Стили для ссылок в шапке */
+.header-navigation-link {
   margin: 0 10px;
   color: black;
   text-decoration: none;
+  font-size: 1.2em;
 }
 
-/* Стили для наведения курсора на ссылки */
-.header-navigation-link:hover,
-.page-navigation-link:hover {
+.header-navigation-link:hover {
+  color: #555;
   text-decoration: underline;
+}
+
+.header-navigation-link:active {
+  color: #333;
 }
 
 /* Стили для навигации по странице */
 .page-navigation {
-  width: 30%;
+  width: 20%;
   border-right: 2px solid black;
   padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.page-navigation ul {
+  padding: 0;
+  list-style: none;
+}
+
+.page-navigation-link {
+  color: black;
+  text-decoration: none;
+  display: block;
+  padding: 5px 0;
+}
+
+.page-navigation-link:hover {
+  color: #555;
+  text-decoration: underline;
 }
 
 /* Основной контент страницы */
 .page-info {
-  padding: 10px;
+  padding: 20px;
+  width: 70%;
 }
 
 /* Стили для футера */
-footer {
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f0f0f0;
   border-top: 2px solid black;
+}
+
+/* Стили для иконок в футере */
+.footer-navigation-link {
+  margin: 0 10px;
+}
+
+.footer-navigation-link img {
+  width: 24px;
+  height: 24px;
+}
+
+/* Стили для форм */
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+input,
+button {
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+/* Стили для таблиц */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+/* Основные стили для заголовков */
+.main-heading {
+  font-size: 2.5em;
+  color: black;
+  text-align: center;
+}
+
+.sub-heading {
+  font-size: 2em;
+  color: #333;
+}
+
+/* Стили для параграфов */
+.text-paragraph {
+  font-size: 1.2em;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+/* Псевдоклассы для ссылок */
+.header-navigation-link:hover,
+.page-navigation-link:hover {
+  color: #0073e6;
+  text-decoration: underline;
+}
+
+.header-navigation-link:active,
+.page-navigation-link:active {
+  color: #005bb5;
+}
+
+/* Стили для логотипа */
+.header-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

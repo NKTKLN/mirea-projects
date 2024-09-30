@@ -12,7 +12,7 @@
       <!-- Информация в шапке сайта -->
       <div class="header-info">
         <!-- Логотип -->
-        <div>
+        <div class="header-logo">
           <img
             src="src/img/earth-europe-solid.svg"
             alt="Логотип"
@@ -21,8 +21,8 @@
         </div>
         <!-- Основная информация -->
         <div>
-          <p>Группа: <u>ЭФБО-09-23</u></p>
-          <p>Калинин Никита Викторович</p>
+          <p class="text-paragraph">Группа: <u>ЭФБО-09-23</u></p>
+          <p class="text-paragraph">Калинин Никита Викторович</p>
         </div>
       </div>
       <!-- Основная навигация в шапке -->
@@ -31,7 +31,7 @@
         <a href="first_term.html" class="header-navigation-link"
           >Первый семестр</a
         >
-        <a href="second_term" class="header-navigation-link">Второй семестр</a>
+        <a href="second_term.html" class="header-navigation-link">Второй семестр</a>
         <a href="services.html" class="header-navigation-link">Услуги</a>
         <a href="#" class="header-navigation-link">Авторизация</a>
       </nav>
@@ -53,8 +53,8 @@
       <!-- Основной контент страницы -->
       <main class="page-info">
         <!-- Заголовок страницы -->
-        <h1>Добро пожаловать на мой сайт</h1>
-        <div class="container">
+        <h1 class="main-heading">Добро пожаловать на мой сайт</h1>
+        <article class="user-info">
           <!-- Введение -->
           <p style="width: 50%">
             Меня зовут Иванов Иван Иванович и я начинающий специалист по
@@ -62,10 +62,10 @@
           </p>
           <!-- Изображение пользователя -->
           <img src="src/img/user-solid.svg" alt="user" class="user-image" />
-        </div>
+        </article>
         <!-- Раздел о фронтенде -->
         <section>
-          <h2 id="frontend-header">Фронтенд</h2>
+          <h2 id="frontend-header" class="sub-heading">Фронтенд</h2>
           <p>
             Фронтенд (Frontend) — это часть веб-разработки, которая отвечает за
             создание пользовательского интерфейса и взаимодействие пользователя
@@ -130,7 +130,7 @@
         </section>
         <!-- Раздел о бэкенде -->
         <section>
-          <h2 id="backend-header">Бэкенд</h2>
+          <h2 id="backend-header" class="sub-heading">Бэкенд</h2>
           <p>
             Бэкенд (Backend) — это часть веб-разработки, которая отвечает за
             серверную логику, работу с базами данных и общую инфраструктуру,

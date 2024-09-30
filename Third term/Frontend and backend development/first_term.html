@@ -13,17 +13,17 @@
       <!-- Информация в шапке сайта -->
       <div class="header-info">
         <!-- Логотип -->
-        <div>
+        <div class="header-logo">
           <img
             src="src/img/earth-europe-solid.svg"
             alt="Логотип"
             class="icon" />
-          <p>Лого</p>
+          <p class="text-paragraph">Лого</p>
         </div>
         <!-- Основная информация -->
         <div>
-          <p>Группа: <u>ЭФБО-09-23</u></p>
-          <p>Калинин Никита Викторович</p>
+          <p class="text-paragraph">Группа: <u>ЭФБО-09-23</u></p>
+          <p class="text-paragraph">Калинин Никита Викторович</p>
         </div>
       </div>
       <!-- Основная навигация в шапке -->
@@ -32,7 +32,9 @@
         <a href="first_term.html" class="header-navigation-link"
           >Первый семестр</a
         >
-        <a href="second_term" class="header-navigation-link">Второй семестр</a>
+        <a href="second_term.html" class="header-navigation-link"
+          >Второй семестр</a
+        >
         <a href="services.html" class="header-navigation-link">Услуги</a>
         <a href="#" class="header-navigation-link">Авторизация</a>
       </nav>
@@ -41,7 +43,7 @@
     <div class="container">
       <!-- Навигация по странице -->
       <nav class="page-navigation">
-        <p>Навигация по странице</p>
+        <p class="text-paragraph">Навигация по странице</p>
         <ul style="padding: 0; list-style: none">
           <li>
             <a href="#1" class="page-navigation-link">Лекции</a>
@@ -50,8 +52,8 @@
             <a href="#2" class="page-navigation-link">Практики</a>
           </li>
           <li>
-            <a href="#3" class="page-navigation-link">
-              Занятия проходят по адресу</a
+            <a href="#3" class="page-navigation-link"
+              >Занятия проходят по адресу</a
             >
           </li>
           <li>
@@ -61,11 +63,11 @@
       </nav>
       <!-- Основной контент страницы -->
       <main class="page-info">
-        <h1>Первый семестр</h1>
+        <h1 class="main-heading">Первый семестр</h1>
 
         <!-- Секция с лекциями -->
         <section>
-          <h2 id="1">Лекции</h2>
+          <h2 id="1" class="sub-heading">Лекции</h2>
           <table>
             <thead>
               <tr>
@@ -161,7 +163,7 @@
 
         <!-- Секция с практиками -->
         <section>
-          <h2 id="2">Практики</h2>
+          <h2 id="2" class="sub-heading">Практики</h2>
           <table>
             <thead>
               <tr>
@@ -436,10 +438,10 @@
 
         <!-- Секция с адресом занятий -->
         <section>
-          <h2 id="3">
-            Занятия проходят по адресу
+          <h2 id="3" class="sub-heading">Занятия проходят по адресу</h2>
+          <p class="text-paragraph">
             <u>Москва, проспект Вернадского, 78, стр. 4</u>
-          </h2>
+          </p>
           <div style="position: relative; overflow: hidden">
             <a
               href="https://yandex.ru/maps/org/mirea_rossiyskiy_tekhnologicheskiy_universitet/1084832794/?utm_medium=mapframe&utm_source=maps"
@@ -466,7 +468,7 @@
 
         <!-- Секция с рабочей программой -->
         <section>
-          <h2 id="4">Рабочая программа</h2>
+          <h2 id="4" class="sub-heading">Рабочая программа</h2>
           <object
             data="src/pdf/3.pdf"
             type="application/pdf"

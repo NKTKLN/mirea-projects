@@ -3,8 +3,14 @@
   border: 2px solid black;
   margin: 0 auto;
   display: flex;
-  flex-direction: column; /* Элементы располагаются вертикально */
-  align-items: center; /* Центрируем элементы по горизонтали */
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.site-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
 /* Стили для изображений сайтов */
@@ -23,7 +29,7 @@
 
 /* Основной стиль для модального окна */
 .modal {
-  display: none; /* Скрыто по умолчанию */
+  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -59,7 +65,7 @@
   cursor: pointer;
 }
 
-/* Стиль для формы внутри модального окна */
+/* Стили для формы внутри модального окна */
 form {
   display: flex;
   flex-direction: column;
@@ -76,6 +82,7 @@ textarea {
   border: 1px solid black;
 }
 
+/* Стили для кнопок */
 button {
   padding: 5px;
   margin: 10px;
