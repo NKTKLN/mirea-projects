@@ -2,7 +2,7 @@ using System;
 
 class MatrixCalculator
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Console.Write("Введите количество строк n для первой матрицы: ");
         int n = int.Parse(Console.ReadLine());
