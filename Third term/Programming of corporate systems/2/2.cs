@@ -1,35 +1,38 @@
 using System;
 
-class ATMProgram
+class LuckyTicket
 {
     static void Main()
     {
-        int[] banknotes = { 5000, 2000, 1000, 500, 200, 100 };
+        const int ticketLen = 6;
 
-        Console.Write("Введите сумму, которую хотите обналичить: ");
-        int amount = int.Parse(Console.ReadLine());
+        Console.Write("Введите номер билета: ");
+        int ticketNumber = int.Parse(Console.ReadLine());
 
-        if (amount > 150000)
+        int firstSum = 0;
+        int secondSum = 0;
+
+        for (int i = 0; i < ticketLen; i++)
         {
-            Console.WriteLine("Cумма должна быть меньше 150 000 рублей");
-            return;
-        }
-
-        if (amount % 100 != 0)
-        {
-            Console.WriteLine("Cумма должна быть кратна 100");
-            return;
-        }
-
-        Console.WriteLine("Купюры:");
-        foreach (int note in banknotes)
-        {
-            int count = amount / note;
-            if (count > 0)
+            if (i < ticketLen / 2)
             {
-                Console.WriteLine($"{count} - {note} руб");
-                amount -= count * note;
+                secondSum += ticketNumber % 10;
             }
+            else
+            {
+                firstSum += ticketNumber % 10;
+            }
+
+            ticketNumber /= 10;
+        }
+
+        if (firstSum == secondSum)
+        {
+            Console.WriteLine("Счастливый билет.");
+        }
+        else
+        {
+            Console.WriteLine("Не счастливый билет.");
         }
     }
 }

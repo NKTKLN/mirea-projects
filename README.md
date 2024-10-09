@@ -1,7 +1,5 @@
 # Mirea projects
 
-***project codename:*** Lucy
-
 This repository was created for saving and transferring MIREA Institute assignment solutions.
 
 ## First term
@@ -19,8 +17,8 @@ This repository was created for saving and transferring MIREA Institute assignme
 
 ## Third term
 
-* [Discrete math](/Third%20term/Discrete%20math)
-* [Industrial programming technologies](/Third%20term/Industrial%20programming%20technologies)
-* [Frontend and backend development](/Third%20term/Frontend%20and%20backend%20development)
-* [Programming of corporate systems](/Third%20term/Programming%20of%20corporate%20systems)
 * [Artificial intelligence systems and big data](/Third%20term/Artificial%20intelligence%20systems%20and%20big%20data)
+* [Discrete math](/Third%20term/Discrete%20math)
+* [Frontend and backend development](/Third%20term/Frontend%20and%20backend%20development)
+* [Industrial programming technologies](/Third%20term/Industrial%20programming%20technologies)
+* [Programming of corporate systems](/Third%20term/Programming%20of%20corporate%20systems)

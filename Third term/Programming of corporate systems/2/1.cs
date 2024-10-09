@@ -1,28 +1,45 @@
 using System;
 
-class CalendarProgram
+class MaclaurinSeries
 {
     static void Main()
     {
-        Console.Write("Введите номер дня недели, с которого начинается месяц (1-пн, ..., 7-вс): ");
-        int firstDayOfWeek = int.Parse(Console.ReadLine());
-        if (firstDayOfWeek < 1 || firstDayOfWeek > 7)
+        Console.WriteLine("0 - Вычисление значения функции с заданной точностью");
+        Console.WriteLine("1 - Вычисление n-го члена ряда");
+        Console.Write("Выберите режим работы: ");
+        int choice = int.Parse(Console.ReadLine());
+
+        Console.Write("Введите x (-1 < x <= 1): ");
+        double x = double.Parse(Console.ReadLine());
+
+        int n_max = 1;
+        double e = 0.05;
+
+        switch (choice)
         {
-            Console.WriteLine("Неверный номер дня недели");
-            return;
+            case 0:
+                Console.Write("Введите точность e (e < 0.01): ");
+                e = double.Parse(Console.ReadLine());
+                break;
+
+            case 1:
+                Console.Write("Введите номер члена ряда n (n > 0): ");
+                n_max = int.Parse(Console.ReadLine());
+                break;
         }
 
-        Console.Write("Введите день месяца (1-31): ");
-        int dayOfMonth = int.Parse(Console.ReadLine());
-        if (dayOfMonth < 1 || dayOfMonth > 31)
-        {
-            Console.WriteLine("Неверный день месяца");
-            return;
-        }
+        double result = 0;
+        double term;
+        int n = 1;
 
-        int dayOfWeek = (firstDayOfWeek + (dayOfMonth - 1)) % 7;
-        if (dayOfMonth <= 5 || (dayOfMoynth >= 8 && dayOfMonth <= 10) || dayOfWeek == 6 || dayOfWeek == 0)
-            Console.WriteLine("Выходной день");
-        else Console.WriteLine("Рабочий день");
+        do
+        {
+            term = Math.Pow(-1, n + 1) * Math.Pow(x, n) / n;
+            result += term;
+            n++;
+        }
+        while ((choice == 0 && Math.Abs(term) > e) || (choice == 1 && n <= n_max));
+
+        Console.WriteLine($"Значение функции f(x): {result}");
     }
 }
