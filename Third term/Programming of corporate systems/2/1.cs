@@ -32,13 +32,16 @@ class MaclaurinSeries
         double term;
         int n = 1;
 
-        do
+        while (true)
         {
             term = Math.Pow(-1, n + 1) * Math.Pow(x, n) / n;
+            if ((choice == 0 && Math.Abs(term) > e) || (choice == 1 && n <= n_max))
+            {
+              break;
+            }
             result += term;
             n++;
         }
-        while ((choice == 0 && Math.Abs(term) > e) || (choice == 1 && n <= n_max));
 
         Console.WriteLine($"Значение функции f(x): {result}");
     }

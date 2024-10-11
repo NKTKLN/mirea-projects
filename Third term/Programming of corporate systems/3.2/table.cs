@@ -27,6 +27,14 @@ public class Table
         {
             throw new Exception("Некорректное колличество мест.");
         }
+        
+        for (int hour = 0; hour < 24; hour++)
+        {
+            if (Availability[hour] != null)
+            {
+                throw new Exception("Стол занят в это время.");
+            }
+        }
 
         Location = location;
         SeatsCount = seatsCount;
