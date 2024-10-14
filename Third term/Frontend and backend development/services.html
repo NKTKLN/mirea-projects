@@ -60,7 +60,16 @@
           <li>
             <a href="#site3" class="page-navigation-link">Интернет-магазин</a>
           </li>
-        </ul>
+          <li>
+            <a href="#site4" class="page-navigation-link">Лендинг</a>
+          </li>
+          <li>
+            <a href="#site5" class="page-navigation-link">Блог</a>
+          </li>
+          <li>
+            <a href="#site6" class="page-navigation-link">Портфолио</a>
+          </li>
+        </ul>        
       </nav>
       <!-- Основной контент страницы -->
       <main class="page-info">
@@ -120,6 +129,10 @@
                 <option id="business" value="business">Сайт-визитка</option>
                 <option id="corp" value="corp">Корпоративный сайт</option>
                 <option id="shop" value="shop">Интернет-магазин</option>
+
+                <option id="landing" value="landing">Лендинг</option>
+                <option id="blog" value="blog">Блог</option>
+                <option id="portfolio" value="portfolio">Портфолио</option>
               </select>
 
               <div class="data-consent">
@@ -137,63 +150,117 @@
         </div>
         <!-- Заголовок страницы -->
         <h1 class="page-title">Разработка веб-приложений</h1>
-        <!-- Карточки сайтов -->
-        <div class="container">
-          <div class="site-card">
-            <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
-            <p class="site-card-text">Сайт-визитка</p>
-            <button id="openModalBtn" data-modal="business">Заказать</button>
-          </div>
-          <div class="site-card">
-            <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
-            <p class="site-card-text">Корпоративный сайт</p>
-            <button id="openModalBtn" data-modal="corp">Заказать</button>
-          </div>
-          <div class="site-card">
-            <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
-            <p class="site-card-text">Интернет-магазин</p>
-            <button id="openModalBtn" data-modal="shop">Заказать</button>
-          </div>
+        <div class="grid-container">
+          <!-- Карточки сайтов -->
+          <div class="flex-container">
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Сайт-визитка</p>
+              <button id="openModalBtn" data-modal="business">Заказать</button>
+            </div>
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Корпоративный сайт</p>
+              <button id="openModalBtn" data-modal="corp">Заказать</button>
+            </div>
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Интернет-магазин</p>
+              <button id="openModalBtn" data-modal="shop">Заказать</button>
+            </div>
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Лендинг</p>
+              <button id="openModalBtn" data-modal="landing">Заказать</button>
+            </div>
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Блог</p>
+              <button id="openModalBtn" data-modal="blog">Заказать</button>
+            </div>
+            <div class="site-card">
+              <img src="src/img/xmark-solid.svg" alt="site" class="site-image" />
+              <p class="site-card-text">Портфолио</p>
+              <button id="openModalBtn" data-modal="portfolio">Заказать</button>
+            </div>
+          </div>            
+          <section class="grid-item">
+            <h2 id="site1" class="service-title">Сайт-визитка</h2>
+            <p class="service-text">
+              Сайт-визитка — это небольшой веб-сайт, который представляет собой
+              цифровую визитную карточку компании, специалиста или бренда. Такой
+              сайт обычно состоит из нескольких страниц и содержит основную
+              информацию: название компании, виды деятельности, контактные данные,
+              а также ссылки на социальные сети. Основная цель сайта-визитки — это
+              предоставление краткой и точной информации о компании или человеке.
+              Это простой и быстрый способ создать присутствие в интернете без
+              значительных затрат.
+            </p>
+          </section>
+          <section class="grid-item">
+            <h2 id="site2" class="service-title">Корпоративный сайт</h2>
+            <p class="service-text">
+              Корпоративный сайт — это полноценный веб-ресурс, который
+              представляет компанию в интернете. Такой сайт может включать
+              множество страниц и разделов: информацию о компании, услугах и
+              продуктах, новости, блоги, разделы для клиентов и партнёров,
+              контактные данные, формы обратной связи и многое другое.
+              Корпоративный сайт обычно имеет сложную структуру и предназначен для
+              создания профессионального имиджа компании, улучшения взаимодействия
+              с клиентами, партнёрами и сотрудниками, а также для продвижения
+              товаров и услуг.
+            </p>
+          </section>
+          <section class="grid-item">
+            <h2 id="site3" class="service-title">Интернет-магазин</h2>
+            <p class="service-text">
+              Интернет-магазин — это веб-сайт, который позволяет пользователям
+              покупать товары или услуги онлайн. Такой сайт включает каталог
+              товаров, корзину покупок, систему оформления заказа, методы оплаты и
+              доставки. Интернет-магазины могут включать также личные кабинеты для
+              пользователей, где они могут отслеживать заказы, оставлять отзывы,
+              просматривать историю покупок. Основная цель интернет-магазина — это
+              обеспечение удобства покупок и увеличение продаж через интернет.
+            </p>
+          </section>
+          <section class="grid-item">
+            <h2 id="site4" class="service-title">Лендинг</h2>
+            <p class="service-text">
+              Лендинг (Landing Page) — это одностраничный сайт, созданный с целью
+              продвижения конкретного товара, услуги или мероприятия. Основная задача
+              лендинга — побудить пользователя к совершению целевого действия, например,
+              к покупке, регистрации или подписке. Лендинг часто используется в рекламных
+              кампаниях для повышения конверсии и привлечения клиентов. Важными элементами
+              лендинга являются привлекательный дизайн, призывы к действию и простая форма
+              для заполнения, которая позволяет посетителям быстро совершить целевое
+              действие.
+            </p>
+          </section>
+          <section class="grid-item">
+            <h2 id="site5" class="service-title">Блог</h2>
+            <p class="service-text">
+              Блог — это веб-сайт или его часть, предназначенная для регулярного
+              опубликования статей, новостей, заметок и других материалов. Блоги часто
+              используются как средство для личного самовыражения или как инструмент
+              продвижения брендов и компаний. В блогах публикуются материалы на различные
+              темы, включая обзоры, советы, новости и мнения авторов. Основная цель блога
+              — привлечение аудитории, увеличение посещаемости сайта и взаимодействие с
+              читателями через комментарии и социальные сети.
+            </p>
+          </section>
+          <section class="grid-item">
+            <h2 id="site6" class="service-title">Портфолио</h2>
+            <p class="service-text">
+              Портфолио — это веб-сайт, созданный для демонстрации работы и достижений
+              профессионалов в различных сферах, таких как дизайн, фотография, искусство
+              или веб-разработка. Основная задача портфолио — предоставить потенциальным
+              клиентам или работодателям наглядный пример выполненных проектов и умений.
+              На сайте портфолио можно найти галереи работ, отзывы клиентов, биографию
+              автора и контактную информацию для связи. Такой сайт помогает продвигать
+              личный бренд и привлекать новых заказчиков или работодателей.
+            </p>
+          </section>        
         </div>
-        <section class="service-description">
-          <h2 id="site1" class="service-title">Сайт-визитка</h2>
-          <p class="service-text">
-            Сайт-визитка — это небольшой веб-сайт, который представляет собой
-            цифровую визитную карточку компании, специалиста или бренда. Такой
-            сайт обычно состоит из нескольких страниц и содержит основную
-            информацию: название компании, виды деятельности, контактные данные,
-            а также ссылки на социальные сети. Основная цель сайта-визитки — это
-            предоставление краткой и точной информации о компании или человеке.
-            Это простой и быстрый способ создать присутствие в интернете без
-            значительных затрат.
-          </p>
-        </section>
-        <section class="service-description">
-          <h2 id="site2" class="service-title">Корпоративный сайт</h2>
-          <p class="service-text">
-            Корпоративный сайт — это полноценный веб-ресурс, который
-            представляет компанию в интернете. Такой сайт может включать
-            множество страниц и разделов: информацию о компании, услугах и
-            продуктах, новости, блоги, разделы для клиентов и партнёров,
-            контактные данные, формы обратной связи и многое другое.
-            Корпоративный сайт обычно имеет сложную структуру и предназначен для
-            создания профессионального имиджа компании, улучшения взаимодействия
-            с клиентами, партнёрами и сотрудниками, а также для продвижения
-            товаров и услуг.
-          </p>
-        </section>
-        <section class="service-description">
-          <h2 id="site3" class="service-title">Интернет-магазин</h2>
-          <p class="service-text">
-            Интернет-магазин — это веб-сайт, который позволяет пользователям
-            покупать товары или услуги онлайн. Такой сайт включает каталог
-            товаров, корзину покупок, систему оформления заказа, методы оплаты и
-            доставки. Интернет-магазины могут включать также личные кабинеты для
-            пользователей, где они могут отслеживать заказы, оставлять отзывы,
-            просматривать историю покупок. Основная цель интернет-магазина — это
-            обеспечение удобства покупок и увеличение продаж через интернет.
-          </p>
-        </section>
       </main>
     </div>
 
@@ -228,7 +295,7 @@
       });
     </script>
     <script>
-      // Получаем модальное окно и кнопку открытия
+      // Получаем модальное окно и кнопки открытия
       const modal = document.getElementById("modal");
       const openModalButtons = document.querySelectorAll("#openModalBtn");
       const closeBtn = document.getElementsByClassName("close")[0];
@@ -238,7 +305,16 @@
         button.onclick = function () {
           const selected = button.getAttribute("data-modal");
           const option = document.getElementById(selected);
+
+          // Сбрасываем выделение всех опций перед установкой новой
+          document.querySelectorAll("[id^='business'], [id^='corp'], [id^='shop'], [id^='landing'], [id^='blog'], [id^='portfolio']").forEach(opt => {
+            opt.removeAttribute("selected");
+          });
+
+          // Устанавливаем "selected" для выбранной опции
           option.setAttribute("selected", "selected");
+
+          // Открываем модальное окно
           modal.style.display = "block";
         };
       });
@@ -246,20 +322,37 @@
       // Функция для закрытия модального окна
       closeBtn.onclick = function () {
         modal.style.display = "none";
-        document.getElementById("business").removeAttribute("selected");
-        document.getElementById("corp").removeAttribute("selected");
-        document.getElementById("shop").removeAttribute("selected");
+        resetSelection();
       };
 
       // Закрытие модального окна при клике вне его области
       window.onclick = function (event) {
         if (event.target === modal) {
           modal.style.display = "none";
-          document.getElementById("business").removeAttribute("selected");
-          document.getElementById("corp").removeAttribute("selected");
-          document.getElementById("shop").removeAttribute("selected");
+          resetSelection();
         }
       };
+
+      // Сброс выбора опций
+      function resetSelection() {
+        document.querySelectorAll("[id^='business'], [id^='corp'], [id^='shop'], [id^='landing'], [id^='blog'], [id^='portfolio']").forEach(opt => {
+          opt.removeAttribute("selected");
+        });
+      }
+    </script>
+    <script>
+      // Получаем текущий URL
+      const currentPage = window.location.pathname.split("/").pop();
+
+      // Получаем все ссылки навигации
+      const navLinks = document.querySelectorAll(".header-navigation-link");
+
+      // Устанавливаем класс active для текущей страницы
+      navLinks.forEach(link => {
+        if (link.getAttribute("href") === currentPage) {
+          link.classList.add("active");
+        }
+      });
     </script>
   </body>
 </html>
