@@ -1,4 +1,15 @@
 /* Общие стили для таблицы */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.table-container {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -31,4 +42,14 @@ tbody tr:nth-child(odd) {
 .checkbox {
   width: 18px;
   height: 18px;
+}
+
+@media (max-width: 800px) {
+  .table-container {
+    overflow-x: auto;
+  }
+
+  table {
+    min-width: 800px;
+  }
 }

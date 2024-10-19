@@ -2,8 +2,8 @@ using System;
 
 class BookingSystem
 {
-    private Table[] tables;
-    private Reservation[] reservations;
+    private static Table[] tables;
+    private static Reservation[] reservations;
 
     public BookingSystem()
     {
@@ -33,87 +33,94 @@ class BookingSystem
         BookingSystem bookingSystem = new BookingSystem();
 
         Console.WriteLine("\nИнформация о столе 1:");
-        bookingSystem.tables[0].PrintInfo();
-        bookingSystem.tables[0].UpdateInfo("у окна с видом", 5);
-
-        Console.WriteLine("\nПосле изменения информации о столе 1:");
-        bookingSystem.tables[0].PrintInfo();
-
-        Console.WriteLine("\nОсвобождение брони на столе 1 с 10 до 12:");
-        bookingSystem.tables[0].Release(10, 12);
-        bookingSystem.tables[0].PrintInfo();
-
-        try
-        {
-            Console.WriteLine("\nПробуем сделать новую бронь на время, когда стол уже занят:");
-            bookingSystem.reservations[2] = new Reservation(3, "Сидоров Сидор", "81234567890", 11, 14, "Обед", bookingSystem.tables[0]);
-            bookingSystem.tables[0].Reserve(11, 14, bookingSystem.reservations[2]);
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-
-        Console.WriteLine("\nИнформация о всех столах:");
-        for (int i = 0; i < bookingSystem.tables.Length; i++)
-        {
-            if (bookingSystem.tables[i] != null)
-            {
-                bookingSystem.tables[i].PrintInfo();
-                Console.WriteLine();
-            }
-        }
-
-        try
-        {
-            Console.WriteLine("\nПробуем освободить стол с некорректными часами:");
-            bookingSystem.tables[0].Release(25, 30);
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-
-        Console.WriteLine("\nДоступные столы:");
-        bookingSystem.DisplayAvailableTables("у окна", 4);
-
-        Console.WriteLine("\nВсе бронирования:");
-        bookingSystem.DisplayAllReservations();
-
-        Console.WriteLine("\nПоиск бронирования по последним цифрам номера телефона и имени клиента:");
-        bookingSystem.SearchReservation("7890", "Иванов Иван");
+        PrintTableById(1);
     }
 
-    public void DisplayAvailableTables(string location, int seats)
+    public static void CreateNTables(int count)
+    {
+        for (int n = 0; n < count; n++)
+        {
+            tables[n] = new Table(n, "", n);
+        }
+    }
+
+    public static void CreateNReservations(int count)
+    {   
+        int h = 0;
+        for (int n = 0; n < count; n++)
+        {
+            reservations[n] = new Reservation(n, "Петров Петр", "8987654321", h, h+1, "", tables[n]);
+            h += 2;
+        }
+    }
+
+    public static void UpdateTableById(int tableId, string location, int seatsCount)
     {
         foreach (var table in tables)
         {
-            if (table != null && table.Location == location && table.Seats == seats)
+            if (table != null && table.Id == tableId)
             {
-                table.PrintInfo();
+                table.UpdateInfo(location, seatsCount);
+                return;
             }
         }
     }
 
-    public void DisplayAllReservations()
+    public static void PrintTableById(int tableId)
+    {
+        foreach (var table in tables)
+        {
+            if (table != null && table.Id == tableId)
+            {
+                table.PrintInfo();
+                return;
+            }
+        }
+    }
+
+    public static void DisplayAvailableTablesByLocations(string location)
+    {
+        foreach (var table in tables)
+        {
+            if (table != null && table.Location == location)
+            {
+                table.PrintInfo();
+                Console.WriteLine();
+            }
+        }
+    }
+
+    public static void DisplayAvailableTablesBySeats(int seats)
+    {
+        foreach (var table in tables)
+        {
+            if (table != null && table.SeatsCount == seats)
+            {
+                table.PrintInfo();
+                Console.WriteLine();
+            }
+        }
+    }
+
+    public static void DisplayAllReservations()
     {
         foreach (var reservation in reservations)
         {
             if (reservation != null)
             {
                 reservation.PrintInfo();
+                Console.WriteLine();
             }
         }
     }
 
-    public void SearchReservation(string phoneLast4Digits, string clientName)
+    public static void SearchReservation(string phoneLast4Digits, string clientName)
     {
         foreach (var reservation in reservations)
         {
             if (reservation != null && reservation.ClientName == clientName && reservation.ClientPhone.EndsWith(phoneLast4Digits))
             {
                 reservation.PrintInfo();
-                return;
             }
         }
         Console.WriteLine("Бронирование не найдено.");

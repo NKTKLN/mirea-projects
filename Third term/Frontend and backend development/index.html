@@ -13,10 +13,7 @@
       <div class="header-info">
         <!-- Логотип -->
         <div class="logo-container">
-          <img
-            src="src/img/earth-europe-solid.svg"
-            alt="Логотип"
-            class="icon" />
+          <img src="src/img/earth-europe-solid.svg" alt="Логотип" class="icon" />
           <p class="logo-text">Лого</p>
         </div>
         <!-- Основная информация -->
@@ -24,29 +21,43 @@
           <p class="group-info">Группа: <u>ЭФБО-09-23</u></p>
           <p class="user-name">Калинин Никита Викторович</p>
         </div>
+        <!-- Кнопка гамбургера для мобильного меню -->
+        <div class="burger-menu" id="burgerMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
       </div>
       <!-- Основная навигация в шапке -->
-      <nav class="header-navigation">
-        <a href="index.html" class="header-navigation-link">Главная страница</a>
-        <a href="first_term.html" class="header-navigation-link"
-          >Первый семестр</a
-        >
-        <a href="second_term.html" class="header-navigation-link">Второй семестр</a>
-        <a href="services.html" class="header-navigation-link">Услуги</a>
-        <a href="#" class="header-navigation-link">Авторизация</a>
+      <nav class="header-navigation" id="headerNav">
+        <a href="index.html" class="header-navigation-link" data-page="index">Главная страница</a>
+        <a href="first_term.html" class="header-navigation-link" data-page="first_term">Первый семестр</a>
+        <a href="second_term.html" class="header-navigation-link" data-page="second_term">Второй семестр</a>
+        <a href="services.html" class="header-navigation-link" data-page="services">Услуги</a>
+        <a href="#" class="header-navigation-link" data-page="login">Авторизация</a>
       </nav>
-    </header>
-
+    </header>    
+  
     <div class="container">
+      <button class="toggle-navigation-btn" id="toggleNavigationBtn">
+        &#9776;
+      </button>
+  
       <!-- Навигация по странице -->
-      <nav class="page-navigation">
-        <p>Навигация по странице</p>
+      <nav class="page-navigation" id="pageNavigation">
+        <p class="text-paragraph">Навигация по странице</p>
         <ul style="padding: 0; list-style: none">
           <li>
-            <a href="#frontend-header" class="page-navigation-link">Фронтенд</a>
+            <a href="#1" class="page-navigation-link">Лекции</a>
           </li>
           <li>
-            <a href="#backend-header" class="page-navigation-link">Бэкенд</a>
+            <a href="#2" class="page-navigation-link">Практики</a>
+          </li>
+          <li>
+            <a href="#3" class="page-navigation-link">Занятия проходят по адресу</a>
+          </li>
+          <li>
+            <a href="#4" class="page-navigation-link">Рабочая программа</a>
           </li>
         </ul>
       </nav>
@@ -125,7 +136,7 @@
             функциональности приложения.
           </p>
 
-          <video width="640" height="360" controls>
+          <video class="responsive-media" controls>
             <source src="src/videos/frontend.mp4" type="video/mp4" />
             Ваш браузер не поддерживает видео-тег.
           </video>
@@ -191,13 +202,15 @@
             также является важной частью работы бэкенд-разработчика.
           </p>
 
-          <video width="640" height="360" controls>
+          <video class="responsive-media" controls>
             <source src="src/videos/backend.mp4" type="video/mp4" />
             Ваш браузер не поддерживает видео-тег.
           </video>
         </section>
       </main>
     </div>
+
+    <button class="scroll-to-top" id="scrollToTopBtn">⬆️</button>
 
     <!-- Футер сайта -->
     <footer class="footer">
@@ -236,6 +249,33 @@
           link.classList.add("active");
         }
       });
+    </script>
+    <script>
+      const burgerMenu = document.getElementById('burgerMenu');
+      const headerNav = document.getElementById('headerNav');
+
+      burgerMenu.addEventListener('click', () => {
+        headerNav.classList.toggle('active');
+      });
+    </script>
+    <script>
+      const toggleNavigationBtn = document.getElementById('toggleNavigationBtn');
+      const pageNavigation = document.getElementById('pageNavigation');
+
+      toggleNavigationBtn.addEventListener('click', () => {
+        pageNavigation.classList.toggle('active');
+        toggleNavigationBtn.classList.toggle('active');
+      });
+    </script>
+    <script>
+      const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+      scrollToTopBtn.onclick = function () {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      };
     </script>
   </body>
 </html>

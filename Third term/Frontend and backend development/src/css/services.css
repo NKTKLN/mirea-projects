@@ -1,9 +1,8 @@
-/* Контейнер для карточек с использованием Flexbox */
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: stretch;
+/* Контейнер с Grid-сеткой */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, auto);
   gap: 20px;
   padding: 20px;
 }
@@ -11,42 +10,36 @@
 /* Стили для карточек сайтов */
 .site-card {
   border: 2px solid black;
-  margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s, box-shadow 0.2s;
-  width: calc(33% - 40px);
 }
 
 .site-card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
-/* Стили для изображений сайтов */
-.site-image {
+/* Контейнер для иконки с использованием Flexbox */
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   height: 200px;
+}
+
+/* Стили для изображений сайтов */
+.site-image {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 /* Стили для текста карточек сайтов */
 .site-card-text {
   margin: 10px;
   text-align: center;
-}
-
-/* Адаптивность для экранов меньшего размера */
-@media (max-width: 1050px) {
-  .site-card {
-    width: calc(50% - 20px); /* Для экранов планшетов */
-  }
-}
-
-@media (max-width: 650px) {
-  .site-card {
-    width: calc(100% - 20px); /* Для мобильных экранов */
-  }
 }
 
 /* Основной стиль для модального окна */
@@ -70,6 +63,7 @@
   border: 2px solid black;
   width: 80%;
   max-width: 500px;
+  overflow-y: auto;
 }
 
 /* Кнопка закрытия модального окна */
@@ -110,4 +104,31 @@ button {
   margin: 10px;
   border: 1px solid black;
   cursor: pointer;
+}
+
+/* Адаптивность для экранов меньшего размера */
+@media (max-width: 1050px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 колонки для экранов планшетов */
+  }
+}
+
+@media (max-width: 650px) {
+  .grid-container {
+    grid-template-columns: 1fr; /* 1 колонка для мобильных экранов */
+  }
+}
+
+@media (max-height: 800px) {
+  .modal-content {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    border: none;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-y: auto;
+  }
 }

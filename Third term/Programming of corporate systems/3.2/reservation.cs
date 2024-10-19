@@ -35,6 +35,17 @@ public class Reservation
         AssignedTable.Reserve(StartHour, EndHour, this);
     }
 
+    public void PrintInfo()
+    {
+        Console.WriteLine($"ClientId: {ClientId}.");
+        Console.WriteLine($"ClientName: {ClientName}.");
+        Console.WriteLine($"ClientPhone: {ClientPhone}.");
+        Console.WriteLine($"StartHour: {StartHour}.");
+        Console.WriteLine($"EndHour: {EndHour}.");
+        Console.WriteLine($"Comment: {Comment}.");
+        Console.WriteLine($"Table Id: {AssignedTable.Id}.");
+    }
+
     ~Reservation()
     {
         AssignedTable.Release(StartHour, EndHour);

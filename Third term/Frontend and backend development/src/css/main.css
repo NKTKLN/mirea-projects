@@ -24,9 +24,9 @@ h2 {
   margin: 5px 0;
 }
 
-/* Общий контейнер для flex элементов */
 .container {
   display: flex;
+  margin-top: 150px;
 }
 
 /* Стили для логотипа */
@@ -69,57 +69,14 @@ h2 {
   font-size: 1.1em;
 }
 
-/* Стили для шапки */
-.header-info {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 10px 20px;
-  background-color: #f0f0f0;
-  font-size: 1em;
-}
-
-/* Стили для навигации в шапке */
-.header-navigation {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 5px;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: #f4f4f4;
-}
-
-/* Стили для ссылок в шапке */
-.header-navigation-link {
-  margin: 0 20px;
-  color: black;
-  text-decoration: none;
-  font-size: 1.2em;
-  padding: 10px;
-}
-
-.header-navigation-link.active {
-  border-radius: 5px;
-  padding: 5px;
-  border: 2px solid black;
-}
-
-.header-navigation-link:hover {
-  color: #555;
-  text-decoration: underline;
-}
-
-.header-navigation-link:active {
-  color: #333;
-}
-
 /* Стили для навигации по странице */
 .page-navigation {
   width: 20%;
   border-right: 2px solid black;
   padding: 10px;
   background-color: #f9f9f9;
+  position: relative;
+  flex-shrink: 0;
 }
 
 .page-navigation ul {
@@ -134,15 +91,23 @@ h2 {
   padding: 5px 0;
 }
 
-.page-navigation-link:hover {
-  color: #555;
-  text-decoration: underline;
+/* Кнопка для отображения навигации на мобильных устройствах */
+.toggle-navigation-btn {
+  display: none;
+  font-size: 2em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  top: 80px;
+  left: 20px;
+  z-index: 11;
 }
 
 /* Основной контент страницы */
 .page-info {
   padding: 20px;
-  width: 70%;
+  width: 100%;
 }
 
 /* Основные стили для заголовков */
@@ -162,30 +127,6 @@ h2 {
   font-size: 1.2em;
   color: #444;
   margin-bottom: 15px;
-}
-
-/* Основной контейнер для сетки */
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: auto;
-  gap: 20px;
-  position: relative;
-}
-
-/* Стили для элементов сетки */
-.grid-item {
-  position: relative;
-  padding: 20px;
-  border: 1px solid #ccc;
-}
-
-/* Абсолютное позиционирование изображения */
-.user-image {
-  position: absolute;
-  left: 80%;
-  width: 55px;
-  height: 55px;
 }
 
 /* Стили для футера */
@@ -231,22 +172,63 @@ button:hover {
   cursor: pointer;
 }
 
-/* Стили для таблиц */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-}
-
-th,
-td {
-  padding: 10px;
-  border: 1px solid black;
-  text-align: left;
-}
-
-th {
+/* Общие стили для шапки */
+.header-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
   background-color: #f0f0f0;
+  font-size: 1em;
+}
+
+.burger-menu {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.burger-menu span {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  margin: 4px;
+  transition: 0.3s;
+}
+
+/* Стили для навигации в шапке */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  background-color: #f4f4f4;
+}
+
+.header-navigation-link {
+  margin: 0 20px;
+  color: black;
+  text-decoration: none;
+  font-size: 1.2em;
+  padding: 10px;
+}
+
+.header-navigation-link.active {
+  border-radius: 5px;
+  padding: 5px;
+  border: 2px solid black;
 }
 
 /* Псевдоклассы для ссылок */
@@ -259,4 +241,87 @@ th {
 .header-navigation-link:active,
 .page-navigation-link:active {
   color: #005bb5;
+}
+
+.responsive-media {
+  width: 640px;
+  height: auto;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  display: block;
+  z-index: 1000;
+}
+
+.scroll-to-top:hover {
+  background-color: #0056b3;
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 868px) {
+  .container {
+    margin-top: 100px;
+  }
+
+  .header-navigation {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background-color: #f4f4f4;
+    z-index: 10;
+  }
+
+  .header-navigation.active {
+    display: flex;
+  }
+
+  .burger-menu {
+    display: flex;
+  }
+
+  .header-navigation-link {
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .page-navigation {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 250px;
+    height: 100%;
+    background-color: #f9f9f9;
+    z-index: 10;
+    transition: left 0.3s ease;
+  }
+
+  .page-navigation.active {
+    left: 0;
+  }
+
+  .toggle-navigation-btn {
+    display: block;
+  }
+
+  .toggle-navigation-btn.active {
+    display: block;
+    left: 270px;
+  }
+
+  .responsive-media {
+    width: 100%;
+    height: auto;
+  }
 }

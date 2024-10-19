@@ -25,20 +25,49 @@
           <p class="group-info">Группа: <u>ЭФБО-09-23</u></p>
           <p class="user-name">Калинин Никита Викторович</p>
         </div>
+        <!-- Кнопка гамбургера для мобильного меню -->
+        <div class="burger-menu" id="burgerMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
       </div>
       <!-- Основная навигация в шапке -->
-      <nav class="header-navigation">
-        <a href="index.html" class="header-navigation-link" data-page="index">Главная страница</a>
-        <a href="first_term.html" class="header-navigation-link" data-page="first_term">Первый семестр</a>
-        <a href="second_term.html" class="header-navigation-link" data-page="second_term">Второй семестр</a>
-        <a href="services.html" class="header-navigation-link" data-page="services">Услуги</a>
-        <a href="#" class="header-navigation-link" data-page="login">Авторизация</a>
+      <nav class="header-navigation" id="headerNav">
+        <a href="index.html" class="header-navigation-link" data-page="index"
+          >Главная страница</a
+        >
+        <a
+          href="first_term.html"
+          class="header-navigation-link"
+          data-page="first_term"
+          >Первый семестр</a
+        >
+        <a
+          href="second_term.html"
+          class="header-navigation-link"
+          data-page="second_term"
+          >Второй семестр</a
+        >
+        <a
+          href="services.html"
+          class="header-navigation-link"
+          data-page="services"
+          >Услуги</a
+        >
+        <a href="#" class="header-navigation-link" data-page="login"
+          >Авторизация</a
+        >
       </nav>
     </header>
 
     <div class="container">
+      <button class="toggle-navigation-btn" id="toggleNavigationBtn">
+        &#9776;
+      </button>
+
       <!-- Навигация по странице -->
-      <nav class="page-navigation">
+      <nav class="page-navigation" id="pageNavigation">
         <p class="text-paragraph">Навигация по странице</p>
         <ul style="padding: 0; list-style: none">
           <li>
@@ -60,10 +89,10 @@
       <!-- Основной контент страницы -->
       <main class="page-info">
         <h1 class="main-heading">Первый семестр</h1>
-        <div class="grid-container">
-            <!-- Секция с лекциями -->
-          <section class="grid-item">
-            <h2 id="1" class="sub-heading">Лекции</h2>
+        <!-- Секция с лекциями -->
+        <section>
+          <h2 id="1" class="sub-heading">Лекции</h2>
+          <div class="table-container">
             <table>
               <thead>
                 <tr>
@@ -155,11 +184,13 @@
                 </tr>
               </tbody>
             </table>
-          </section>
+          </div>
+        </section>
 
-          <!-- Секция с практиками -->
-          <section class="grid-item">
-            <h2 id="2" class="sub-heading">Практики</h2>
+        <!-- Секция с практиками -->
+        <section>
+          <h2 id="2" class="sub-heading">Практики</h2>
+          <div class="table-container">
             <table>
               <thead>
                 <tr>
@@ -430,55 +461,56 @@
                 </tr>
               </tbody>
             </table>
-          </section>
+          </div>
+        </section>
 
-          <!-- Секция с адресом занятий -->
-          <section class="grid-item">
-            <h2 id="3" class="sub-heading">Занятия проходят по адресу</h2>
-            <p class="text-paragraph">
-              <u>Москва, проспект Вернадского, 78, стр. 4</u>
-            </p>
-            <div style="position: relative; overflow: hidden">
-              <a
-                href="https://yandex.ru/maps/org/mirea_rossiyskiy_tekhnologicheskiy_universitet/1084832794/?utm_medium=mapframe&utm_source=maps"
-                style="color: #eee; font-size: 12px; position: absolute; top: 0px"
-                >MIREA Russian Technological University</a
-              ><a
-                href="https://yandex.ru/maps/213/moscow/category/university/184106140/?utm_medium=mapframe&utm_source=maps"
-                style="
-                  color: #eee;
-                  font-size: 12px;
-                  position: absolute;
-                  top: 14px;
-                "
-                >University in Moscow</a
-              ><iframe
-                src="https://yandex.ru/map-widget/v1/?ll=37.480944%2C55.669114&mode=search&oid=1084832794&ol=biz&sctx=ZAAAAAgBEAAaKAoSCZ5eKcsQz0JAEdOgaB7A4EtAEhIJ%2BrX103%2BW9j8RhbGFIAel4T8iBgABAgMEBSgKOABAjZIHSAFqAnJ1nQHNzMw9oAEAqAEAvQFwfGvowgEcmvikhQT1o9qFBdmF7oDEA4n%2Fndm9AoX7%2B6u6A4ICCtCc0JjQoNCt0JCKAgCSAgCaAgxkZXNrdG9wLW1hcHOqAgs3MTkzNjgxNTcwMbACAQ%3D%3D&sll=37.480944%2C55.669114&sspn=0.005891%2C0.003681&text=%D0%9C%D0%98%D0%A0%D0%AD%D0%90&z=17.23"
-                width="560"
-                height="400"
-                frameborder="1"
-                allowfullscreen="true"
-                style="position: relative"></iframe>
-            </div>
-          </section>
-
-          <!-- Секция с рабочей программой -->
-          <section class="grid-item">
-            <h2 id="4" class="sub-heading">Рабочая программа</h2>
-            <object
-              data="src/pdf/3.pdf"
-              type="application/pdf"
+        <!-- Секция с адресом занятий -->
+        <section>
+          <h2 id="3" class="sub-heading">Занятия проходят по адресу</h2>
+          <p class="text-paragraph">
+            <u>Москва, проспект Вернадского, 78, стр. 4</u>
+          </p>
+          <div style="position: relative; overflow: hidden">
+            <a
+              href="https://yandex.ru/maps/org/mirea_rossiyskiy_tekhnologicheskiy_universitet/1084832794/?utm_medium=mapframe&utm_source=maps"
+              style="color: #eee; font-size: 12px; position: absolute; top: 0px"
+              >MIREA Russian Technological University</a
+            ><a
+              href="https://yandex.ru/maps/213/moscow/category/university/184106140/?utm_medium=mapframe&utm_source=maps"
+              style="
+                color: #eee;
+                font-size: 12px;
+                position: absolute;
+                top: 14px;
+              "
+              >University in Moscow</a
+            ><iframe
+              src="https://yandex.ru/map-widget/v1/?ll=37.480944%2C55.669114&mode=search&oid=1084832794&ol=biz&sctx=ZAAAAAgBEAAaKAoSCZ5eKcsQz0JAEdOgaB7A4EtAEhIJ%2BrX103%2BW9j8RhbGFIAel4T8iBgABAgMEBSgKOABAjZIHSAFqAnJ1nQHNzMw9oAEAqAEAvQFwfGvowgEcmvikhQT1o9qFBdmF7oDEA4n%2Fndm9AoX7%2B6u6A4ICCtCc0JjQoNCt0JCKAgCSAgCaAgxkZXNrdG9wLW1hcHOqAgs3MTkzNjgxNTcwMbACAQ%3D%3D&sll=37.480944%2C55.669114&sspn=0.005891%2C0.003681&text=%D0%9C%D0%98%D0%A0%D0%AD%D0%90&z=17.23"
               width="100%"
-              height="500px">
-              <p>
-                Unable to display PDF file.
-                <a href="src/pdf/3.pdf">Download</a> instead.
-              </p>
-            </object>
-          </section>
-        </div>
+              height="500px"
+              frameborder="1"
+              allowfullscreen="true"
+              style="position: relative"></iframe>
+          </div>
+        </section>
+
+        <!-- Секция с рабочей программой -->
+        <section>
+          <h2 id="4" class="sub-heading">Рабочая программа</h2>
+          <object
+            class="responsive-media"
+            data="src/pdf/3.pdf"
+            type="application/pdf">
+            <p>
+              Unable to display PDF file.
+              <a href="src/pdf/3.pdf">Download</a> instead.
+            </p>
+          </object>
+        </section>
       </main>
     </div>
+
+    <button class="scroll-to-top" id="scrollToTopBtn">⬆️</button>
 
     <!-- Футер сайта -->
     <footer class="footer">
@@ -512,11 +544,40 @@
       const navLinks = document.querySelectorAll(".header-navigation-link");
 
       // Устанавливаем класс active для текущей страницы
-      navLinks.forEach(link => {
+      navLinks.forEach((link) => {
         if (link.getAttribute("href") === currentPage) {
           link.classList.add("active");
         }
       });
+    </script>
+    <script>
+      const burgerMenu = document.getElementById("burgerMenu");
+      const headerNav = document.getElementById("headerNav");
+
+      burgerMenu.addEventListener("click", () => {
+        headerNav.classList.toggle("active");
+      });
+    </script>
+    <script>
+      const toggleNavigationBtn = document.getElementById(
+        "toggleNavigationBtn"
+      );
+      const pageNavigation = document.getElementById("pageNavigation");
+
+      toggleNavigationBtn.addEventListener("click", () => {
+        pageNavigation.classList.toggle("active");
+        toggleNavigationBtn.classList.toggle("active");
+      });
+    </script>
+    <script>
+      const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+      scrollToTopBtn.onclick = function () {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+        });
+      };
     </script>
   </body>
 </html>
