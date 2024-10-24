@@ -44,6 +44,11 @@ tbody tr:nth-child(odd) {
   height: 18px;
 }
 
+.media-on-page {
+  width: 500px;
+  height: 500px;
+}
+
 @media (max-width: 800px) {
   .table-container {
     overflow-x: auto;
@@ -51,5 +56,11 @@ tbody tr:nth-child(odd) {
 
   table {
     min-width: 800px;
+  }
+}
+
+@media (max-width: 950px) {
+  .media-on-page  {
+    width: 100%;
   }
 }

@@ -203,7 +203,7 @@ header {
   left: 0;
   width: 100%;
   background-color: white;
-  z-index: 1000;
+  z-index: 10;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -252,14 +252,14 @@ header {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #007BFF;
+  background-color: black;
   color: white;
   border: none;
   border-radius: 5px;
   padding: 10px 15px;
   cursor: pointer;
   display: block;
-  z-index: 1000;
+  z-index: 10;
 }
 
 .scroll-to-top:hover {
@@ -267,7 +267,7 @@ header {
 }
 
 /* Адаптивность для мобильных устройств */
-@media (max-width: 868px) {
+@media (max-width: 950px) {
   .container {
     margin-top: 100px;
   }
