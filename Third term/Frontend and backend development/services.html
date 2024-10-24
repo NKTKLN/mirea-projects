@@ -13,6 +13,12 @@
     <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script>
+      $(document).ready(function () {
+        $("#phone").mask("+7 (999) 999-99-99");
+      });
+    </script>
   </head>
   <body>
     <header>
@@ -61,13 +67,19 @@
           data-page="services"
           >Услуги</a
         >
-        <a href="#" class="header-navigation-link" data-page="login"
-          >Авторизация</a
-        >
+        <div class="nav-item dropdown header-navigation-link">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Авторизация
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="login.html">Войти</a></li>
+            <li><a class="dropdown-item" href="register.html">Регистрация</a></li>
+          </ul>
+        </div>
       </nav>
     </header>
 
-    <div class="container">
+    <div class="container1">
       <button class="toggle-navigation-btn" id="toggleNavigationBtn">
         &#9776;
       </button>
@@ -103,51 +115,56 @@
             <span class="close">&times;</span>
             <h2 class="modal-title">Форма обратной связи</h2>
             <form class="contact-form">
-              <label for="name">Имя:</label>
+              <label for="name" class="form-label">Имя:</label>
               <input
                 type="text"
                 id="name"
                 name="name"
                 required
-                class="form-input" />
+                class="form-control" />
 
-              <label for="email">Почта:</label>
+              <!-- Почта -->
+              <label for="email" class="form-label">Почта:</label>
               <input
                 type="email"
                 id="email"
                 name="email"
                 required
-                class="form-input" />
+                class="form-control" />
 
-              <label for="phone">Телефон:</label>
+              <!-- Телефон -->
+              <label for="phone" class="form-label">Телефон:</label>
               <input
-                type="phone"
+                type="tel"
                 id="phone"
                 name="phone"
                 required
-                class="form-input" />
+                class="form-control" />
 
-              <label for="strana">Страна:</label>
-              <select id="strana" class="form-select">
+              <!-- Страна -->
+              <label for="strana" class="form-label">Страна:</label>
+              <select id="strana" name="strana" class="form-select">
                 <option value="ru">Россия</option>
                 <option value="ch">Китай</option>
               </select>
 
-              <label for="date">Дата:</label>
+              <!-- Дата -->
+              <label for="date" class="form-label">Дата:</label>
               <input
                 type="date"
                 id="date"
                 name="date"
                 required
-                class="form-input" />
+                class="form-control" />
 
-              <label for="comment">Комментарий:</label>
+              <!-- Комментарий -->
+              <label for="comment" class="form-label">Комментарий:</label>
               <textarea
                 id="comment"
                 name="comment"
                 rows="4"
                 required
-                class="form-textarea"></textarea>
+                class="form-control"></textarea>
 
               <label for="site-type">Тип:</label>
               <select id="site-type" class="form-select">
@@ -167,7 +184,7 @@
                 >
               </div>
 
-              <button type="submit" onclick="sendEmail()" class="submit-button">
+              <button type="submit" onclick="sendEmail()" class="btn btn-primary">
                 Отправить
               </button>
             </form>
@@ -348,11 +365,6 @@
     </footer>
 
     <script>
-      $(document).ready(function () {
-        $("#phone").mask("+7 (999) 999-99-99");
-      });
-    </script>
-    <script>
       // Получаем модальное окно и кнопки открытия
       const modal = document.getElementById("modal");
       const openModalButtons = document.querySelectorAll("#openModalBtn");
@@ -449,5 +461,6 @@
         });
       };
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>

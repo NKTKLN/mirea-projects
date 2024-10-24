@@ -7,6 +7,11 @@
     <link rel="icon" type="image/svg+xml" href="src/img/house-solid.svg" />
     <link rel="stylesheet" href="src/css/main.css" />
     <link rel="stylesheet" href="src/css/first_term.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous" />
   </head>
   <body>
     <header>
@@ -61,7 +66,7 @@
       </nav>
     </header>
 
-    <div class="container">
+    <div class="container1">
       <button class="toggle-navigation-btn" id="toggleNavigationBtn">
         &#9776;
       </button>
@@ -89,378 +94,295 @@
       <!-- Основной контент страницы -->
       <main class="page-info">
         <h1 class="main-heading">Первый семестр</h1>
-        <!-- Секция с лекциями -->
         <section>
           <h2 id="1" class="sub-heading">Лекции</h2>
-          <div class="table-container">
-            <table>
+          <div class="table-responsive">
+            <table class="table table-striped table-bordered border-separate" style="border-spacing: 0.5rem;">
               <thead>
                 <tr>
-                  <th>Номер</th>
-                  <th>Тема</th>
-                  <th>Посещение</th>
+                  <th class="text-center">Номер</th>
+                  <th class="text-center">Тема</th>
+                  <th class="text-center">Посещение</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>1</td>
-                  <td>Основы языка HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-true.png"
-                      alt="checkbox-true"
-                      class="checkbox" />
+                  <td class="text-center">1</td>
+                  <td class="text-center">Основы языка HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-true.png" alt="checkbox-true" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>2</td>
-                  <td>Углубленное изучение HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">2</td>
+                  <td class="text-center">Углубленное изучение HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>3</td>
-                  <td>Основы работы с CSS</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">3</td>
+                  <td class="text-center">Основы работы с CSS</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>4</td>
-                  <td>Адаптивная верстка. Flexbox и Grid Layout</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">4</td>
+                  <td class="text-center">Адаптивная верстка. Flexbox и Grid Layout</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>5</td>
-                  <td>Bootstrap — работа с фреймворком</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">5</td>
+                  <td class="text-center">Bootstrap — работа с фреймворком</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>6</td>
-                  <td>Основы языка JavaScript</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">6</td>
+                  <td class="text-center">Основы языка JavaScript</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>7</td>
-                  <td>Работа с DOM и событиями в JavaScript</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">7</td>
+                  <td class="text-center">Работа с DOM и событиями в JavaScript</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>8</td>
-                  <td>Введение в GitHub и GitHub Pages</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">8</td>
+                  <td class="text-center">Введение в GitHub и GitHub Pages</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
               </tbody>
             </table>
           </div>
-        </section>
+        </section>        
 
-        <!-- Секция с практиками -->
         <section>
           <h2 id="2" class="sub-heading">Практики</h2>
-          <div class="table-container">
-            <table>
+          <div class="table-responsive">
+            <table class="table table-striped table-bordered border-separate" style="border-spacing: 0.5rem;">
               <thead>
                 <tr>
-                  <th>Номер</th>
-                  <th>Тема</th>
-                  <th>Посещение</th>
-                  <th>Выполнение</th>
+                  <th class="text-center">Номер</th>
+                  <th class="text-center">Тема</th>
+                  <th class="text-center">Посещение</th>
+                  <th class="text-center">Выполнение</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>1</td>
-                  <td>Основы языка HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-true.png"
-                      alt="checkbox-true"
-                      class="checkbox" />
+                  <td class="text-center">1</td>
+                  <td class="text-center">Основы языка HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-true.png" alt="checkbox-true" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-true.png"
-                      alt="checkbox-true"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-true.png" alt="checkbox-true" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>2</td>
-                  <td>Формы и кнопки в HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">2</td>
+                  <td class="text-center">Формы и кнопки в HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>3</td>
-                  <td>Таблицы и интерактивные элементы HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">3</td>
+                  <td class="text-center">Таблицы и интерактивные элементы HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>4</td>
-                  <td>Основы работы с CSS</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">4</td>
+                  <td class="text-center">Основы работы с CSS</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>5</td>
-                  <td>Работа с классами в CSS</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">5</td>
+                  <td class="text-center">Работа с классами в CSS</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>6</td>
-                  <td>Работа с сетками и разметкой в HTML</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">6</td>
+                  <td class="text-center">Работа с сетками и разметкой в HTML</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>7</td>
-                  <td>Адаптивная верстка</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">7</td>
+                  <td class="text-center">Адаптивная верстка</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>8</td>
-                  <td>Bootstrap</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">8</td>
+                  <td class="text-center">Bootstrap</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>9</td>
-                  <td>Основы языка JavaScript</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">9</td>
+                  <td class="text-center">Основы языка JavaScript</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>10</td>
-                  <td>Базовые задачи на JS</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">10</td>
+                  <td class="text-center">Базовые задачи на JS</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>11</td>
-                  <td>
-                    DOM-структура приложений и работа с объектами в языке JS
+                  <td class="text-center">11</td>
+                  <td class="text-center">DOM-структура приложений и работа с объектами в языке JS</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
-                  </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>12</td>
-                  <td>Встраивание скриптов</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">12</td>
+                  <td class="text-center">Встраивание скриптов</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>13</td>
-                  <td>Отладка сценариев</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">13</td>
+                  <td class="text-center">Отладка сценариев</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>14</td>
-                  <td>Анимации и работа с ними</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">14</td>
+                  <td class="text-center">Анимации и работа с ними</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>15</td>
-                  <td>Github</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">15</td>
+                  <td class="text-center">Github</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
                 <tr>
-                  <td>16</td>
-                  <td>Защита проекта</td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">16</td>
+                  <td class="text-center">Защита проекта</td>
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
-                  <td>
-                    <img
-                      src="src/img/checkbox-false.png"
-                      alt="checkbox-false"
-                      class="checkbox" />
+                  <td class="text-center">
+                    <img src="src/img/checkbox-false.png" alt="checkbox-false" class="checkbox" />
                   </td>
                 </tr>
               </tbody>
             </table>
+          </div>
+        </section>        
+
+        <section>
+          <h2 id="3" class="sub-heading">Фотографии</h2>
+          <div
+            id="carouselExample"
+            class="carousel slide"
+            data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="./src/img/mirea-2.jpg"
+                  class="d-block w-100"
+                  alt="mirea" />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="./src/img/mirea-3.jpg"
+                  class="d-block w-100"
+                  alt="mirea" />
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carouselExample"
+              data-bs-slide="prev">
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"></span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carouselExample"
+              data-bs-slide="next">
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"></span>
+            </button>
           </div>
         </section>
 
@@ -496,15 +418,65 @@
         <!-- Секция с рабочей программой -->
         <section>
           <h2 id="4" class="sub-heading">Рабочая программа</h2>
-          <object
-            class="media-on-page"
-            data="src/pdf/3.pdf"
-            type="application/pdf">
-            <p>
-              Unable to display PDF file.
-              <a href="src/pdf/3.pdf">Download</a> instead.
-            </p>
-          </object>
+          <div class="ratio ratio-16x9">
+            <object
+              class="media-on-page"
+              data="src/pdf/3.pdf"
+              type="application/pdf"
+              width="100%"
+              height="100%">
+              <p>
+                Unable to display PDF file.
+                <a href="src/pdf/3.pdf">Download</a> instead.
+              </p>
+            </object>
+          </div>
+        </section>
+        <section>
+          <h2 id="4" class="sub-heading">Частые вопросы</h2>
+          <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne"
+                  aria-expanded="false"
+                  aria-controls="collapseOne">
+                  Раздел 1
+                </button>
+              </h2>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">Дополнительная информация 1.</div>
+              </div>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">Дополнительная информация 2.</div>
+              </div>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">Дополнительная информация 3.</div>
+              </div>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">Дополнительная информация.</div>
+              </div>
+            </div>
+          </div>
         </section>
       </main>
     </div>
@@ -574,9 +546,13 @@
       scrollToTopBtn.onclick = function () {
         window.scrollTo({
           top: 0,
-          behavior: "smooth"
+          behavior: "smooth",
         });
       };
     </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"></script>
   </body>
 </html>
