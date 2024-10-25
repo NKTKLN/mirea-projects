@@ -24,6 +24,7 @@ Sudoku::Sudoku(QWidget *parent)
 
     connect(ui->pushButton_restart, &QPushButton::clicked, this, &Sudoku::resetSudoku);
     connect(ui->pushButton_check, &QPushButton::clicked, this, &Sudoku::checkSolution);
+    connect(ui->spinBox_mainNumber, &QSpinBox::textChanged, this, &Sudoku::updateFieldData);
 }
 
 Sudoku::~Sudoku() {
@@ -190,7 +191,11 @@ void Sudoku::updateFieldData() {
                 QLabel *label = qobject_cast<QLabel*>(layout->itemAtPosition(row, col)->widget());
                 if (label) {
                     if (grid[row][col].mainNumber != 0) {
-                        label->setStyleSheet("border: 1px solid black; font-size: 16px;");
+                        if (grid[row][col].mainNumber == ui->spinBox_mainNumber->value()) {
+                            label->setStyleSheet("border: 1px solid black; font-size: 16px; color: blue;");
+                        } else {
+                            label->setStyleSheet("border: 1px solid black; font-size: 16px;");
+                        }
                         label->setText(QString::number(grid[row][col].mainNumber));
                     } else {
                         int lineCount = 0;

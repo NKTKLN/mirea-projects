@@ -35,7 +35,7 @@ public class Dish
         DishTypes = new List<string>(dishTypes);
     }
 
-    public void EditDish(in string name, in string ingredients, in string weight, in decimal price, in Category category, in int cookingTime, params string[] dishTypes)
+    public void EditDish(string name, string ingredients, string weight, decimal price, Category category, in int cookingTime, params string[] dishTypes)
     {
         Name = name;
         Ingredients = ingredients;
@@ -47,7 +47,7 @@ public class Dish
     }
 
     public void PrintInfo()
-    {
+    {HasValue
         Console.WriteLine($"Id: {Id}");
         Console.WriteLine($"Название: {Name}");
         Console.WriteLine($"Состав: {Ingredients}");
@@ -72,7 +72,7 @@ public class Dish
         details = $"Название: {Name}\n* Цена: {Price}\n* Категория: {DishCategory}\n* Типы блюда: " + string.Join(", ", DishTypes);
     }
 
-    public void DeleteDish()
+    ~Dish()
     {
         //? Удаление блюда.
 

@@ -25,8 +25,13 @@ public class Order
         CalculateTotalCost();
     }
 
-    public void EditOrder(in int tableId, in string comment, in DateTime orderTime, params Dish[] dishes)
+    public void EditOrder(int tableId, string comment, in DateTime orderTime, params Dish[] dishes)
     {
+        if (CloseTime.HasValue)
+        {
+            return;
+        }
+
         TableId = tableId;
         Dishes = new List<Dish>(dishes);
         Comment = comment;
@@ -119,7 +124,8 @@ public class Order
 
     public void ApplyDiscount(ref decimal discountPercentage)
     {
-        if (discountPercentage > 0 && discountPercentage <= 100)
+
+        if (!CloseTime.HasValue && discountPercentage > 0 && discountPercentage <= 100)
         {
             TotalCost -= TotalCost * (discountPercentage / 100);
             discountPercentage = 0;

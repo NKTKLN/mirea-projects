@@ -1,78 +1,22 @@
 # ninja log v6
-1348	1647	1729688692296863800	Sudoku	619e28cc72fdd98
-73	1348	1729688691021937900	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-165	1880	1729681113188016000	CMakeFiles/Sudoku.dir/cell.cpp.o	11cc953636bbddfc
-301	1645	1729688133299408000	CMakeFiles/Sudoku.dir/Sudoku_autogen/mocs_compilation.cpp.o	ad8b459271b12c85
-301	2039	1729688133299629500	CMakeFiles/Sudoku.dir/main.cpp.o	64a812c73b650a7e
-6	72	1729688690954661400	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-6	72	1729688690954661400	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-6	72	1729688690954661400	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-6	72	1729688690954661400	Sudoku_autogen/timestamp	7074b98b9641f33c
-7	70	1729688750206572300	Sudoku_autogen/timestamp	7074b98b9641f33c
-7	70	1729688750206572300	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-7	70	1729688750206572300	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-7	70	1729688750206572300	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-71	1956	1729688750270308800	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1956	2281	1729688752155497500	Sudoku	619e28cc72fdd98
-9	82	1729688808719040100	Sudoku_autogen/timestamp	7074b98b9641f33c
-9	82	1729688808719040100	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-9	82	1729688808719040100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-9	82	1729688808719040100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-82	1737	1729688808792214700	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1737	2169	1729688810446653000	Sudoku	619e28cc72fdd98
-6	66	1729689089350751800	Sudoku_autogen/timestamp	7074b98b9641f33c
-6	66	1729689089350751800	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-6	66	1729689089350751800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-6	66	1729689089350751800	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-66	1382	1729689089411137000	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1382	1682	1729689090726695200	Sudoku	619e28cc72fdd98
-9	93	1729689113468253600	Sudoku_autogen/timestamp	7074b98b9641f33c
-9	93	1729689113468253600	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-9	93	1729689113468253600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-9	93	1729689113468253600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-96	1704	1729689113555391600	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1704	2018	1729689115163133400	Sudoku	619e28cc72fdd98
-9	75	1729689180008816600	Sudoku_autogen/timestamp	7074b98b9641f33c
-9	75	1729689180008816600	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-9	75	1729689180008816600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-9	75	1729689180008816600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-75	1432	1729689180075075200	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1432	1723	1729689181431882300	Sudoku	619e28cc72fdd98
-8	57	1729689212119889500	Sudoku_autogen/timestamp	7074b98b9641f33c
-8	57	1729689212119889500	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-8	57	1729689212119889500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-8	57	1729689212119889500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-57	1296	1729689212169236500	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1296	1579	1729689213407498000	Sudoku	619e28cc72fdd98
-7	78	1729689242336604900	Sudoku_autogen/timestamp	7074b98b9641f33c
-7	78	1729689242336604900	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-7	78	1729689242336604900	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-7	78	1729689242336604900	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-79	1318	1729689242409231900	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1319	1641	1729689243648514100	Sudoku	619e28cc72fdd98
-7	93	1729689266251870700	Sudoku_autogen/timestamp	7074b98b9641f33c
-7	93	1729689266251870700	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-7	93	1729689266251870700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-7	93	1729689266251870700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-94	1329	1729689266338429400	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1329	1605	1729689267573467900	Sudoku	619e28cc72fdd98
-4	76	1729689304000324500	Sudoku_autogen/timestamp	7074b98b9641f33c
-4	76	1729689304000324500	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-4	76	1729689304000324500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-4	76	1729689304000324500	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-78	1237	1729689304073866800	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1237	1519	1729689305232502600	Sudoku	619e28cc72fdd98
-13	196	1729689618847902200	Sudoku_autogen/timestamp	7074b98b9641f33c
-13	196	1729689618847902200	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-13	196	1729689618847902200	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-13	196	1729689618847902200	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+7	90	1729756836630484700	Sudoku_autogen/timestamp	7074b98b9641f33c
+7	90	1729756836630484700	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+7	90	1729756836630484700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
+7	90	1729756836630484700	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
 197	1807	1729689618857387200	CMakeFiles/Sudoku.dir/main.cpp.o	64a812c73b650a7e
 196	2025	1729689618857147000	CMakeFiles/Sudoku.dir/Sudoku_autogen/mocs_compilation.cpp.o	ad8b459271b12c85
-197	2028	1729689618857605200	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-2029	2306	1729689620689295600	Sudoku	619e28cc72fdd98
-8	69	1729689707093511600	Sudoku_autogen/timestamp	7074b98b9641f33c
-8	69	1729689707093511600	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-8	69	1729689707093511600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
-8	69	1729689707093511600	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
-69	1341	1729689707154197700	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
-1341	1662	1729689708426151200	Sudoku	619e28cc72fdd98
+165	1880	1729681113188016000	CMakeFiles/Sudoku.dir/cell.cpp.o	11cc953636bbddfc
+92	3175	1729756836715132200	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
+3175	3711	1729756839797951000	Sudoku	619e28cc72fdd98
+13	99	1729756976869154000	Sudoku_autogen/timestamp	7074b98b9641f33c
+13	99	1729756976869154000	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+13	99	1729756976869154000	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
+13	99	1729756976869154000	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+100	3134	1729756976956429200	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
+3134	3692	1729756979990205500	Sudoku	619e28cc72fdd98
+11	101	1729757012287870100	Sudoku_autogen/timestamp	7074b98b9641f33c
+11	101	1729757012287870100	Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+11	101	1729757012287870100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/timestamp	7074b98b9641f33c
+11	101	1729757012287870100	/home/nktkln/General/University/Code projects/Third term/Industrial programming technologies/Sudoku/build/Desktop-Debug/Sudoku_autogen/mocs_compilation.cpp	7074b98b9641f33c
+103	3416	1729757012379549700	CMakeFiles/Sudoku.dir/sudoku.cpp.o	f9bc460b26268f8f
+3416	3951	1729757015692847800	Sudoku	619e28cc72fdd98

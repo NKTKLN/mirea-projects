@@ -64,7 +64,7 @@ class OrderingSystem
         decimal TotalCost = 0;
         foreach (var order in orders)
         {
-            if (order.CloseTime != null)
+            if (!order.CloseTime.HasValue)
             {
                 TotalCost += order.TotalCost;
             }
