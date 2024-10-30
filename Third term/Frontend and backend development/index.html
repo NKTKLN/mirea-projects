@@ -14,7 +14,10 @@
       <div class="header-info">
         <!-- Логотип -->
         <div class="logo-container">
-          <img src="src/img/earth-europe-solid.svg" alt="Логотип" class="icon" />
+          <img
+            src="src/img/earth-europe-solid.svg"
+            alt="Логотип"
+            class="icon" />
           <p class="logo-text">Лого</p>
         </div>
         <!-- Основная информация -->
@@ -31,13 +34,38 @@
       </div>
       <!-- Основная навигация в шапке -->
       <nav class="header-navigation" id="headerNav">
-        <a href="index.html" class="header-navigation-link" data-page="index">Главная страница</a>
-        <a href="first_term.html" class="header-navigation-link" data-page="first_term">Первый семестр</a>
-        <a href="second_term.html" class="header-navigation-link" data-page="second_term">Второй семестр</a>
-        <a href="services.html" class="header-navigation-link" data-page="services">Услуги</a>
-        <a href="#" class="header-navigation-link" data-page="login">Авторизация</a>
+        <a href="index.html" class="header-navigation-link" data-page="index"
+          >Главная страница</a
+        >
+        <a
+          href="first_term.html"
+          class="header-navigation-link"
+          data-page="first_term"
+          >Первый семестр</a
+        >
+        <a
+          href="second_term.html"
+          class="header-navigation-link"
+          data-page="second_term"
+          >Второй семестр</a
+        >
+        <a
+          href="services.html"
+          class="header-navigation-link"
+          data-page="services"
+          >Услуги</a
+        >
+        <div class="nav-item dropdown header-navigation-link">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Авторизация
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="login.html">Войти</a></li>
+            <li><a class="dropdown-item" href="register.html">Регистрация</a></li>
+          </ul>
+        </div>
       </nav>
-    </header>    
+    </header>
   
     <div class="container1">
       <button class="toggle-navigation-btn" id="toggleNavigationBtn">
