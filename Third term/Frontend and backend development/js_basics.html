@@ -7,16 +7,24 @@
     <link rel="icon" type="image/svg+xml" href="src/img/house-solid.svg" />
   </head>
 <body>
-    <button onclick="task1_2()">Задание 1 и 2: Приветствие и проверка возраста</button>
+    <h1>Практика №9</h1>
+    <button onclick="task1_2__9()">Задание 1 и 2: Приветствие и проверка возраста</button>
     <br>
-    <button onclick="task3()">Задание 3: Угадай число</button>
+    <button onclick="task3__9()">Задание 3: Угадай число</button>
     <br>
-    <button onclick="task4()">Задание 4: Проверка пароля</button>
+    <button onclick="task4__9()">Задание 4: Проверка пароля</button>
     <br>
-    <button onclick="task5()">Задание 5: Простой калькулятор</button>
+    <button onclick="task5__9()">Задание 5: Простой калькулятор</button>
+    <h1>Практика №10</h1>
+    <button onclick="task2__10()">Задание 2: Циклы</button>
+    <br>
+    <button onclick="task3__10()">Задание 3: Работа с массивами</button>
+    <br>
+    <button onclick="task4__10()">Задание 4: Манипуляции с массивами</button>
+
 
     <script>
-        function task1_2() {
+        function task1_2__9() {
             const name = prompt("Введите ваше имя:");
             const age = prompt("Введите ваш возраст:");
             alert(`Привет, ${name}! Вам ${age} лет.`);
@@ -28,7 +36,7 @@
             }
         }
 
-        function task3() {
+        function task3__9() {
             const randomNumber = Math.floor(Math.random() * 10) + 1;
             const userGuess = prompt("Угадайте число от 1 до 10:");
             if (parseInt(userGuess) === randomNumber) {
@@ -38,7 +46,7 @@
             }
         }
 
-        function task4() {
+        function task4__9() {
             const password = prompt("Введите пароль:");
             const correctPassword = "12345";
             if (password) {
@@ -52,7 +60,7 @@
             }
         }
 
-        function task5() {
+        function task5__9() {
             const num1 = parseFloat(prompt("Введите первое число:"));
             const num2 = parseFloat(prompt("Введите второе число:"));
             const operator = prompt("Введите оператор (+, -, *, /):");
@@ -76,6 +84,53 @@
                     return;
             }
             alert(`Результат: ${result}`);
+        }
+
+        function task2__10() {
+            console.log("For loop от 1 до 10");
+            for (let i = 1; i <= 10; i++) {
+                console.log(i);
+            }
+
+            console.log("While loop от 10 до 1");
+            let j = 10;
+            while (j >= 1) {
+                console.log(j);
+                j--;
+            }
+        }
+
+        function task3__10() {
+            const lectures = ['Тема 1', 'Тема 2', 'Тема 3'];
+            const practices = ['Практика 1', 'Практика 2', 'Практика 3'];
+
+            lectures.push('Тема 4');
+            practices.unshift('Практика 0');
+
+            console.log("Темы лекций");
+            lectures.forEach(lecture => console.log(`Лекция: ${lecture}`));
+            console.log("Темы практик");
+            practices.forEach(practice => console.log(`Практика: ${practice}`));
+
+            function arrayToString(array) {
+                return array.join(', ');
+            }
+
+            console.log("Массивы в строку");
+            console.log(arrayToString(lectures));
+            console.log(arrayToString(practices));
+        }
+
+        function task4__10() {
+            const lectures = ['Основы JavaScript', 'Тема 1', 'Объекты в JavaScript', 'Тема 3'];
+
+            function filterTopicsStartingWithO(topics) {
+                return topics.filter(topic => topic.startsWith('О'));
+            }
+
+            const filteredLectures = filterTopicsStartingWithO(lectures);
+            console.log("Темы, начинающиеся на 'О'");
+            console.log(filteredLectures);
         }
     </script>
 </body>

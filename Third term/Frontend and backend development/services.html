@@ -19,6 +19,7 @@
         $("#phone").mask("+7 (999) 999-99-99");
       });
     </script>
+    <script src="src/js/script.js" defer></script>
   </head>
   <body>
     <header>
@@ -110,6 +111,8 @@
       </nav>
       <!-- Основной контент страницы -->
       <main class="page-info">
+        <div id="successMessage">Форма успешно отправлена!</div>
+
         <div id="modal" class="modal">
           <div class="modal-content">
             <span class="close">&times;</span>
@@ -184,7 +187,7 @@
                 >
               </div>
 
-              <button type="submit" onclick="sendEmail()" class="btn btn-primary">
+              <button type="submit" class="btn btn-primary">
                 Отправить
               </button>
             </form>
@@ -363,104 +366,9 @@
         </a>
       </div>
     </footer>
-
-    <script>
-      // Получаем модальное окно и кнопки открытия
-      const modal = document.getElementById("modal");
-      const openModalButtons = document.querySelectorAll("#openModalBtn");
-      const closeBtn = document.getElementsByClassName("close")[0];
-
-      // Функция для открытия модального окна
-      openModalButtons.forEach((button) => {
-        button.onclick = function () {
-          const selected = button.getAttribute("data-modal");
-          const option = document.getElementById(selected);
-
-          // Сбрасываем выделение всех опций перед установкой новой
-          document
-            .querySelectorAll(
-              "[id^='business'], [id^='corp'], [id^='shop'], [id^='landing'], [id^='blog'], [id^='portfolio']"
-            )
-            .forEach((opt) => {
-              opt.removeAttribute("selected");
-            });
-
-          // Устанавливаем "selected" для выбранной опции
-          option.setAttribute("selected", "selected");
-
-          // Открываем модальное окно
-          modal.style.display = "flex";
-        };
-      });
-
-      // Функция для закрытия модального окна
-      closeBtn.onclick = function () {
-        modal.style.display = "none";
-        resetSelection();
-      };
-
-      // Закрытие модального окна при клике вне его области
-      window.onclick = function (event) {
-        if (event.target === modal) {
-          modal.style.display = "none";
-          resetSelection();
-        }
-      };
-
-      // Сброс выбора опций
-      function resetSelection() {
-        document
-          .querySelectorAll(
-            "[id^='business'], [id^='corp'], [id^='shop'], [id^='landing'], [id^='blog'], [id^='portfolio']"
-          )
-          .forEach((opt) => {
-            opt.removeAttribute("selected");
-          });
-      }
-    </script>
-    <script>
-      // Получаем текущий URL
-      const currentPage = window.location.pathname.split("/").pop();
-
-      // Получаем все ссылки навигации
-      const navLinks = document.querySelectorAll(".header-navigation-link");
-
-      // Устанавливаем класс active для текущей страницы
-      navLinks.forEach((link) => {
-        if (link.getAttribute("href") === currentPage) {
-          link.classList.add("active");
-        }
-      });
-    </script>
-    <script>
-      const burgerMenu = document.getElementById("burgerMenu");
-      const headerNav = document.getElementById("headerNav");
-
-      burgerMenu.addEventListener("click", () => {
-        headerNav.classList.toggle("active");
-      });
-    </script>
-    <script>
-      const toggleNavigationBtn = document.getElementById(
-        "toggleNavigationBtn"
-      );
-      const pageNavigation = document.getElementById("pageNavigation");
-
-      toggleNavigationBtn.addEventListener("click", () => {
-        pageNavigation.classList.toggle("active");
-        toggleNavigationBtn.classList.toggle("active");
-      });
-    </script>
-    <script>
-      const scrollToTopBtn = document.getElementById("scrollToTopBtn");
-
-      scrollToTopBtn.onclick = function () {
-        window.scrollTo({
-          top: 0,
-          behavior: "smooth"
-        });
-      };
-    </script>
+    <script src="src/js/main.js"></script>
+    <script src="src/js/script.js"></script>
+    <script src="src/js/services.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>

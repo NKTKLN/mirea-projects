@@ -132,3 +132,25 @@ button {
     background-color: white;
   }
 }
+
+/* Сообщение об успешной отправке */
+#successMessage {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: green;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+
+#successMessage.show {
+  opacity: 1;
+}
