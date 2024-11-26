@@ -7,7 +7,7 @@ public class Warehouse
     public string Type { get; private set; } // cold, sorting, general, disposal
     public decimal Capacity { get; private set; }
     public string Address { get; private set; }
-    public List<Product> StoredProducts { get; private set; }
+    public List<Product> StoredProducts { get; set; }
 
     public Warehouse(int id, string type, decimal capacity, string address)
     {
