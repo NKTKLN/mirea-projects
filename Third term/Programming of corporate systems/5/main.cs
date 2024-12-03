@@ -1,173 +1,147 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Тест 1: Добавление товара в склад
-        TestProcessDelivery();
+        Console.WriteLine("Тест 1: Поставка товаров. Вариант 1 (все товары подходят под склад общего типа)");
+        var warehouseG = new Warehouse(1, "general", 3000, "GeneralWarehouse");
+        var warehouseS = new Warehouse(2, "sorting", 3000, "SortingWarehouse");
+        var warehouseC = new Warehouse(3, "cold", 1000, "ColdWarehouse");
+        var warehouseD = new Warehouse(4, "disposal", 500, "DisposalWarehouse");
+        var products = new List<Product>
+        {
+            new Product(1, 730, "Product1", 50, 100, 1024), // Срок годности больше 1024 дней
+            new Product(2, 1024, "Product2", 40, 200, 1500)
+        };
 
-        // Тест 2: Попытка доставки товаров в неподходящий склад
-        TestProcessDeliveryNoSuitableWarehouse();
-
-        // Тест 3: Оптимизация складов
-        TestInternalOptimize();
-
-        // Тест 4: Перемещение просроченных товаров на утилизацию
-        TestMoveExpiredProducts();
-
-        // Тест 5: Проверка ошибки при нехватке места на складе для просроченных товаров
-        TestMoveExpiredProductsNotEnoughSpace();
-
-        // Тест 6: Перемещение товаров между складами
-        TestMoveProducts();
-    }
-
-    static void TestProcessDelivery()
-    {
-        Console.WriteLine("Тест 1: Добавление товара в склад");
-
-        // Создаем склады и товары
-        var warehouse = new Warehouse(1, "general", 1000, "Warehouse1");
-        var product = new Product(1, 101, "Product1", 10, 100, 40);  // Долгий срок годности
-
-        // Делаем поставку
-        var delivery = new List<Product> { product };
-        warehouse.AddProducts(delivery);
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse });
-
+        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouseG, warehouseS, warehouseC, warehouseD });
         try
         {
-            logisticsManager.ProcessDelivery(delivery);
-            Console.WriteLine("Поставка успешно добавлена на склад.");
+            logisticsManager.ProcessDelivery(products);
+            Console.WriteLine("Товары успешно добавлены на склад.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
-    }
 
-    static void TestProcessDeliveryNoSuitableWarehouse()
-    {
-        Console.WriteLine("Тест 2: Попытка доставки товаров в неподходящий склад");
-
-        // Создаем склады и товары
-        var warehouse = new Warehouse(1, "cold", 1000, "Warehouse1");
-        var product = new Product(1, 101, "Product1", 10, 100, 10);  // Короткий срок годности
-
-        // Делаем поставку
-        var delivery = new List<Product> { product };
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse });
+        Console.WriteLine("Тест 2: Поставка товаров. Вариант 2 (есть товар, требующий сортировочного склада)");
+        products = new List<Product>
+        {
+            new Product(3, 230, "Product3", 30, 150, 12), // Требует сортировки
+            new Product(4, 500, "Product4", 20, 100, 1500)
+        };
 
         try
         {
-            logisticsManager.ProcessDelivery(delivery);
-            Console.WriteLine("Поставка успешно добавлена на склад.");
+            logisticsManager.ProcessDelivery(products);
+            Console.WriteLine("Товары успешно добавлены на сортировочный склад.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);  // Ожидаем ошибку, так как нет склада с холодным типом
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
-    }
 
-    static void TestInternalOptimize()
-    {
-        Console.WriteLine("Тест 3: Оптимизация складов");
-
-        // Создаем склады и товары
-        var warehouse1 = new Warehouse(1, "sorting", 1000, "Warehouse1");
-        var warehouse2 = new Warehouse(2, "general", 1000, "Warehouse2");
-
-        var product1 = new Product(1, 101, "Product1", 10, 100, 40);
-        var product2 = new Product(2, 102, "Product2", 10, 150, 10);
-
-        warehouse1.AddProducts(new List<Product> { product1, product2 });
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse1, warehouse2 });
+        Console.WriteLine("Тест 3: Поставка товаров. Вариант 3 (товар с коротким сроком годности, нужен холодный склад)");
+        products = new List<Product>
+        {
+            new Product(5, 101, "Product5", 10, 50, -1) // Просроченный товар
+        };
 
         try
         {
-            logisticsManager.InternalOptimize();
-            Console.WriteLine("Оптимизация складов прошла успешно.");
+            logisticsManager.ProcessDelivery(products);
+            Console.WriteLine("Товары успешно добавлены на холодный склад.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
-    }
 
-    static void TestMoveExpiredProducts()
-    {
-        Console.WriteLine("Тест 4: Перемещение просроченных товаров на утилизацию");
+        Console.WriteLine("Тест 4: Оптимизация складов");
+        products = new List<Product>
+        {
+            new Product(6, 1020, "Product6", 10, 100, 12),
+            new Product(7, 6020, "Product7", 20, 150, 100)
+        };
 
-        // Создаем склады и товары
-        var warehouse = new Warehouse(1, "general", 1000, "Warehouse1");
-        var disposalWarehouse = new Warehouse(2, "disposal", 1000, "DisposalWarehouse");
-
-        var expiredProduct = new Product(1, 101, "ExpiredProduct", 10, 100, -1);  // Просроченный товар
-        warehouse.AddProducts(new List<Product> { expiredProduct });
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse, disposalWarehouse });
+        warehouseS.AddProducts(products);
 
         try
         {
-            logisticsManager.MoveExpiredProducts();
+            logisticsManager.InternalOptimize(1, 2, 3);
+            Console.WriteLine("Оптимизация складов выполнена.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Ошибка: {ex.Message}");
+        }
+
+        Console.WriteLine("Тест 5: Анализ складской сети");
+        products = new List<Product>
+        {
+            new Product(8, 105, "ExpiredProduct", 10, 200, -5) // Просроченный товар
+        };
+
+        warehouseG.AddProducts(products);
+
+        logisticsManager.AnalyzeNetwork();
+
+        Console.WriteLine("Тест 6: Перемещение товаров с истекшим сроком годности");
+        try
+        {
+            logisticsManager.MoveExpiredProducts(1, 2, 3);
             Console.WriteLine("Просроченные товары успешно перемещены в утилизацию.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
-    }
 
-    static void TestMoveExpiredProductsNotEnoughSpace()
-    {
-        Console.WriteLine("Тест 5: Ошибка при нехватке места для просроченных товаров");
-
-        // Создаем склады и товары
-        var warehouse = new Warehouse(1, "general", 1000, "Warehouse1");
-        var disposalWarehouse = new Warehouse(2, "disposal", 0, "DisposalWarehouse");  // Нет места
-
-        var expiredProduct = new Product(1, 101, "ExpiredProduct", 10, 100, -1);  // Просроченный товар
-        warehouse.AddProducts(new List<Product> { expiredProduct });
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse, disposalWarehouse });
+        Console.WriteLine("Тест 2: Поставка товаров. Вариант 2 (есть товар, требующий сортировочного склада)");
+        
+        products = new List<Product>
+        {
+            new Product(3, 230, "Product3", 30, 150, 12), // Требует сортировки
+            new Product(4, 500, "Product4", 20, 100, 1500)
+        };
 
         try
         {
-            logisticsManager.MoveExpiredProducts();
-            Console.WriteLine("Просроченные товары успешно перемещены.");
+            logisticsManager.ProcessDelivery(products);
+            Console.WriteLine("Товары успешно добавлены на сортировочный склад.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);  // Ожидаем ошибку
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
-    }
 
-    static void TestMoveProducts()
-    {
-        Console.WriteLine("Тест 6: Перемещение товаров между складами");
-
-        // Создаем склады и товары
-        var warehouse1 = new Warehouse(1, "general", 1000, "Warehouse1");
-        var warehouse2 = new Warehouse(2, "general", 1000, "Warehouse2");
-
-        var product = new Product(1, 101, "Product1", 10, 100, 40);  // Долгий срок годности
-        warehouse1.AddProducts(new List<Product> { product });
-
-        var logisticsManager = new LogisticsManager(new List<Warehouse> { warehouse1, warehouse2 });
+        Console.WriteLine("Тест 4: Оптимизация складов");
 
         try
         {
-            logisticsManager.MoveProducts(1, 2, new List<int> { 1 });
-            Console.WriteLine("Товары успешно перемещены между складами.");
+            logisticsManager.InternalOptimize(1, 2, 3);
+            Console.WriteLine("Оптимизация складов выполнена.");
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Ошибка: " + ex.Message);  // Ожидаем ошибку, если чего-то не хватает
+            Console.WriteLine($"Ошибка: {ex.Message}");
+        }
+
+        Console.WriteLine("Тест 9: Подсчет стоимости товаров");
+        
+        try
+        {
+            var totalValue = logisticsManager.CalculateTotalValue(1);
+            Console.WriteLine($"Общая стоимость товаров на складе: {totalValue}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
     }
 }
+

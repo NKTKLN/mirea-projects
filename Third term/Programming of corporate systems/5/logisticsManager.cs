@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 public class LogisticsManager
 {
@@ -15,16 +16,8 @@ public class LogisticsManager
         if (delivery == null || delivery.Count == 0)
             throw new ArgumentException("Delivery cannot be null or empty.");
 
-        bool allLongShelfLife = true;
-        bool allShortShelfLife = true;
-
-        foreach (var product in delivery)
-        {
-            if (product.ExpirationDays < 30)
-                allLongShelfLife = false;
-            else
-                allShortShelfLife = false;
-        }
+        bool allLongShelfLife = delivery.All(p => p.ExpirationDays >= 30);
+        bool allShortShelfLife = delivery.All(p => p.ExpirationDays < 30);
 
         string targetWarehouseType = allLongShelfLife ? "general" :
                                      allShortShelfLife ? "cold" :
@@ -51,9 +44,11 @@ public class LogisticsManager
         throw new InvalidOperationException("No suitable warehouse found for this delivery.");
     }
 
-    public void InternalOptimize()
+    public void InternalOptimize(params int[] warehouseIds)
     {
-        foreach (var warehouse in warehouses)
+        List<Warehouse> warehousesForOptimize = warehouses.FindAll(w => warehouseIds.Contains(w.Id));
+
+        foreach (var warehouse in warehousesForOptimize)
         {
             if (warehouse.Type != "sorting")
                 continue;
@@ -76,33 +71,11 @@ public class LogisticsManager
         }
     }
 
-    public void InternalOptimize(int wirehouseId)
+    public void MoveExpiredProducts(params int[] warehouseIds)
     {
-        Warehouse warehouse = warehouses.Find(w => w.Id == wirehouseId);
+        List<Warehouse> fromWarehouses = warehouses.FindAll(w => warehouseIds.Contains(w.Id));
 
-        if (warehouse.Type != "sorting")
-            throw new ArgumentException("The warehouse type is not a 'sorting'");
-
-        List<Product> toMove = new List<Product>(warehouse.StoredProducts);
-        warehouse.StoredProducts.Clear();
-        foreach (var product in toMove)
-        {
-            string targetType = product.ExpirationDays < 30 ? "cold" : "general";
-            foreach (var targetWarehouse in warehouses)
-            {
-                if (targetWarehouse.Type != targetType || targetWarehouse.GetRemainingCapacity() < 1)
-                    continue;
-
-                targetWarehouse.StoredProducts.Add(product);
-                LogTransfer(new List<Product> { product }, warehouse.Address, targetWarehouse.Address);
-                break;
-            }
-        }
-    }
-
-    public void MoveExpiredProducts()
-    {
-        foreach (var warehouse in warehouses)
+        foreach (var warehouse in fromWarehouses)
         {
             List<Product> expiredProducts = warehouse.StoredProducts.FindAll(p => p.ExpirationDays <= 0);
 
@@ -125,42 +98,11 @@ public class LogisticsManager
                         break;
                     }
                 }
-        
             }
 
             if (warehouse.StoredProducts.FindAll(p => p.ExpirationDays <= 0).Count > 0)
                 throw new InvalidOperationException($"Not enough capacity in disposal warehouses.");
         }
-    }
-
-    public void MoveExpiredProducts(int wirehouseId)
-    {
-        Warehouse warehouse = warehouses.Find(w => w.Id == wirehouseId);
-        List<Product> expiredProducts = warehouse.StoredProducts.FindAll(p => p.ExpirationDays <= 0);
-
-        foreach (var disposalWarehouse in warehouses)
-        {
-            if (disposalWarehouse.Type != "disposal" || disposalWarehouse.GetRemainingCapacity() < 1)
-                continue;
-            if (expiredProducts.Count == 0)
-                break;
-
-            foreach (var expiredProduct in expiredProducts)
-            {
-                try 
-                {
-                    MoveProducts(warehouse.Id, disposalWarehouse.Id, new List<int> { expiredProduct.Id });
-                }
-                catch (Exception)
-                {
-                    break;
-                }
-            }
-    
-        }
-
-        if (expiredProducts.Count != 0)
-            throw new InvalidOperationException($"Not enough capacity in disposal warehouses.");
     }
 
     public void MoveProducts(int fromWarehouseId, int toWarehouseId, List<int> productIds)
@@ -198,7 +140,39 @@ public class LogisticsManager
     {
         foreach (var warehouse in warehouses)
         {
-            string status = warehouse.GetRemainingCapacity() < 0 ? "Issues detected (overcapacity)" : "No issues";
+            string status = "Проблем нет";
+            foreach (var product in warehouse.StoredProducts)
+            {
+                if (product.ExpirationDays <= 0 && warehouse.Type != "disposal")
+                {
+                    status = "Необходимо перемещение товара на склад disposal";
+                    break;
+                }
+                else if (product.ExpirationDays < 30 && warehouse.Type != "cold")
+                {
+                    status = "Необходимо перемещение товара на склад cold";
+                    break;
+                }
+                else if (product.ExpirationDays >= 30 && warehouse.Type == "cold")
+                {
+                    status = "Необходимо перемещение товара на склад general";
+                    break;
+                }
+                else if ((warehouse.GetRemainingCapacity() != 0 && warehouse.Type == "sorting") || 
+                         (product.ExpirationDays > 0 && warehouse.Type == "disposal"))
+                { 
+                    bool allLongShelfLife = warehouse.StoredProducts.All(p => p.ExpirationDays >= 30);
+                    bool allShortShelfLife = warehouse.StoredProducts.All(p => p.ExpirationDays < 30);
+
+                    string wirehouseType = allLongShelfLife ? "general" :
+                                                allShortShelfLife ? "cold" :
+                                                "general и cold";
+
+                    status = $"Необходимо перемещение товара на склад {wirehouseType}";
+                    break;
+                }
+            }
+
             Console.WriteLine($"Warehouse {warehouse.Id} status: {status}");
         }
     }
