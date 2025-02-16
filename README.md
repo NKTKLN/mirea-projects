@@ -27,6 +27,6 @@ This repository was created for saving and transferring MIREA Institute assignme
 
 * [Artificial intelligence systems and big data](/Fourth%20term/Artificial%20intelligence%20systems%20and%20big%20data)
 * [Databases for industrial tasks](/Fourth%20term/Databases%20for%20industrial%20tasks)
-* [Frontend and backend development](/Fourth%20term/Frontend%20and%20backend%20development)
+* [Frontend and backend development](https://github.com/NKTKLN/mirea-frontend-and-backend)
 * [Programming of corporate systems](/Fourth%20term/Programming%20of%20corporate%20systems)
 * [Server application development technologies](/Fourth%20term/Server%20application%20development%20technologies)
