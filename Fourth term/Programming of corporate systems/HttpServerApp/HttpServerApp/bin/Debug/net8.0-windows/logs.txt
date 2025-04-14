@@ -1,0 +1,1057 @@
+🌐 Сервер запущен на порту 5000
+⏰ [3/27/2025 1:40:56 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Ошибка при обработке запроса: The calling thread cannot access this object because a different thread owns it.
+⏰ [3/27/2025 1:40:56 PM] GET http://localhost:5000/favicon.ico
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=6
+Connection: keep-alive
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+Referer: http://localhost:5000/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Ошибка при обработке запроса: The calling thread cannot access this object because a different thread owns it.
+🚀 Server started on port 5000
+[3/27/2025 1:45:18 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:45:19 PM] GET http://localhost:5000/favicon.ico
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Connection: keep-alive
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+Referer: http://localhost:5000/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:45:23 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:45:23 PM] GET http://localhost:5000/favicon.ico
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Connection: keep-alive
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+Referer: http://localhost:5000/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:45:43 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+⏹️ Server stopped.
+❌ Error in listener: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+🚀 Server started on port 5000
+[3/27/2025 1:47:24 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:47:27 PM] GET http://localhost:5000/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:48:11 PM] GET http://localhost:5000/
+Connection: Keep-Alive
+Host: localhost:5000
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.2161
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+🚀 Server started on port 5000
+[3/27/2025 1:53:26 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:53:39 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:53:47 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:53:47 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:54:52 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+🚀 Server started on port 5000
+[3/27/2025 1:56:18 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:19 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:20 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:22 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:35 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:36 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:37 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:38 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:38 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+[3/27/2025 1:56:38 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+❌ Error handling request: The calling thread cannot access this object because a different thread owns it.
+🚀 Server started on port 5000
+[3/27/2025 2:01:27 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:27 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:27 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:27 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:27 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:28 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:29 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:01:30 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:30 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:31 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:32 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:32 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:01:32 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+⏹️ Server stopped.
+🚀 Server started on port 5000
+🚀 Server started on port 5000
+🚀 Сервер запущен на порту 5000
+⏹️ Сервер остановлен.
+🚀 Сервер запущен на порту 5000
+[3/27/2025 2:48:36 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:36 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:36 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:37 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:39 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:39 PM] GET http://localhost:5000/
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+[3/27/2025 2:48:40 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:48:40 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:48:41 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:48:41 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:48:41 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+🚀 Сервер запущен на порту 5000
+[3/27/2025 2:51:33 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:51:33 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:51:33 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:51:33 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:51:34 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:51:34 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+🚀 Сервер запущен на порту 5000
+[3/27/2025 2:56:00 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:56:01 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:56:01 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:56:01 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+🚀 Сервер запущен на порту 5000
+[3/27/2025 2:57:10 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:10 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+[3/27/2025 2:57:11 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Request Body: 
+⏹️ Сервер остановлен.
+🚀 Сервер запущен на порту 5000
+[3/27/2025 2:58:13 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:58:13 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:58:13 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:58:14 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+[3/27/2025 2:58:14 PM] POST http://localhost:5000/
+Content-Length: 0
+Accept: */*
+Host: localhost:5000
+User-Agent: insomnia/11.0.0
+Тело запроса: 
+⏹️ Сервер остановлен.
+🚀 Сервер запущен на порту 5000
+[3/27/2025 3:11:51 PM] GET http://localhost:5000/
+Host: localhost:5000
+[3/27/2025 3:12:04 PM] POST http://localhost:5000/
+Content-Length: 2
+Content-Type: application/json; charset=utf-8
+Host: localhost:5000
+Тело запроса: {}
+🚀 Сервер запущен на порту 5000
+[3/27/2025 3:15:35 PM] GET http://localhost:5000/
+Host: localhost:5000
+[3/27/2025 3:15:38 PM] GET http://localhost:5000/
+Host: localhost:5000
+[3/27/2025 3:15:50 PM] POST http://localhost:5000/
+Content-Length: 2
+Content-Type: application/json; charset=utf-8
+Host: localhost:5000
+Тело запроса: {}
+⏹️ Сервер остановлен.
+[3/27/2025 3:31:31 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:32:04 PM] [GET] [Success] [3/27/2025 3:32:04 PM] GET http://localhost:5000/
+[3/27/2025 3:32:04 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:32:04 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:32:04 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:32:04 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:32:04 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:32:04 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:32:04 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:32:04 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:32:04 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:32:04 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:32:04 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:32:04 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:33:42 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:33:45 PM] [GET] [Success] [3/27/2025 3:33:45 PM] GET http://localhost:5000/
+[3/27/2025 3:33:45 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:33:45 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:33:45 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:33:45 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:33:45 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:33:45 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:33:45 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:33:45 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:33:45 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:33:45 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:33:45 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:33:45 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:35:13 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:35:17 PM] [All] [Success] ⏹️ Сервер остановлен.
+[3/27/2025 3:35:17 PM] [All] [Error] ❌ Ошибка в слушателе: Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.
+[3/27/2025 3:37:28 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:37:32 PM] [GET] [Success] [3/27/2025 3:37:32 PM] GET http://localhost:5000/
+[3/27/2025 3:37:32 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:37:32 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:37:32 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:37:32 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:37:32 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:37:32 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:37:32 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:37:32 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:37:32 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:37:32 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:37:32 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:37:32 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:37:33 PM] [GET] [Success] [3/27/2025 3:37:33 PM] GET http://localhost:5000/
+[3/27/2025 3:37:33 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:37:33 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:37:33 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:37:33 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:37:33 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:37:33 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:37:33 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:37:33 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:37:33 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:37:33 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:37:33 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:37:33 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:39:09 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:46:08 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:46:14 PM] [GET] [Success] [3/27/2025 3:46:14 PM] GET http://localhost:5000/
+[3/27/2025 3:46:14 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:46:14 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:46:14 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:46:14 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:46:14 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:46:14 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:46:14 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:46:14 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:46:14 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:46:14 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:46:14 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:46:14 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:46:15 PM] [GET] [Success] [3/27/2025 3:46:15 PM] GET http://localhost:5000/
+[3/27/2025 3:46:15 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:46:15 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:46:15 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:46:15 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:46:15 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:46:15 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:46:15 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:46:15 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:46:15 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:46:15 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:46:15 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:46:15 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:46:17 PM] [GET] [Success] [3/27/2025 3:46:17 PM] GET http://localhost:5000/
+[3/27/2025 3:46:17 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:46:17 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:46:17 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:46:17 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:46:17 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:46:17 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:46:17 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:46:17 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:46:17 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:46:17 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:46:17 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:46:17 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:49:35 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 3:49:39 PM] [GET] [Success] [3/27/2025 3:49:39 PM] GET http://localhost:5000/
+[3/27/2025 3:49:39 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:49:39 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:49:39 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:49:39 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:49:39 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:49:39 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:49:39 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:49:39 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:49:39 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:49:39 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:49:39 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:49:39 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:49:40 PM] [GET] [Success] [3/27/2025 3:49:40 PM] GET http://localhost:5000/
+[3/27/2025 3:49:40 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:49:40 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:49:40 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:49:40 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:49:40 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:49:40 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:49:40 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:49:40 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:49:41 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:49:41 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:49:41 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:49:41 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:49:42 PM] [GET] [Success] [3/27/2025 3:49:42 PM] GET http://localhost:5000/
+[3/27/2025 3:49:42 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 3:49:42 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 3:49:42 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 3:49:42 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 3:49:42 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 3:49:42 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 3:49:42 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 3:49:42 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 3:49:43 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 3:49:43 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 3:49:43 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 3:49:43 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 3:50:09 PM] [All] [Success] ⏹️ Сервер остановлен.
+[3/27/2025 4:00:01 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 4:00:05 PM] [GET] [Success] [3/27/2025 4:00:05 PM] GET http://localhost:5000/
+[3/27/2025 4:00:05 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:00:05 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:00:05 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:00:05 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:00:05 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:00:05 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:00:05 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:00:05 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:00:05 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:00:05 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:00:05 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:00:05 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:00:06 PM] [GET] [Success] [3/27/2025 4:00:06 PM] GET http://localhost:5000/
+[3/27/2025 4:00:06 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:00:06 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:00:06 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:00:06 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:00:06 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:00:06 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:00:06 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:00:06 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:00:06 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:00:06 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:00:06 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:00:06 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:05:30 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 4:05:41 PM] [GET] [Success] [3/27/2025 4:05:41 PM] GET http://localhost:5000/
+[3/27/2025 4:05:41 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:05:41 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:05:41 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:05:41 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:05:41 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:05:41 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:05:41 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:05:41 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:05:41 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:05:41 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:05:41 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:05:41 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:06:43 PM] [GET] [Success] [3/27/2025 4:06:43 PM] GET http://localhost:5000/
+[3/27/2025 4:06:43 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:06:43 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:06:43 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:06:43 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:06:43 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:06:43 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:06:43 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:06:43 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:06:43 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:06:43 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:06:43 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:06:43 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:06:44 PM] [GET] [Success] [3/27/2025 4:06:44 PM] GET http://localhost:5000/
+[3/27/2025 4:06:44 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:06:44 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:06:44 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:06:44 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:06:44 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:06:45 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:06:45 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:06:45 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:06:45 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:06:45 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:06:45 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:06:45 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:12:43 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 4:12:46 PM] [GET] [Success] [3/27/2025 4:12:46 PM] GET http://localhost:5000/
+[3/27/2025 4:12:46 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:12:46 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:12:46 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:12:46 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:12:46 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:12:46 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:12:46 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:12:46 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:12:46 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:12:46 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:12:46 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:12:46 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:12:48 PM] [GET] [Success] [3/27/2025 4:12:48 PM] GET http://localhost:5000/
+[3/27/2025 4:12:48 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:12:48 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:12:48 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:12:48 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:12:48 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:12:48 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:12:48 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:12:48 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:12:48 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:12:48 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:12:48 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:12:48 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:12:56 PM] [GET] [Success] [3/27/2025 4:12:56 PM] GET http://localhost:5000/
+[3/27/2025 4:12:56 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:12:56 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:12:56 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:12:56 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:12:56 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:12:56 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:12:56 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:12:56 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:12:56 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:12:56 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:12:56 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:12:56 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:13:49 PM] [GET] [Success] [3/27/2025 4:13:49 PM] GET http://localhost:5000/
+[3/27/2025 4:13:49 PM] [GET] [Success] Upgrade-Insecure-Requests: 1
+[3/27/2025 4:13:49 PM] [GET] [Success] Sec-Fetch-Dest: document
+[3/27/2025 4:13:49 PM] [GET] [Success] Sec-Fetch-Mode: navigate
+[3/27/2025 4:13:49 PM] [GET] [Success] Sec-Fetch-Site: none
+[3/27/2025 4:13:49 PM] [GET] [Success] Sec-Fetch-User: ?1
+[3/27/2025 4:13:49 PM] [GET] [Success] Priority: u=0, i
+[3/27/2025 4:13:49 PM] [GET] [Success] Connection: keep-alive
+[3/27/2025 4:13:49 PM] [GET] [Success] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[3/27/2025 4:13:49 PM] [GET] [Success] Accept-Encoding: gzip, deflate, br, zstd
+[3/27/2025 4:13:49 PM] [GET] [Success] Accept-Language: en-US,en;q=0.5
+[3/27/2025 4:13:49 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:13:49 PM] [GET] [Success] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+[3/27/2025 4:13:56 PM] [All] [Success] ⏹️ Сервер остановлен.
+[3/27/2025 4:29:30 PM] [All] [Success] 🚀 Сервер запущен.
+[3/27/2025 4:29:35 PM] [GET] [Success] [3/27/2025 4:29:35 PM] GET http://localhost:5000/
+[3/27/2025 4:29:35 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:36 PM] [GET] [Success] [3/27/2025 4:29:36 PM] GET http://localhost:5000/
+[3/27/2025 4:29:36 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:37 PM] [GET] [Success] [3/27/2025 4:29:37 PM] GET http://localhost:5000/
+[3/27/2025 4:29:37 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:37 PM] [GET] [Success] [3/27/2025 4:29:37 PM] GET http://localhost:5000/
+[3/27/2025 4:29:37 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:38 PM] [GET] [Success] [3/27/2025 4:29:38 PM] GET http://localhost:5000/
+[3/27/2025 4:29:38 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:38 PM] [GET] [Success] [3/27/2025 4:29:38 PM] GET http://localhost:5000/
+[3/27/2025 4:29:38 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:39 PM] [GET] [Success] [3/27/2025 4:29:39 PM] GET http://localhost:5000/
+[3/27/2025 4:29:39 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:39 PM] [GET] [Success] [3/27/2025 4:29:39 PM] GET http://localhost:5000/
+[3/27/2025 4:29:39 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:40 PM] [GET] [Success] [3/27/2025 4:29:40 PM] GET http://localhost:5000/
+[3/27/2025 4:29:40 PM] [GET] [Success] Host: localhost:5000
+[3/27/2025 4:29:58 PM] [POST] [Success] [3/27/2025 4:29:58 PM] POST http://localhost:5000/
+[3/27/2025 4:29:58 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:29:58 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:29:58 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:29:59 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:02 PM] [POST] [Success] [3/27/2025 4:30:02 PM] POST http://localhost:5000/
+[3/27/2025 4:30:02 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:02 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:02 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:02 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:02 PM] [POST] [Success] [3/27/2025 4:30:02 PM] POST http://localhost:5000/
+[3/27/2025 4:30:02 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:02 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:02 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:02 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:08 PM] [POST] [Success] [3/27/2025 4:30:08 PM] POST http://localhost:5000/
+[3/27/2025 4:30:08 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:08 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:08 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:08 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:08 PM] [POST] [Success] [3/27/2025 4:30:08 PM] POST http://localhost:5000/
+[3/27/2025 4:30:08 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:08 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:09 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:09 PM] [POST] [Success] [3/27/2025 4:30:09 PM] POST http://localhost:5000/
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:09 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:09 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:09 PM] [POST] [Success] [3/27/2025 4:30:09 PM] POST http://localhost:5000/
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:09 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:09 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:09 PM] [POST] [Success] [3/27/2025 4:30:09 PM] POST http://localhost:5000/
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:09 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:09 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:09 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:09 PM] [POST] [Success] [3/27/2025 4:30:09 PM] POST http://localhost:5000/
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:10 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:10 PM] [POST] [Success] [3/27/2025 4:30:10 PM] POST http://localhost:5000/
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:10 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:10 PM] [POST] [Success] [3/27/2025 4:30:10 PM] POST http://localhost:5000/
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Length: 138
+[3/27/2025 4:30:10 PM] [POST] [Success] Content-Type: application/json; charset=utf-8
+[3/27/2025 4:30:10 PM] [POST] [Success] Host: localhost:5000
+[3/27/2025 4:30:10 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:10 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:11 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:11 PM] [POST] [Success] Тело запроса: {
+ "Status": "Успех",
+ "Message": "POST запрос обработан.",
+ "RequestId": "695f0b59-42f2-4bd5-8ffb-27e8fb2d2294"
+}
+[3/27/2025 4:30:52 PM] [All] [Success] ⏹️ Сервер остановлен.

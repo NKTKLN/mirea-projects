@@ -1,0 +1,54 @@
+﻿<Window x:Class="Network_Connection_Analyzer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Network_Connection_Analyzer"
+        mc:Ignorable="d"
+        Title="Network Analyzer" Height="400" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Margin="0,0,0,10">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="150">
+                    <ListBox x:Name="NetworkInterfacesList" SelectionChanged="NetworkInterfacesList_SelectionChanged">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Description}" />
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </ScrollViewer>
+            </Border>
+
+            <StackPanel Grid.Row="1" Margin="0,0,0,10">
+                <TextBlock Text="🔌 Информация о сетевом интерфейсе:" FontWeight="Bold" />
+                <TextBlock x:Name="InterfaceInfo" Margin="0,5,0,10" TextWrapping="Wrap" />
+
+                <TextBlock Text="🌐 Введите URL:" FontWeight="Bold" />
+                <TextBox x:Name="UrlInput" Margin="0,5,0,10" />
+
+                <Button Content="🔍 Проверить URL" Click="CheckUrl_Click" Margin="0,5,0,10" />
+
+                <TextBlock Text="📋 Результаты:" FontWeight="Bold" />
+                <TextBlock x:Name="UrlResults" TextWrapping="Wrap" Margin="0,5,0,10" />
+
+                <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Margin="0,10,0,10">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Height="100">
+                        <ListBox x:Name="HistoryList">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Url}" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </ScrollViewer>
+                </Border>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>

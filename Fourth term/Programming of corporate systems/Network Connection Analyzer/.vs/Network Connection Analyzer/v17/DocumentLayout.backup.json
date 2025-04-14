@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\models\\urlhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\models\\urlhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|c:\\users\\nktkln\\desktop\\network connection analyzer\\network connection analyzer\\migrations\\20250313095710_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8017536-953F-4517-8788-C6A6528FD3F7}|Network Connection Analyzer\\Network Connection Analyzer.csproj|solutionrelative:network connection analyzer\\migrations\\20250313095710_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\MainWindow.xaml",
+              "RelativeToolTip": "Network Connection Analyzer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T09:59:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\AssemblyInfo.cs",
+              "RelativeToolTip": "Network Connection Analyzer\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:38:49.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Network Connection Analyzer\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAiwOsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:23:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250313095710_InitialCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Migrations\\20250313095710_InitialCreate3.cs",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\Migrations\\20250313095710_InitialCreate3.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Migrations\\20250313095710_InitialCreate3.cs",
+              "RelativeToolTip": "Network Connection Analyzer\\Migrations\\20250313095710_InitialCreate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:57:10.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Network Connection Analyzer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:32:47.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlHistory.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Models\\UrlHistory.cs",
+              "RelativeDocumentMoniker": "Network Connection Analyzer\\Models\\UrlHistory.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\Network Connection Analyzer\\Network Connection Analyzer\\Models\\UrlHistory.cs",
+              "RelativeToolTip": "Network Connection Analyzer\\Models\\UrlHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:26:51.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
