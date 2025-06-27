@@ -1,0 +1,89 @@
+﻿@model TourGuideApp.Models.City
+
+@{
+    ViewData["Title"] = Model?.Name;
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">@Model?.Name</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <dl class="row">
+                <dt class="col-sm-4">Регион:</dt>
+                <dd class="col-sm-8">@Model?.Region</dd>
+
+                <dt class="col-sm-4">Население:</dt>
+                <dd class="col-sm-8">@Model?.Population</dd>
+
+                <dt class="col-sm-4">История:</dt>
+                <dd class="col-sm-8">@Model?.History</dd>
+            </dl>
+        </div>
+
+        <div class="col-md-3 text-center">
+            @if (!string.IsNullOrEmpty(Model?.PhotoPath))
+            {
+                <img src="@Model.PhotoPath" alt="Фото города" class="img-fluid rounded shadow-sm" />
+            }
+            else
+            {
+                <p>Фото отсутствует</p>
+            }
+        </div>
+
+        <div class="col-md-3 text-center">
+            @if (!string.IsNullOrEmpty(Model?.CoatOfArmsPath))
+            {
+                <img src="@Model.CoatOfArmsPath" alt="Герб города" class="img-fluid rounded shadow-sm" />
+            }
+            else
+            {
+                <p>Герб отсутствует</p>
+            }
+        </div>
+    </div>
+
+    <hr />
+
+    <h3>Достопримечательности</h3>
+    @if (Model?.Attractions != null && Model.Attractions.Any())
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var attraction in Model.Attractions)
+            {
+                <div class="col">
+                    <a asp-controller="Attractions" asp-action="Details" asp-route-id="@attraction.Id" class="text-decoration-none">
+                        <div class="card h-100 shadow-sm">
+                            @if (!string.IsNullOrEmpty(attraction.PhotoPath))
+                            {
+                                <img src="@attraction.PhotoPath" class="card-img-top" alt="Фото @attraction.Name" style="height: 150px; object-fit: cover;" />
+                            }
+                            else
+                            {
+                                <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height: 150px;">
+                                    <span class="text-muted">Фото отсутствует</span>
+                                </div>
+                            }
+
+                            <div class="card-body">
+                                <h5 class="card-title">@attraction.Name</h5>
+                                <p class="card-text text-truncate">
+                                    @(attraction.Description.Length > 100 ? attraction.Description.Substring(0, 100) + "..." : attraction.Description)
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p>Достопримечательностей пока нет.</p>
+    }
+
+    <a asp-controller="Cities" asp-action="Index" class="btn btn-outline-primary">
+        &larr; Назад к списку городов
+    </a>
+</div>

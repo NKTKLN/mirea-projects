@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\",
+  "WorkspaceRootPath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|c:\\users\\nktkln\\desktop\\httpclientapp\\httpclientapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|d:\\university\\code projects\\fourth term\\programming of corporate systems\\httpclientapp\\httpclientapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|solutionrelative:httpclientapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|c:\\users\\nktkln\\desktop\\httpclientapp\\httpclientapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|d:\\university\\code projects\\fourth term\\programming of corporate systems\\httpclientapp\\httpclientapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3C258A-7D88-40E5-BB72-F75064BF499A}|HttpClientApp\\HttpClientApp.csproj|solutionrelative:httpclientapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HttpClientApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\MainWindow.xaml",
+              "ToolTip": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\MainWindow.xaml",
               "RelativeToolTip": "HttpClientApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-27T11:59:27.025Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HttpClientApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "HttpClientApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:59:24.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T11:59:24.525Z"
             }
           ]
         }

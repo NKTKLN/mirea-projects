@@ -1,0 +1,37 @@
+﻿@model TourGuideApp.Models.CityCreateViewModel
+
+<h2>Добавить город</h2>
+
+<form asp-action="AddCity" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Название</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Region" class="form-label">Регион</label>
+        <input asp-for="Region" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Population" class="form-label">Население</label>
+        <input asp-for="Population" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="History" class="form-label">История</label>
+        <textarea asp-for="History" class="form-control" rows="4"></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Photo" class="form-label">Фото города</label>
+        <input asp-for="Photo" type="file" class="form-control" accept="image/*" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CoatOfArms" class="form-label">Герб города</label>
+        <input asp-for="CoatOfArms" type="file" class="form-control" accept="image/*" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Сохранить</button>
+</form>

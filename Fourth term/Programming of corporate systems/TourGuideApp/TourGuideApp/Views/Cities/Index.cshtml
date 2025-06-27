@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TourGuideApp.Models.City>
+
+@{
+    ViewData["Title"] = "Города";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Список городов</h2>
+
+    <form asp-action="Index" method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="search" placeholder="Поиск по названию города..." class="form-control" />
+            <button type="submit" class="btn btn-primary">Найти</button>
+        </div>
+    </form>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var city in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@city.PhotoPath" class="card-img-top" alt="Фото @city.Name" style="height: 200px; object-fit: cover;" />
+                    <div class="card-body">
+                        <h5 class="card-title">@city.Name</h5>
+                        <p class="card-text">
+                            Регион: @city.Region<br />
+                            Население: @city.Population
+                        </p>
+                    </div>
+                    <div class="card-footer bg-white border-0">
+                        <a asp-action="Details" asp-route-id="@city.Id" class="btn btn-primary w-100">Подробнее</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

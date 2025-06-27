@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Вход";
+}
+
+<h2>Вход в панель администрирования</h2>
+
+<form method="post" asp-action="Login">
+    <div class="mb-3">
+        <label class="form-label">Логин</label>
+        <input type="text" name="username" class="form-control" placeholder="Введите логин" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Пароль</label>
+        <input type="password" name="password" class="form-control" placeholder="Введите пароль" />
+    </div>
+
+    @if (!Html.ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            Неверный логин или пароль.
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary">Войти</button>
+</form>

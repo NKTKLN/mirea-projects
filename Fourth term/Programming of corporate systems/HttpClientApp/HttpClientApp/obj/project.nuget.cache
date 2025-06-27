@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h7o1PFOupPw=",
+  "dgSpecHash": "JOtYsz3FdEw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
+  "projectFilePath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NKTKLN\\.nuget\\packages\\emoji.wpf\\0.3.4\\emoji.wpf.0.3.4.nupkg.sha512",
     "C:\\Users\\NKTKLN\\.nuget\\packages\\jeremyansel.hlsl.targets\\1.0.13\\jeremyansel.hlsl.targets.1.0.13.nupkg.sha512",

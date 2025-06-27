@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Панель администратора";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Добро пожаловать, администратор!</h2>
+
+    <div class="list-group">
+        <a asp-controller="Admin" asp-action="AddCity" class="list-group-item list-group-item-action">
+            <h5 class="mb-1">Добавить город</h5>
+            <p class="mb-1">Добавьте новый город с описанием и фотографией.</p>
+        </a>
+
+        <a asp-controller="Admin" asp-action="AddAttraction" class="list-group-item list-group-item-action">
+            <h5 class="mb-1">Добавить достопримечательность</h5>
+            <p class="mb-1">Добавьте новую достопримечательность с часами работы и ценой.</p>
+        </a>
+    </div>
+
+    <div class="mt-4">
+        <a asp-controller="Cities" asp-action="Index" class="btn btn-outline-secondary">Назад к списку городов</a>
+    </div>
+</div>

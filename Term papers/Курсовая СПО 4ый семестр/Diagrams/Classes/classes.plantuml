@@ -1,0 +1,222 @@
+@startuml
+
+' Настройки диаграммы
+hide empty members
+skinparam classAttributeIconSize 0
+
+' Перечисления и базовые классы
+class UserRole {
+  +id: int
+  +name: str
+}
+
+class UserType {
+  +id: int
+  +name: str
+}
+
+class Country {
+  +id: int
+  +name: str
+  +code: str
+}
+
+class Address {
+  +id: int
+  +street: str
+  +city: str
+  +postal_code: str
+  +country_id: int
+}
+
+' Основные классы
+class User {
+  +id: int
+  +email: str
+  +password_hash: str
+  +role_id: int
+}
+
+class Person {
+  +id: int
+  +first_name: str
+  +last_name: str
+  +display_name: str
+  +user_id: int
+  +address_id: int
+  +user_type_id: int
+}
+
+class FlowerType {
+  +id: int
+  +name: str
+  +description: str
+}
+
+class FloweringSeason {
+  +id: int
+  +name: str
+  +description: str
+}
+
+class FlowerUsage {
+  +id: int
+  +name: str
+  +description: str
+}
+
+class Flower {
+  +id: int
+  +name: str
+  +type_id: int
+  +season_id: int
+  +usage_id: int
+  +variety: str
+  +price: Decimal
+  +country_id: int
+}
+
+class Order {
+  +id: int
+  +buyer_id: int
+  +order_date: Date
+}
+
+' Ассоциативные таблицы
+class saleable_flowers {
+  +seller_id: int
+  +flower_id: int
+}
+
+class ordered_flowers {
+  +order_id: int
+  +flower_id: int
+  +quantity: int
+}
+
+' Security компоненты
+class AuthService {
+  +pwd_context: CryptContext
+  +secret_key: str
+  +algorithm: str
+  +get_password_hash()
+  +verify_password()
+  +create_access_token()
+  +create_refresh_token()
+  +revoke_token()
+  +is_token_revoked()
+  +decode_token()
+}
+
+class SecurityUtils {
+  +verify_token()
+}
+
+' API классы
+class AuthAPI {
+  +router: APIRouter
+  +login()
+  +refresh_token()
+  +register_user()
+  +check_token()
+}
+
+class UserAPI {
+  +router: APIRouter
+  +get_user_by_id()
+  +get_user()
+  +update_user_data()
+  +update_user_password()
+}
+
+class FlowerAPI {
+  +router: APIRouter
+  +list_flowers()
+  +create_flower_type()
+  +create_flowering_season()
+  +create_flower_usage()
+  +list_flower_types()
+  +list_flowering_seasons()
+  +list_flower_usages()
+  +list_flowering_countries()
+  +create_flower_countries()
+  +remove_flower_countries()
+  +remove_flower_types()
+  +remove_flower_seasons()
+  +remove_flower_usages()
+}
+
+class SellerAPI {
+  +router: APIRouter
+  +add_flower()
+  +edit_flower()
+  +remove_flower()
+  +get_orders()
+}
+
+class OrderAPI {
+  +router: APIRouter
+  +make_order()
+  +get_my_orders()
+  +get_order_details()
+}
+
+class AdminAPI {
+  +router: APIRouter
+  +create_user()
+  +delete_user()
+  +admin_update_user()
+  +list_users()
+  +add_flower()
+  +admin_get_orders()
+}
+
+' Связи между классами (композиция)
+Person *-- User
+Order *-- Person
+Flower *-- FlowerType
+Flower *-- FloweringSeason
+Flower *-- FlowerUsage
+Flower *-- Country
+Address *-- Country
+
+' Агрегация и ассоциации
+Person "1" o-- "1" UserType
+Person "1" o-- "1" Address
+User "1" o-- "1" UserRole
+
+' Связи многие-ко-многим через ассоциативные таблицы
+Person "1" -- "*" Flower : through saleable_flowers
+Order "1" -- "*" Flower : through ordered_flowers
+
+' Зависимости
+AuthAPI ..> AuthService
+AuthAPI ..> User
+UserAPI ..> User
+UserAPI ..> Person
+UserAPI ..> SecurityUtils
+FlowerAPI ..> Flower
+FlowerAPI ..> FlowerType
+FlowerAPI ..> FloweringSeason
+FlowerAPI ..> FlowerUsage
+FlowerAPI ..> Country
+FlowerAPI ..> SecurityUtils
+SellerAPI ..> Flower
+SellerAPI ..> Person
+SellerAPI ..> Order
+SellerAPI ..> SecurityUtils
+OrderAPI ..> Order
+OrderAPI ..> Flower
+OrderAPI ..> Person
+OrderAPI ..> SecurityUtils
+AdminAPI ..> User
+AdminAPI ..> Person
+AdminAPI ..> Flower
+AdminAPI ..> Order
+AdminAPI ..> SecurityUtils
+
+SecurityUtils ..> AuthService
+SecurityUtils ..> HTTPException
+SecurityUtils ..> JWTError
+
+@enduml

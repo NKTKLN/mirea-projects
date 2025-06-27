@@ -1,0 +1,52 @@
+﻿@model TourGuideApp.Models.AttractionCreateViewModel
+
+<h2>Добавить достопримечательность</h2>
+
+<form asp-action="AddAttraction" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Название</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Краткое описание</label>
+        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="History" class="form-label">История</label>
+        <textarea asp-for="History" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="History" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="WorkingHours" class="form-label">Часы работы</label>
+        <input asp-for="WorkingHours" class="form-control" />
+        <span asp-validation-for="WorkingHours" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="EntranceFee" class="form-label">Стоимость входа</label>
+        <input asp-for="EntranceFee" class="form-control" placeholder="0.00" />
+        <span asp-validation-for="EntranceFee" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CityId" class="form-label">Город</label>
+        <select asp-for="CityId" class="form-select" asp-items="@(new SelectList(ViewBag.Cities, "Id", "Name"))">
+            <option value="">-- Выберите город --</option>
+        </select>
+        <span asp-validation-for="CityId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Photo" class="form-label">Фото</label>
+        <input asp-for="Photo" type="file" class="form-control" accept="image/*" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Сохранить</button>
+</form>
+
+<div asp-validation-summary="All" class="text-danger"></div>

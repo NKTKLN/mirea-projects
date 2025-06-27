@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
+      "projectUniqueName": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
       "projectName": "HttpClientApp",
-      "projectPath": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
+      "projectPath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\HttpClientApp.csproj",
       "packagesPath": "C:\\Users\\NKTKLN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NKTKLN\\Desktop\\HttpClientApp\\HttpClientApp\\obj\\",
+      "outputPath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\HttpClientApp\\HttpClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
