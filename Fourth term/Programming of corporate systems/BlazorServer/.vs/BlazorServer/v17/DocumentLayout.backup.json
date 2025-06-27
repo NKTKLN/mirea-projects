@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\migrations\\20250526154848_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\migrations\\20250526154848_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|c:\\users\\nktkln\\desktop\\blazorserver\\blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B927261-0899-4188-B528-DA4EC4B42219}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250526154848_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Migrations\\20250526154848_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Migrations\\20250526154848_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Migrations\\20250526154848_InitialCreate.cs",
+              "RelativeToolTip": "BlazorServer\\Migrations\\20250526154848_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:48:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorServer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:19:37.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Data\\Product.cs",
+              "RelativeToolTip": "BlazorServer\\Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:19:22.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlazorServer.csproj",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\BlazorServer.csproj",
+              "RelativeDocumentMoniker": "BlazorServer\\BlazorServer.csproj",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\BlazorServer.csproj",
+              "RelativeToolTip": "BlazorServer\\BlazorServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T17:18:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Program.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Program.cs",
+              "RelativeToolTip": "BlazorServer\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:18:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\BlazorServer\\BlazorServer\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BlazorServer\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:18:12.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

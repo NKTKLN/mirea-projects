@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ICHgrEa5ns=",
+  "dgSpecHash": "AaQGCXHjw0M=",
   "success": true,
-  "projectFilePath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
+  "projectFilePath": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NKTKLN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\NKTKLN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

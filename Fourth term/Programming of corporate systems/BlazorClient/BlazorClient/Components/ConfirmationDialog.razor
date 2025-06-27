@@ -1,0 +1,28 @@
+﻿<div class="modal" tabindex="-1" style="display:@(isVisible ? "block" : "none")">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Подтверждение удаления</h5>
+                <button type="button" class="btn-close" @onclick="Cancel"></button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверены, что хотите удалить этот товар?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" @onclick="Confirm">Да</button>
+                <button type="button" class="btn btn-secondary" @onclick="Cancel">Нет</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private bool isVisible;
+    [Parameter] public EventCallback OnConfirm { get; set; }
+
+    public void Show() => isVisible = true;
+
+    private void Confirm() => OnConfirm.InvokeAsync();
+
+    public void Cancel() => isVisible = false;
+}

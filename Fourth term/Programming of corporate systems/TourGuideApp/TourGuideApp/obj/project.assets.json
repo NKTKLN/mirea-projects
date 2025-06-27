@@ -3193,11 +3193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
+      "projectUniqueName": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
       "projectName": "TourGuideApp",
-      "projectPath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
+      "projectPath": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\TourGuideApp.csproj",
       "packagesPath": "C:\\Users\\NKTKLN\\.nuget\\packages\\",
-      "outputPath": "D:\\University\\Code projects\\Fourth term\\Programming of corporate systems\\TourGuideApp\\TourGuideApp\\obj\\",
+      "outputPath": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

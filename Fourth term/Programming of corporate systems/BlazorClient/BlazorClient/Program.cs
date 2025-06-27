@@ -1,0 +1,14 @@
+using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using BlazorClient;
+using BlazorClient.Services;
+
+var builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.RootComponents.Add<App>("#app");
+builder.RootComponents.Add<HeadOutlet>("head::after");
+
+builder.Services.AddScoped<ProductService>();
+builder.Services.AddScoped<HttpClient>(sp =>
+    new HttpClient { BaseAddress = new Uri("https://localhost:7128") });
+
+await builder.Build().RunAsync();

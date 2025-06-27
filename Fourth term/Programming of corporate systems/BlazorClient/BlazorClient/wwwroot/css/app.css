@@ -1,0 +1,211 @@
+﻿/* === Цветовые переменные для светлой и темной темы === */
+:root {
+    /* Светлая тема по умолчанию */
+    --bg-main: #ffffff;
+    --bg-card: #f8f9fa;
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --accent-primary: #1b6ec2;
+    --accent-success: #43A047;
+    --accent-warning: #FB8C00;
+    --accent-danger: #E53935;
+    --input-bg: #fff;
+    --input-border: #ced4da;
+    --border-color: #dee2e6;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+.dark-theme {
+    /* Темная тема */
+    --bg-main: #121212;
+    --bg-card: #1e1e1e;
+    --text-primary: #ffffff;
+    --text-secondary: #cccccc;
+    --accent-primary: #7C4DFF;
+    --accent-success: #43A047;
+    --accent-warning: #FB8C00;
+    --accent-danger: #E53935;
+    --input-bg: #2c2c2c;
+    --input-border: #444444;
+    --border-color: #333333;
+    --shadow-color: rgba(255, 255, 255, 0.05);
+}
+
+/* === Общие стили для body === */
+html,
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+}
+
+h1:focus {
+    outline: none;
+}
+
+a,
+.btn-link {
+    color: var(--accent-primary);
+}
+
+/* === Кнопки === */
+.btn-primary {
+    background-color: var(--accent-primary);
+    border-color: var(--accent-primary);
+}
+
+.btn-success {
+    background-color: var(--accent-success);
+    border-color: var(--accent-success);
+}
+
+.btn-warning {
+    background-color: var(--accent-warning);
+    border-color: var(--accent-warning);
+}
+
+.btn-danger {
+    background-color: var(--accent-danger);
+    border-color: var(--accent-danger);
+}
+
+/* === Фокус кнопок и инпутов === */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem var(--bg-main), 0 0 0 0.25rem var(--accent-primary);
+}
+
+/* === Таблицы === */
+.table {
+    background-color: var(--bg-card);
+    color: var(--text-primary);
+}
+
+    .table th,
+    .table td {
+        border-color: var(--border-color);
+        color: var(--text-primary);
+    }
+
+/* === Карточки === */
+.card {
+    background-color: var(--bg-card);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+}
+
+/* === Поля ввода === */
+.form-control,
+.input-group-text {
+    background-color: var(--input-bg);
+    border-color: var(--input-border);
+    color: var(--text-primary);
+}
+
+    .form-control:focus {
+        background-color: var(--input-bg);
+        color: var(--text-primary);
+        box-shadow: 0 0 0 0.2rem rgba(124, 77, 255, 0.25);
+    }
+
+.form-check-input:checked {
+    background-color: var(--accent-primary);
+    border-color: var(--accent-primary);
+}
+
+/* === Сообщения об ошибках и код === */
+.validation-message {
+    color: red;
+}
+
+code {
+    color: var(--accent-primary);
+}
+
+/* === Сообщение Blazor при ошибке === */
+#blazor-error-ui {
+    background: #2e2e2e;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.4);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    color: white;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+.blazor-error-boundary {
+    background: url(data:image/svg+xml;base64,...твоя_картинка...) no-repeat 1rem/1.8rem, #b32121;
+    padding: 1rem 1rem 1rem 3.7rem;
+    color: white;
+}
+
+
+.loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--bg-main);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    transition: opacity 0.3s ease;
+}
+
+.loading-progress {
+    width: 80px;
+    height: 80px;
+    transform: rotate(-90deg); /* чтобы начать с верхней точки */
+}
+
+    .loading-progress circle {
+        fill: none;
+        stroke-width: 6;
+        cx: 50;
+        cy: 50;
+        r: 40;
+        stroke-linecap: round;
+    }
+
+.progress-bg {
+    stroke: var(--border-color);
+}
+
+.progress-bar {
+    stroke: var(--accent-primary);
+    stroke-dasharray: 251.2; /* длина окружности круга = 2 * π * 40 ≈ 251.2 */
+    stroke-dashoffset: 251.2;
+    animation: progress-spinner 2s linear forwards infinite;
+}
+
+@keyframes progress-spinner {
+    0% {
+        stroke-dashoffset: 251.2;
+    }
+
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+.loading-progress-text {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: var(--text-secondary);
+}

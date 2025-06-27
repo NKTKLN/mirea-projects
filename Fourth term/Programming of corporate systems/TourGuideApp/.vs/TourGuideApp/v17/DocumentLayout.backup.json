@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\views\\attractions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\views\\attractions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|solutionrelative:tourguideapp\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F3903D-437C-47BC-9D80-69AA14586F03}|TourGuideApp\\TourGuideApp.csproj|c:\\users\\nktkln\\desktop\\tourguideapp\\tourguideapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,11 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Views\\Cities\\Details.cshtml",
               "RelativeDocumentMoniker": "TourGuideApp\\Views\\Cities\\Details.cshtml",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Views\\Cities\\Index.cshtml",
               "RelativeDocumentMoniker": "TourGuideApp\\Views\\Cities\\Index.cshtml",
@@ -127,20 +127,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Controllers\\CitiesController.cs",
               "ToolTip": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Controllers\\CitiesController.cs",
               "RelativeToolTip": "TourGuideApp\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:14:52.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:14:52.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CityCreateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Models\\CityCreateViewModel.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Models\\CityCreateViewModel.cs",
@@ -152,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Models\\City.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Models\\City.cs",
@@ -164,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Controllers\\AdminController.cs",
@@ -172,12 +171,11 @@
               "RelativeToolTip": "TourGuideApp\\Controllers\\AdminController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAQwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:32:13.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T08:32:13.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AddCity.cshtml",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Views\\Admin\\AddCity.cshtml",
               "RelativeDocumentMoniker": "TourGuideApp\\Views\\Admin\\AddCity.cshtml",
@@ -189,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Attraction.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Models\\Attraction.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Models\\Attraction.cs",
@@ -201,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AttractionCreateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Models\\AttractionCreateViewModel.cs",
               "RelativeDocumentMoniker": "TourGuideApp\\Models\\AttractionCreateViewModel.cs",
@@ -213,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\NKTKLN\\Desktop\\TourGuideApp\\TourGuideApp\\Views\\Attractions\\Details.cshtml",
               "RelativeDocumentMoniker": "TourGuideApp\\Views\\Attractions\\Details.cshtml",
