@@ -1,0 +1,27 @@
+services:
+  api_gateway:
+    build: ./api_gateway
+    container_name: api_gateway
+    ports:
+      - "8000:8000"
+    environment:
+      USERS_SERVICE_URL: "http://service_users:8000"
+      ORDERS_SERVICE_URL: "http://service_orders:8000"
+      SECRET_KEY: "supersecretkey"
+    depends_on:
+      - service_users
+      - service_orders
+
+  service_users:
+    build: ./service_users
+    container_name: service_users
+    ports:
+      - "8001:8000"
+    environment:
+      SECRET_KEY: "supersecretkey"
+
+  service_orders:
+    build: ./service_orders
+    container_name: service_orders
+    ports:
+      - "8002:8000"

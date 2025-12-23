@@ -1,0 +1,5 @@
+---
+- name: Добавить SSH ключ для пользователя root
+  authorized_key:
+    user: root
+    key: "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
