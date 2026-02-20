@@ -1,0 +1,18 @@
+---
+- name: Установка nginx
+  apt:
+    name: nginx
+    state: present
+
+- name: Включение nginx
+  systemd:
+    name: nginx
+    state: started
+    enabled: true
+
+- name: Настройка /var/www/my_site
+  file:
+    path: /var/www/my_site
+    state: directory
+    owner: www-data
+    group: www-data

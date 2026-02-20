@@ -1,0 +1,31 @@
+---
+- name: Обновление репозиториев
+  apt:
+    update_cache: yes
+    cache_valid_time: 86400
+
+- name: Обновление пакетов
+  apt:
+    upgrade: dist
+    update_cache: yes
+
+- name: Установка базовых утилит
+  apt:
+    name:
+      - curl
+      - git
+      - vim
+      - htop
+      - unzip
+    state: present
+
+- name: Установка fail2ban
+  apt:
+    name: fail2ban
+    state: present
+
+- name: Включение fail2ban
+  systemd:
+    name: fail2ban
+    state: started
+    enabled: true

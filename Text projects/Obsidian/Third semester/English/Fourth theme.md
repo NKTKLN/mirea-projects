@@ -1,0 +1,13 @@
+---
+tags:
+  - University
+  - HW
+  - English
+---
+## English Version
+
+Primary storage, also known as main memory, is essential for efficient computer operation. This type of memory provides temporary data storage that the CPU can access quickly, making it vital for processing active tasks. The **RAM** (Random Access Memory) component of primary storage is volatile, meaning it only retains data while the computer is powered on. RAM allows the CPU to access active data and programs instantly, thereby enhancing computing speed and efficiency. Expanding RAM capacity enables a computer to handle more tasks simultaneously, significantly boosting its performance. **ROM** (Read-Only Memory) is non-volatile and retains crucial data like startup instructions, even when the system is turned off. It stores firmware and system instructions required for booting up. Another critical element of primary storage is **cache memory** — a smaller, faster type of memory located close to the CPU. Cache memory holds frequently accessed data, reducing the time needed for retrieval from slower memory sources. Together, RAM, ROM, and cache create a layered structure in primary storage, enabling high processing speed and ensuring essential operations run smoothly.
+
+## Russian Version
+
+Первичная память, или основная память, является важнейшим элементом для эффективной работы компьютера. Этот тип памяти обеспечивает временное хранение данных, к которым процессор может быстро обратиться, что необходимо для обработки текущих задач. **ОЗУ** (оперативное запоминающее устройство) является энергозависимой памятью, то есть сохраняет данные только при включенном питании. ОЗУ позволяет процессору мгновенно получать доступ к активным данным и программам, что повышает скорость и эффективность вычислений. Увеличение объема ОЗУ позволяет компьютеру выполнять больше задач одновременно, значительно улучшая производительность. **ПЗУ** (постоянное запоминающее устройство), в отличие от ОЗУ, энергонезависимо и сохраняет важные данные, такие как инструкции для запуска системы, даже при отключении питания. Важный элемент первичной памяти — это **кэш-память** — небольшой, но очень быстрый вид памяти, расположенный рядом с процессором. Кэш хранит часто используемые данные, сокращая время их получения из более медленных источников. Совместно ОЗУ, ПЗУ и кэш создают многоуровневую структуру первичной памяти, что позволяет значительно увеличить скорость обработки данных и поддерживать выполнение важных операций.

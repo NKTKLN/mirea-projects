@@ -1,0 +1,32 @@
+---
+- name: Упаковать сайт в архив
+  archive:
+    path: "{{ role_path }}/files/site/*"
+    dest: "/tmp/site.tar.gz"
+    format: gz
+  delegate_to: localhost
+  run_once: true
+  become: false
+
+- name: Копировать архив на сервер
+  copy:
+    src: "/tmp/site.tar.gz"
+    dest: "/tmp/site.tar.gz"
+
+- name: Распаковать сайт на сервере
+  unarchive:
+    src: "/tmp/site.tar.gz"
+    dest: /var/www/my_site/
+    remote_src: yes
+
+- name: Устанавливаем права на сайт
+  file:
+    path: /var/www/my_site
+    recurse: yes
+    owner: www-data
+    group: www-data
+
+- name: Перезагрузка nginx
+  systemd:
+    name: nginx
+    state: reloaded

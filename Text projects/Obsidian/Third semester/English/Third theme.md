@@ -1,0 +1,14 @@
+---
+tags:
+  - University
+  - HW
+  - English
+---
+
+## English version
+
+Computer hardware consists of physical components that are essential for a computer system to function. The main components include the **CPU**, **memory**, **storage devices**, and **input/output devices**. The **CPU** (central processing unit) is often called the "brain" of the computer. It processes data, runs programs, and manages tasks. It performs calculations and controls all other components of the system. **Memory** includes **RAM** (Random Access Memory) and **ROM** (Read-Only Memory). RAM temporarily stores data and programs currently in use. It is volatile, meaning data is lost when the computer is powered off. ROM, however, stores essential instructions, such as the **BIOS**, and is non-volatile, retaining its data even when the power is off. **Storage devices** such as **hard disk drives (HDD)** and **solid-state drives (SSD)** provide long-term storage for operating systems, software, and files. HDDs use magnetic storage, while SSDs rely on flash memory, which allows faster data access. **Input devices**, like keyboards and mice, allow users to send data to the computer, while **output devices**, such as monitors and printers, display or produce the results. **Peripherals** are additional devices like external hard drives or webcams, which can be connected to enhance functionality. Together, these components enable the computer to run efficiently and perform various tasks.
+
+## Russian version
+
+Компьютерное оборудование состоит из физических компонентов, которые необходимы для работы компьютерной системы. Основные компоненты включают **CPU**, **память**, **устройства хранения данных** и **устройства ввода/вывода**. **CPU** (центральный процессор) часто называют «мозгом» компьютера. Он обрабатывает данные, запускает программы и управляет задачами. CPU выполняет вычисления и контролирует все другие компоненты системы. **Память** включает **RAM** (оперативную память) и **ROM** (постоянную память). RAM временно хранит данные и программы, которые используются в данный момент. Она энергозависима, то есть данные теряются при выключении питания. **ROM**, напротив, хранит важные инструкции, такие как **BIOS**, и является энергонезависимой. **Устройства хранения**, такие как **жесткие диски (HDD)** и **твердотельные накопители (SSD)**, обеспечивают долгосрочное хранение операционных систем, программ и файлов. HDD используют магнитное хранение, а SSD — флеш-память, что позволяет быстрее получать доступ к данным. **Устройства ввода**, такие как клавиатуры и мыши, позволяют пользователям отправлять данные на компьютер, а **устройства вывода**, такие как мониторы и принтеры, отображают или выводят результаты. **Периферийные устройства**, например, внешние жесткие диски или веб-камеры, подключаются для расширения функциональности. Эти компоненты позволяют компьютеру эффективно выполнять различные задачи.
