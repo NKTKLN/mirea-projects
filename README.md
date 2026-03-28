@@ -1,6 +1,6 @@
 # Mirea projects
 
-This repository was created for saving and transferring MIREA Institute assignment solutions
+This repository was created for saving and transferring MIREA Institute assignment solutions.
 
 ## First term
 
