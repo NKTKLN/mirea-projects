@@ -1,0 +1,325 @@
+{
+  "version": 2,
+  "window": {
+    "title": "Расширенная регистрация конференции",
+    "width": 520,
+    "height": 325
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#ffffff",
+    "textColor": "#222222",
+    "titleColor": "#1976D2",
+    "titleTextColor": "#ffffff"
+  },
+  "fields": [
+    {
+      "id": "participant_name",
+      "type": "text",
+      "label": "ФИО участника",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 1,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "left",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "organization",
+      "type": "text",
+      "label": "Организация",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 2,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "left",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "section_number",
+      "type": "number",
+      "label": "Номер секции",
+      "disabled": false,
+      "tooltipText": "",
+      "default": 0,
+      "ui": {
+        "row": 3,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "left",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "min": 1,
+      "max": 10
+    },
+    {
+      "id": "ok_button",
+      "type": "button",
+      "label": "ОК",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 10,
+        "order": 2,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "submit",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        },
+        "resultKey": ""
+      }
+    },
+    {
+      "id": "cancel_button",
+      "type": "button",
+      "label": "Отмена",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 10,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "close",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        }
+      }
+    },
+    {
+      "id": "is_speaker",
+      "type": "checkbox",
+      "label": "Докладчик с презентацией",
+      "disabled": false,
+      "tooltipText": "",
+      "default": false,
+      "ui": {
+        "row": 5,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      }
+    },
+    {
+      "id": "presentation_topic",
+      "type": "text",
+      "label": "Тема доклада",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 6,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [
+          {
+            "type": "condition",
+            "id": "1772768753471_0.03391847151588645",
+            "nextOperator": "and"
+          }
+        ],
+        "conditions": {
+          "1772768753471_0.03391847151588645": {
+            "id": "1772768753471_0.03391847151588645",
+            "groupId": "__ungrouped",
+            "node": {
+              "type": "leaf",
+              "field": "is_speaker",
+              "operator": "checked",
+              "value": ""
+            }
+          }
+        }
+      },
+      "pattern": ""
+    },
+    {
+      "id": "participation_format",
+      "type": "select",
+      "label": "Формат участия",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "online",
+      "ui": {
+        "row": 7,
+        "order": 1,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "options": [
+        "offline",
+        "online",
+        "hybrid"
+      ]
+    },
+    {
+      "id": "field_4",
+      "type": "button",
+      "label": "Подтвердить участие",
+      "disabled": false,
+      "tooltipText": "",
+      "ui": {
+        "row": 10,
+        "order": 3,
+        "width": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "function",
+        "onClick": {
+          "name": "confirm_participation",
+          "safeName": "confirm_participation"
+        },
+        "resultKey": "form_result"
+      }
+    }
+  ]
+}

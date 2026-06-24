@@ -1,0 +1,130 @@
+2026-04-16T21:23:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:23:01+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_6\\PR6_Kalinin_RPA_DataFrame_var11\\resource\\43407aad-ed37-4b6c-98d0-be3a24a39dec\\pilot_91.py\", line 72\r\n    'expiry_days':\r\n                 ^\r\nSyntaxError: expression expected after dictionary key and ':'\r\n"]
+2026-04-16T21:23:18+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:23:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:23:32+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_6\\PR6_Kalinin_RPA_DataFrame_var11\\resource\\24399e27-67d8-4000-9dda-037cc97d4942\\pilot_91.py\", line 72\r\n    'expiry_days':\r\n                 ^\r\nSyntaxError: expression expected after dictionary key and ':'\r\n"]
+2026-04-16T21:23:43+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:24:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:24:10+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_6\\PR6_Kalinin_RPA_DataFrame_var11\\resource\\a976a9d6-5d72-4043-8620-988baeb70a81\\pilot_91.py\", line 72\r\n    'expiry_days':\r\n                 ^\r\nSyntaxError: expression expected after dictionary key and ':'\r\n"]
+2026-04-16T21:24:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:24:33+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:24:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\4907e3b2-1d32-42e1-980d-1f267891d84a\pilot_91.py
+2026-04-16T21:24:35+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\4907e3b2-1d32-42e1-980d-1f267891d84a\pilot_91.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-04-16T21:24:35+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-04-16T21:24:38+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:29:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:29:22+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\8949a242-4f5c-47b7-8fad-c15377df6d04\pilot_91.py
+2026-04-16T21:29:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\8949a242-4f5c-47b7-8fad-c15377df6d04\pilot_91.py Ошибка: Ошибка при выполнении inventory_df["expiry_date"] = pd.to_datetime(inventory_df["expiry_date"])
+today = pd.Timestamp.today()
+expiry_days = (inventory_df["expiry_date"] - today).dt.days.
+Детали ошибки: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\AppData\\Local\\Programs\\PuzzleRPA\\2.2.3\\Studio\\inventory_df["expiry_date"] = pd.to_datetime(inventory_df["expiry_date"])\ntoday = pd.Timestamp.today()\nexpiry_days = (inventory_df["expiry_date"] - today).dt.days'
+2026-04-16T21:29:22+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при выполнении inventory_df[\"expiry_date\"] = pd.to_datetime(inventory_df[\"expiry_date\"])\ntoday = pd.Timestamp.today()\nexpiry_days = (inventory_df[\"expiry_date\"] - today).dt.days.\nДетали ошибки: [Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\AppData\\\\Local\\\\Programs\\\\PuzzleRPA\\\\2.2.3\\\\Studio\\\\inventory_df[\"expiry_date\"] = pd.to_datetime(inventory_df[\"expiry_date\"])\\ntoday = pd.Timestamp.today()\\nexpiry_days = (inventory_df[\"expiry_date\"] - today).dt.days'"]
+2026-04-16T21:30:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:30:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\6eccb8b3-e4c2-4016-8ddf-143c8a64d9e1\pilot_91.py
+2026-04-16T21:30:28+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\6eccb8b3-e4c2-4016-8ddf-143c8a64d9e1\pilot_91.py Ошибка: Ошибка при выполнении expiry_days = (pd.to_datetime(inventory_df["expiry_date"]) - pd.Timestamp.today()).dt.days.
+Детали ошибки: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\AppData\\Local\\Programs\\PuzzleRPA\\2.2.3\\Studio\\expiry_days = (pd.to_datetime(inventory_df["expiry_date"]) - pd.Timestamp.today()).dt.days'
+2026-04-16T21:30:28+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при выполнении expiry_days = (pd.to_datetime(inventory_df[\"expiry_date\"]) - pd.Timestamp.today()).dt.days.\nДетали ошибки: [Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\AppData\\\\Local\\\\Programs\\\\PuzzleRPA\\\\2.2.3\\\\Studio\\\\expiry_days = (pd.to_datetime(inventory_df[\"expiry_date\"]) - pd.Timestamp.today()).dt.days'"]
+2026-04-16T21:30:52+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:30:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:33:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:33:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\499043c2-b1d4-4f07-be98-8a82b9dc4961\pilot_91.py
+2026-04-16T21:33:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\499043c2-b1d4-4f07-be98-8a82b9dc4961\pilot_91.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-04-16T21:33:05+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-04-16T21:33:13+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:34:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:34:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\1600d490-f937-4dc3-9211-313c0a597a8f\pilot_91.py
+2026-04-16T21:34:46+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\1600d490-f937-4dc3-9211-313c0a597a8f\pilot_91.py Ошибка: can only concatenate str (not "int") to str
+2026-04-16T21:34:46+0300 Окно выполнения: Процесс 1: ERROR:  ["can only concatenate str (not \"int\") to str"]
+2026-04-16T21:35:14+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:37:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:37:04+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\9c937501-a5be-4b2b-8301-fa581caf9f7c\pilot_91.py
+2026-04-16T21:37:04+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\9c937501-a5be-4b2b-8301-fa581caf9f7c\pilot_91.py Ошибка: Ошибка при выполнении days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days.
+Детали ошибки: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\AppData\\Local\\Programs\\PuzzleRPA\\2.2.3\\Studio\\days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days'
+2026-04-16T21:37:05+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при выполнении days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days.\nДетали ошибки: [Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\AppData\\\\Local\\\\Programs\\\\PuzzleRPA\\\\2.2.3\\\\Studio\\\\days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days'"]
+2026-04-16T21:37:15+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:37:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:37:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\8bd0ce8c-2590-4d66-ad3e-9c9fdb080f64\pilot_91.py
+2026-04-16T21:37:57+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\8bd0ce8c-2590-4d66-ad3e-9c9fdb080f64\pilot_91.py Ошибка: Ошибка при выполнении days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days.
+Детали ошибки: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\AppData\\Local\\Programs\\PuzzleRPA\\2.2.3\\Studio\\days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days'
+2026-04-16T21:37:58+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при выполнении days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days.\nДетали ошибки: [Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\AppData\\\\Local\\\\Programs\\\\PuzzleRPA\\\\2.2.3\\\\Studio\\\\days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days'"]
+2026-04-16T21:38:11+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:38:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:38:35+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\f12f8b01-122d-4dd6-98f0-de4fbd12b468\pilot_91.py
+2026-04-16T21:38:36+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\f12f8b01-122d-4dd6-98f0-de4fbd12b468\pilot_91.py Ошибка: Ошибка при выполнении days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days.
+Детали ошибки: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\AppData\\Local\\Programs\\PuzzleRPA\\2.2.3\\Studio\\days_diff = (datetime.strptime(j, "%Y-%m-%d") - datetime.today()).days'
+2026-04-16T21:38:36+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при выполнении days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days.\nДетали ошибки: [Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\AppData\\\\Local\\\\Programs\\\\PuzzleRPA\\\\2.2.3\\\\Studio\\\\days_diff = (datetime.strptime(j, \"%Y-%m-%d\") - datetime.today()).days'"]
+2026-04-16T21:38:38+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:40:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:40:30+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_6\\PR6_Kalinin_RPA_DataFrame_var11\\resource\\97922ade-3a7c-4b73-b421-f4c136635f78\\pilot_91.py\", line 63\r\n    convert_date_mod.convert_date_mod(,'%Y-%m-%d',block_text=\"Преобразовать дату\",window_log=True, current_language=\"ru\")\r\n                                      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-04-16T21:40:39+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:40:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:40:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\42700dee-09bd-4b8d-9cbb-cb3e4695ef19\pilot_91.py
+2026-04-16T21:40:57+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\42700dee-09bd-4b8d-9cbb-cb3e4695ef19\pilot_91.py
+2026-04-16T21:40:58+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:40:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:41:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\477401ca-7f0f-4da7-a106-3c2148a42afe\pilot_91.py
+2026-04-16T21:41:30+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\477401ca-7f0f-4da7-a106-3c2148a42afe\pilot_91.py
+2026-04-16T21:41:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:44:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:44:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\efd9ee4e-a8b9-44fa-907e-2f13c07a3823\pilot_91.py
+2026-04-16T21:45:02+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\efd9ee4e-a8b9-44fa-907e-2f13c07a3823\pilot_91.py
+2026-04-16T21:45:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:46:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:46:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\1d85a6b4-deff-4783-ae0e-629d14f34bd5\pilot_91.py
+2026-04-16T21:46:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\1d85a6b4-deff-4783-ae0e-629d14f34bd5\pilot_91.py
+2026-04-16T21:46:30+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:46:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:46:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\f6bd88ea-fbcb-4223-962c-1023edbaa940\pilot_91.py
+2026-04-16T21:47:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\f6bd88ea-fbcb-4223-962c-1023edbaa940\pilot_91.py
+2026-04-16T21:47:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:48:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:48:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\403e5ddb-ff40-4473-9557-e1cde086a206\pilot_91.py
+2026-04-16T21:48:19+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\403e5ddb-ff40-4473-9557-e1cde086a206\pilot_91.py Ошибка: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2026-04-16T21:48:19+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'datetime.datetime' and 'str'"]
+2026-04-16T21:48:24+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:49:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:49:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\6600d35b-32ef-43b4-aca6-35d119ac16b8\pilot_91.py
+2026-04-16T21:49:39+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\6600d35b-32ef-43b4-aca6-35d119ac16b8\pilot_91.py Ошибка: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2026-04-16T21:49:39+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'datetime.datetime' and 'str'"]
+2026-04-16T21:49:45+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:50:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:50:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\a1c72d7c-799e-4005-9cc9-671b982dfde8\pilot_91.py
+2026-04-16T21:50:17+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\a1c72d7c-799e-4005-9cc9-671b982dfde8\pilot_91.py Ошибка: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2026-04-16T21:50:17+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'datetime.datetime' and 'str'"]
+2026-04-16T21:50:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:55:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:55:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\3f91898f-adfd-42d3-9358-d231e244e0ed\pilot_91.py
+2026-04-16T21:55:20+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\3f91898f-adfd-42d3-9358-d231e244e0ed\pilot_91.py Ошибка: name 'expiry_days' is not defined
+2026-04-16T21:55:20+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'expiry_days' is not defined"]
+2026-04-16T21:55:24+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:55:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:55:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\4a040693-50d4-4869-b59a-1d0045060fa0\pilot_91.py
+2026-04-16T21:55:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\4a040693-50d4-4869-b59a-1d0045060fa0\pilot_91.py
+2026-04-16T21:55:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:56:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:57:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\3a9632c0-7f99-4192-a878-d908a9fa2b60\pilot_91.py
+2026-04-16T21:57:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\3a9632c0-7f99-4192-a878-d908a9fa2b60\pilot_91.py
+2026-04-16T21:57:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:57:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T21:57:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\b7490d9d-084b-4ec1-bd19-e7226204f36f\pilot_91.py
+2026-04-16T21:58:50+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\b7490d9d-084b-4ec1-bd19-e7226204f36f\pilot_91.py
+2026-04-16T21:58:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 1.json
+2026-04-16T22:08:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:08:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\bfdc2491-a4d4-4b56-87a3-99cd88e95c9a\servo_731.py
+2026-04-16T22:08:51+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\bfdc2491-a4d4-4b56-87a3-99cd88e95c9a\servo_731.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_6\\low_stock_df.xlsx'
+2026-04-16T22:08:51+0300 Окно выполнения: Процесс 2: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\MIREA\\\\PoCS\\\\practice_6\\\\low_stock_df.xlsx'"]
+2026-04-16T22:09:00+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:09:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:09:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\9c50dc76-b9f1-469f-ab63-4d5ba53c89cd\servo_731.py
+2026-04-16T22:09:11+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\9c50dc76-b9f1-469f-ab63-4d5ba53c89cd\servo_731.py Ошибка: name 'is_low_stock' is not defined
+2026-04-16T22:09:11+0300 Окно выполнения: Процесс 2: ERROR:  ["name 'is_low_stock' is not defined"]
+2026-04-16T22:09:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:09:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:09:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\63fb3de9-7fa0-4753-87ee-7dc820203f66\servo_731.py
+2026-04-16T22:09:27+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\63fb3de9-7fa0-4753-87ee-7dc820203f66\servo_731.py Ошибка: Критическая ошибка при фильтрации: 'supplier_rating'
+2026-04-16T22:09:27+0300 Окно выполнения: Процесс 2: ERROR:  ["Критическая ошибка при фильтрации: 'supplier_rating'"]
+2026-04-16T22:09:32+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:10:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json
+2026-04-16T22:10:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\5b33794d-c4bf-4af5-acfa-1282a6a5da06\servo_731.py
+2026-04-16T22:10:26+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\resource\5b33794d-c4bf-4af5-acfa-1282a6a5da06\servo_731.py
+2026-04-16T22:10:28+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_6\PR6_Kalinin_RPA_DataFrame_var11\process\Процесс 2.json

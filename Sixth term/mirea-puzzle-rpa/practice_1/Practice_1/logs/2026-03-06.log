@@ -1,0 +1,17 @@
+2026-03-06T11:22:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:22:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\1ead1bc5-f065-4bdf-8e7b-0ebe5d5db4b4\sentry_583.py
+2026-03-06T11:22:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\1ead1bc5-f065-4bdf-8e7b-0ebe5d5db4b4\sentry_583.py
+2026-03-06T11:22:19+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:04+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\638ca05e-03f2-448e-8d5c-dd231eb6e3fc\sentry_583.py
+2026-03-06T11:23:04+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\638ca05e-03f2-448e-8d5c-dd231eb6e3fc\sentry_583.py Ошибка: 'Worksheet Импорт does not exist.'
+2026-03-06T11:23:04+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Импорт does not exist.'"]
+2026-03-06T11:23:06+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\087b111c-ea37-4b5c-86b2-51395ef1a8e4\sentry_583.py
+2026-03-06T11:23:15+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\087b111c-ea37-4b5c-86b2-51395ef1a8e4\sentry_583.py
+2026-03-06T11:23:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json
+2026-03-06T11:23:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\6d5512ac-67ab-40bf-b588-0278a2718eac\sentry_583.py
+2026-03-06T11:23:40+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\resource\6d5512ac-67ab-40bf-b588-0278a2718eac\sentry_583.py
+2026-03-06T11:23:40+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_1\Practice_1\process\Процесс 1.json

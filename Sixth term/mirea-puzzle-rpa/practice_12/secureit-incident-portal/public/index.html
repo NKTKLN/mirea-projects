@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SecureIT Login</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main class="app">
+    <!-- <section class="hero">
+      <p class="eyebrow">SecureIT Pro</p>
+      <h1>Authorization</h1>
+      <p>Login to continue</p>
+    </section> -->
+
+    <section class="card login-card">
+      <form id="login_form">
+        <div class="field-group">
+          <label>Login</label>
+          <input id="login" type="text" placeholder="admin" autocomplete="off" />
+        </div>
+
+        <div class="field-group">
+          <label>Password</label>
+          <input id="password" placeholder="1234" autocomplete="off" />
+        </div>
+
+        <div class="actions">
+          <button class="primary-btn" type="submit">
+            Login
+          </button>
+        </div>
+      </form>
+
+      <div id="error" class="message error-message hidden"></div>
+    </section>
+  </main>
+
+  <script src="/login.js"></script>
+</body>
+</html>

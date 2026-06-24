@@ -1,0 +1,279 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #eef3f8;
+  color: #18202a;
+}
+
+.app {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0;
+}
+
+.hero {
+  background: linear-gradient(135deg, #172a46, #23538a);
+  color: white;
+  padding: 32px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 16px 40px rgba(19, 43, 73, 0.18);
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+h1,
+h2 {
+  margin: 0 0 12px;
+}
+
+#page_description {
+  margin: 0;
+  max-width: 720px;
+  line-height: 1.5;
+}
+
+.card {
+  background: white;
+  border-radius: 18px;
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: 0 12px 30px rgba(35, 52, 71, 0.1);
+}
+
+.hidden {
+  display: none !important;
+}
+
+form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(240px, 1fr));
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+label {
+  font-weight: 700;
+}
+
+input,
+select {
+  min-height: 44px;
+  border: 1px solid #c8d2df;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 15px;
+  outline: none;
+  background: white;
+}
+
+input:focus,
+select:focus {
+  border-color: #23538a;
+  box-shadow: 0 0 0 3px rgba(35, 83, 138, 0.15);
+}
+
+.invalid {
+  border-color: #d63031 !important;
+  background: #fff6f6;
+}
+
+.error-text {
+  min-height: 18px;
+  color: #d63031;
+  font-size: 13px;
+}
+
+.actions {
+  grid-column: 1 / -1;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  padding: 12px 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.12s ease, opacity 0.12s ease;
+}
+
+button:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.primary-btn {
+  background: #1769e0;
+  color: white;
+}
+
+.secondary-btn {
+  background: #dfe8f3;
+  color: #172a46;
+}
+
+.danger-btn {
+  background: #d63031;
+  color: white;
+}
+
+.message {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: #e9fff4;
+  border: 1px solid #70d49f;
+  color: #116534;
+}
+
+.message.error-message {
+  background: #fff1f1;
+  border-color: #ff9f9f;
+  color: #a32121;
+}
+
+#btn_close_message {
+  padding: 4px 9px;
+  background: transparent;
+  color: inherit;
+  font-size: 22px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+
+.table-actions {
+  justify-content: flex-end;
+}
+
+#table_hint {
+  color: #5d6b7a;
+  font-size: 14px;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(240px, 1fr));
+  gap: 18px;
+  margin-bottom: 16px;
+}
+
+.table-loader {
+  margin-bottom: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: #fff8df;
+  color: #745600;
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+th,
+td {
+  padding: 13px 12px;
+  border-bottom: 1px solid #e4ebf3;
+  text-align: left;
+}
+
+th {
+  background: #f4f7fb;
+  color: #344054;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+.incident-row {
+  cursor: pointer;
+}
+
+.incident-row:hover {
+  background: #f7fbff;
+}
+
+.incident-row.selected {
+  background: #e8f1ff;
+  outline: 2px solid #1769e0;
+  outline-offset: -2px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #edf5ff;
+  color: #1769e0;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.empty-message {
+  margin: 18px 0 0;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: #f4f7fb;
+  color: #5d6b7a;
+  font-weight: 700;
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  form,
+  .filters {
+    grid-template-columns: 1fr;
+  }
+
+  .table-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .table-actions {
+    justify-content: flex-start;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}

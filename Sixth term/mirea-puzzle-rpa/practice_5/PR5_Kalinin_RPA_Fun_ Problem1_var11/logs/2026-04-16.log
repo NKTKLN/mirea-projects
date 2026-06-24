@@ -1,0 +1,52 @@
+2026-04-16T20:13:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:13:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\e91607b6-3c43-4219-9569-ab185f91d8c0\byte_101.py
+2026-04-16T20:13:46+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\e91607b6-3c43-4219-9569-ab185f91d8c0\byte_101.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-16T20:13:46+0300 Окно выполнения: Процесс 1: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-04-16T20:13:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:14:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:14:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\eddb8000-966b-497f-9580-c2d4d3e1eb84\byte_101.py
+2026-04-16T20:14:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\eddb8000-966b-497f-9580-c2d4d3e1eb84\byte_101.py
+2026-04-16T20:14:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:37:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:37:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\324c5c96-08fc-41e3-870a-d49e3245d000\byte_101.py
+2026-04-16T20:38:00+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\324c5c96-08fc-41e3-870a-d49e3245d000\byte_101.py
+2026-04-16T20:38:00+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\445a0837-4f22-4b2b-b25b-72491290445f\byte_101.py
+2026-04-16T20:48:02+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\445a0837-4f22-4b2b-b25b-72491290445f\byte_101.py Ошибка: 'float' object is not subscriptable
+2026-04-16T20:48:02+0300 Окно выполнения: Процесс 1: ERROR:  ["'float' object is not subscriptable"]
+2026-04-16T20:48:05+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\66ad7f22-2aa3-4a44-91f0-7ed47537878a\byte_101.py
+2026-04-16T20:48:07+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\66ad7f22-2aa3-4a44-91f0-7ed47537878a\byte_101.py Ошибка: 'float' object is not subscriptable
+2026-04-16T20:48:07+0300 Окно выполнения: Процесс 1: ERROR:  ["'float' object is not subscriptable"]
+2026-04-16T20:48:12+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:48:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\0e7264ca-3d0d-4f30-8a22-91deffda52bc\byte_101.py
+2026-04-16T20:48:53+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\0e7264ca-3d0d-4f30-8a22-91deffda52bc\byte_101.py Ошибка: 'float' object is not subscriptable
+2026-04-16T20:48:53+0300 Окно выполнения: Процесс 1: ERROR:  ["'float' object is not subscriptable"]
+2026-04-16T20:49:00+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\35a5888a-9edf-4f40-b538-8a9d67cc8e18\byte_101.py
+2026-04-16T20:49:11+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\35a5888a-9edf-4f40-b538-8a9d67cc8e18\byte_101.py Ошибка: 'float' object is not subscriptable
+2026-04-16T20:49:11+0300 Окно выполнения: Процесс 1: ERROR:  ["'float' object is not subscriptable"]
+2026-04-16T20:49:16+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\dbee89e7-0178-416a-9038-f3ffcd806f24\byte_101.py
+2026-04-16T20:49:25+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\dbee89e7-0178-416a-9038-f3ffcd806f24\byte_101.py Ошибка: name 'employee_name' is not defined
+2026-04-16T20:49:25+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'employee_name' is not defined"]
+2026-04-16T20:49:30+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:49:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\1422bb21-c2fb-419f-8c83-902108e7482e\byte_101.py
+2026-04-16T20:49:44+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\1422bb21-c2fb-419f-8c83-902108e7482e\byte_101.py Ошибка: name 'report_dict' is not defined
+2026-04-16T20:49:44+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'report_dict' is not defined"]
+2026-04-16T20:50:06+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:50:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:50:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\2ef645a6-72f7-4a21-a4cf-71248a163518\byte_101.py
+2026-04-16T20:50:23+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\2ef645a6-72f7-4a21-a4cf-71248a163518\byte_101.py Ошибка: name 'report_dict' is not defined
+2026-04-16T20:50:23+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'report_dict' is not defined"]
+2026-04-16T20:51:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:51:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\9e61b598-ec01-490c-b329-f25e6db58381\byte_101.py
+2026-04-16T20:51:14+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json
+2026-04-16T20:51:39+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\resource\9e61b598-ec01-490c-b329-f25e6db58381\byte_101.py
+2026-04-16T20:51:39+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_5\PR5_Kalinin_RPA_Fun_ Problem1_var11\process\Процесс 1.json

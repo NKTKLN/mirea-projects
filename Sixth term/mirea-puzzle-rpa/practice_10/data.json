@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Unauthorized access attempt",
+    "reporter": "Ivan Petrov",
+    "system": "Authentication Server",
+    "severity": "Critical",
+    "status": "Reported"
+  },
+  {
+    "title": "Suspicious database query",
+    "reporter": "Anna Smirnova",
+    "system": "Database",
+    "severity": "High",
+    "status": "Reported"
+  },
+  {
+    "title": "Phishing email detected",
+    "reporter": "Dmitry Orlov",
+    "system": "Web Portal",
+    "severity": "Medium",
+    "status": "Reported"
+  },
+  {
+    "title": "Unusual network traffic",
+    "reporter": "Olga Ivanova",
+    "system": "Internal Network",
+    "severity": "High",
+    "status": "Reported"
+  },
+  {
+    "title": "Failed login attempts",
+    "reporter": "Sergey Kuznetsov",
+    "system": "Authentication Server",
+    "severity": "Critical",
+    "status": "Reported"
+  },
+  {
+    "title": "Malware detected on workstation",
+    "reporter": "Elena Volkova",
+    "system": "Internal Network",
+    "severity": "Critical",
+    "status": "Reported"
+  },
+  {
+    "title": "Data exfiltration attempt",
+    "reporter": "Pavel Morozov",
+    "system": "Database",
+    "severity": "Critical",
+    "status": "Reported"
+  },
+  {
+    "title": "Privilege escalation attempt",
+    "reporter": "Irina Lebedeva",
+    "system": "Authentication Server",
+    "severity": "High",
+    "status": "Reported"
+  },
+  {
+    "title": "Suspicious API call",
+    "reporter": "Maxim Kozlov",
+    "system": "Web Portal",
+    "severity": "Medium",
+    "status": "Reported"
+  },
+  {
+    "title": "Unauthorized file access",
+    "reporter": "Natalia Sokolova",
+    "system": "Database",
+    "severity": "High",
+    "status": "Reported"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Unauthorized access attempt",
+    "reporter": "Ivan Petrov",
+    "system": "Authentication Server",
+    "severity": "Critical",
+    "status": "Reported"
+  },
+  {
+    "title": "Suspicious database query",
+    "reporter": "Anna Smirnova",
+    "system": "Database",
+    "severity": "High",
+    "status": "Reported"
+  },
+  {
+    "title": "Phishing email detected",
+    "reporter": "Dmitry Orlov",
+    "system": "Web Portal",
+    "severity": "Medium",
+    "status": "Reported"
+  },
+  {
+    "title": "Unusual network traffic",
+    "reporter": "Olga Ivanova",
+    "system": "Internal Network",
+    "severity": "High",
+    "status": "Reported"
+  },
+  {
+    "title": "Failed login attempts",
+    "reporter": "Sergey Kuznetsov",
+    "system": "Authentication Server",
+    "severity": "Critical",
+    "status": "Reported"
+  }
+]

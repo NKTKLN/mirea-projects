@@ -1,0 +1,134 @@
+2026-05-19T17:48:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T17:48:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\a3b549ca-7bc1-46d8-9049-2dfd2312276d\synth_881.py
+2026-05-19T17:48:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\a3b549ca-7bc1-46d8-9049-2dfd2312276d\synth_881.py
+2026-05-19T17:48:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T17:49:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T17:49:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\5717e74d-19a9-4401-b347-403ca6bebe68\synth_881.py
+2026-05-19T17:49:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\5717e74d-19a9-4401-b347-403ca6bebe68\synth_881.py
+2026-05-19T17:49:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:13:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:13:50+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8fcecde6-7b45-442d-b5ff-768f9e6b97aa\synth_881.py
+2026-05-19T18:14:03+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8fcecde6-7b45-442d-b5ff-768f9e6b97aa\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:14:03+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:14:21+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:15:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:15:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\c8014830-70f3-4e0d-a6ef-2363f91e6e98\synth_881.py
+2026-05-19T18:15:34+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\c8014830-70f3-4e0d-a6ef-2363f91e6e98\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:15:34+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:16:15+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:16:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:16:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\4ef1a10e-ddad-4a79-96ea-2ac1ebf6bb86\synth_881.py
+2026-05-19T18:16:52+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\4ef1a10e-ddad-4a79-96ea-2ac1ebf6bb86\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:16:52+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:17:11+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:19:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:19:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\aaf9b4c1-7592-4043-bd2c-14ad62ecbbca\synth_881.py
+2026-05-19T18:19:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\aaf9b4c1-7592-4043-bd2c-14ad62ecbbca\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:19:42+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:19:45+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:20:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:20:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\834e8714-e26b-41be-9500-45a4e2e97bb6\synth_881.py
+2026-05-19T18:20:20+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\834e8714-e26b-41be-9500-45a4e2e97bb6\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:20:20+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:20:27+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:21:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:21:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\c9e60e1f-2456-40ce-858b-6bd37cff10f1\synth_881.py
+2026-05-19T18:21:33+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\c9e60e1f-2456-40ce-858b-6bd37cff10f1\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:21:33+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:21:35+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:22:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:22:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\f6a6a040-a428-4e4c-b59d-95b60b6fefbf\synth_881.py
+2026-05-19T18:22:57+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\f6a6a040-a428-4e4c-b59d-95b60b6fefbf\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:22:57+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:23:04+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:24:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:24:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\0d7690c9-c809-4e75-b278-ea684ec3f06d\synth_881.py
+2026-05-19T18:24:21+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\0d7690c9-c809-4e75-b278-ea684ec3f06d\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:24:21+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:24:27+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:24:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:24:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8ea1c29b-3ae3-43cd-8523-04af79499712\synth_881.py
+2026-05-19T18:25:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8ea1c29b-3ae3-43cd-8523-04af79499712\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:25:05+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:25:11+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:25:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:26:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\3217e087-3a9d-4a68-a1fb-e14b6427ab1f\synth_881.py
+2026-05-19T18:26:15+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\3217e087-3a9d-4a68-a1fb-e14b6427ab1f\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:26:15+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:26:22+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:26:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:26:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\fa668907-ea29-4117-9fd0-0c6a18bb6ae3\synth_881.py
+2026-05-19T18:26:58+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\fa668907-ea29-4117-9fd0-0c6a18bb6ae3\synth_881.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_12\\screens\\severity_dropdown.png'
+2026-05-19T18:26:58+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\MIREA\\\\PoCS\\\\practice_12\\\\screens\\\\severity_dropdown.png'"]
+2026-05-19T18:27:11+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:27:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:27:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\b73a9d6b-4151-4e8f-91e5-e596f870a58d\synth_881.py
+2026-05-19T18:28:00+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\b73a9d6b-4151-4e8f-91e5-e596f870a58d\synth_881.py
+2026-05-19T18:28:00+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:28:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:28:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\941ea01d-49cb-4c87-af94-4b0f6b31c8e5\synth_881.py
+2026-05-19T18:28:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\941ea01d-49cb-4c87-af94-4b0f6b31c8e5\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:28:41+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:28:52+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:29:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:29:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\0c889af0-09c1-48ab-926d-9ff03e43bd45\synth_881.py
+2026-05-19T18:29:59+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\0c889af0-09c1-48ab-926d-9ff03e43bd45\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:29:59+0300 Окно выполнения: Процесс 1: ERROR:  ["Изображение не было найдено"]
+2026-05-19T18:30:01+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:30:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:30:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\bb7d9fcd-e4fc-4d8f-a3d1-5571287f631f\synth_881.py
+2026-05-19T18:31:24+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\bb7d9fcd-e4fc-4d8f-a3d1-5571287f631f\synth_881.py
+2026-05-19T18:31:25+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:40:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:40:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\509fb115-4ed8-4fd3-a696-d2424c7eec1b\synth_881.py
+2026-05-19T18:41:44+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T18:41:55+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\509fb115-4ed8-4fd3-a696-d2424c7eec1b\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:41:55+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:42:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:42:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\593dd743-445c-4204-9854-f1382f3b36f4\synth_881.py
+2026-05-19T18:43:59+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T18:44:01+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\593dd743-445c-4204-9854-f1382f3b36f4\synth_881.py Ошибка: Изображение не было найдено
+2026-05-19T18:44:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:44:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:44:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\2ac627b8-1c38-48da-96ed-9206cbb48138\synth_881.py
+2026-05-19T18:45:21+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T18:45:31+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\2ac627b8-1c38-48da-96ed-9206cbb48138\synth_881.py
+2026-05-19T18:45:31+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:47:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:47:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\ad0019aa-0da7-4e75-ab10-fd17c079998b\synth_881.py
+2026-05-19T18:49:02+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T18:49:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\ad0019aa-0da7-4e75-ab10-fd17c079998b\synth_881.py
+2026-05-19T18:49:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:50:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T18:50:40+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\90fd5d5c-5c5b-4ea1-879c-2b72b30135fe\synth_881.py
+2026-05-19T18:51:41+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\90fd5d5c-5c5b-4ea1-879c-2b72b30135fe\synth_881.py
+2026-05-19T18:51:41+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:07:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:07:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8bec4120-adb8-4b04-867a-90bea628631a\synth_881.py
+2026-05-19T19:07:29+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\8bec4120-adb8-4b04-867a-90bea628631a\synth_881.py Ошибка: cannot access local variable 'input_data' where it is not associated with a value
+2026-05-19T19:07:29+0300 Окно выполнения: Процесс 1: ERROR:  ["cannot access local variable 'input_data' where it is not associated with a value"]
+2026-05-19T19:07:42+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:08:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:08:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\805d0be8-8f56-4978-974e-86948ee4e774\synth_881.py
+2026-05-19T19:08:58+0300 INFO: Конец работы робота
+2026-05-19T19:09:00+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:09:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:09:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\6a49d901-2abb-42bf-aa80-5fc5e88ad5dd\synth_881.py
+2026-05-19T19:09:37+0300 INFO: Конец работы робота
+2026-05-19T19:09:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:09:41+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:09:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\c69dcc1d-1b8d-4d20-a367-9e7678da1bb7\synth_881.py
+2026-05-19T19:09:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:10:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\40d496de-b716-4047-b95b-68abb0720c9f\synth_881.py
+2026-05-19T19:10:20+0300 INFO: Конец работы робота
+2026-05-19T19:10:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:10:34+0300 INFO: Конец работы робота
+2026-05-19T19:10:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:13:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:13:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\4cfafaaa-377a-441a-8f3d-4ef2eb1f3c59\synth_881.py
+2026-05-19T19:13:38+0300 INFO: Конец работы робота
+2026-05-19T19:13:40+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:13:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json
+2026-05-19T19:14:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\747bb6c3-979b-4726-8192-308512eb0662\synth_881.py
+2026-05-19T19:15:17+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\resource\747bb6c3-979b-4726-8192-308512eb0662\synth_881.py
+2026-05-19T19:15:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_12\PR12_RPA_MV_Web_p2\process\Процесс 1.json

@@ -1,0 +1,44 @@
+2026-03-06T06:22:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:22:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\b44c1955-63e7-47d0-8017-dc339fb40f45\byte_352.py
+2026-03-06T06:22:56+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-03-06T06:23:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\b44c1955-63e7-47d0-8017-dc339fb40f45\byte_352.py
+2026-03-06T06:23:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:26:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:26:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\0759780f-4dd1-48e8-994d-f556d91c82b1\byte_352.py
+2026-03-06T06:27:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:27:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\ca966b48-198e-48c2-8057-83826742b2d9\byte_352.py
+2026-03-06T06:27:19+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\0759780f-4dd1-48e8-994d-f556d91c82b1\byte_352.py
+2026-03-06T06:27:19+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:27:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\ca966b48-198e-48c2-8057-83826742b2d9\byte_352.py
+2026-03-06T06:27:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:27:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:27:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\78252b73-599d-4a9e-8471-fa42a3d7b7f0\byte_352.py
+2026-03-06T06:27:57+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\78252b73-599d-4a9e-8471-fa42a3d7b7f0\byte_352.py
+2026-03-06T06:27:58+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:28:54+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:28:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\ee8e8292-46eb-48e6-b971-693e5be39c9e\byte_352.py
+2026-03-06T06:28:57+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\ee8e8292-46eb-48e6-b971-693e5be39c9e\byte_352.py
+2026-03-06T06:28:57+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:31:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:31:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\92439e6d-4311-485f-93c1-222d136b8c35\byte_352.py
+2026-03-06T06:31:33+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\92439e6d-4311-485f-93c1-222d136b8c35\byte_352.py Ошибка: name 'participant_name' is not defined
+2026-03-06T06:31:33+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'participant_name' is not defined"]
+2026-03-06T06:31:36+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:32:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:32:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\c876c815-be5a-47bb-b685-2291a8b1a5c9\byte_352.py
+2026-03-06T06:32:48+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\c876c815-be5a-47bb-b685-2291a8b1a5c9\byte_352.py Ошибка: 'participant_name'
+2026-03-06T06:32:48+0300 Окно выполнения: Процесс 1: ERROR:  ["'participant_name'"]
+2026-03-06T06:32:54+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:34:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:34:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\34fa8652-398b-4bcf-a717-9015de3c2871\byte_352.py
+2026-03-06T06:34:50+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\34fa8652-398b-4bcf-a717-9015de3c2871\byte_352.py Ошибка: name 'couter' is not defined
+2026-03-06T06:34:50+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'couter' is not defined"]
+2026-03-06T06:34:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:35:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:35:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\abba97e0-d63d-4241-92bd-6ea7a3f01f81\byte_352.py
+2026-03-06T06:37:35+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\abba97e0-d63d-4241-92bd-6ea7a3f01f81\byte_352.py
+2026-03-06T06:37:35+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:39:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json
+2026-03-06T06:39:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\e94840fb-a986-43eb-b11b-a9cbb7ebc92e\byte_352.py
+2026-03-06T06:40:44+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\resource\e94840fb-a986-43eb-b11b-a9cbb7ebc92e\byte_352.py
+2026-03-06T06:40:44+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_4\PR4_Kalinin_RPA_UI_Problem1_var11\process\Процесс 1.json

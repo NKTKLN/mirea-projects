@@ -1,0 +1,13 @@
+2026-03-06T03:38:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json
+2026-03-06T03:38:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\071b08dc-563f-4fc5-bb6a-66a7ebbbf865\auto_471.py
+2026-03-06T03:38:24+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\071b08dc-563f-4fc5-bb6a-66a7ebbbf865\auto_471.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\NKTKLN\\Desktop\\Gallery_Activity_Jan.xlsx'
+2026-03-06T03:38:24+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\Gallery_Activity_Jan.xlsx'"]
+2026-03-06T03:38:26+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json
+2026-03-06T03:38:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json
+2026-03-06T03:38:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\bd403eb6-a61e-4b42-b6cd-8bf309aa13dd\auto_471.py
+2026-03-06T03:38:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\bd403eb6-a61e-4b42-b6cd-8bf309aa13dd\auto_471.py
+2026-03-06T03:38:53+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json
+2026-03-06T03:39:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json
+2026-03-06T03:39:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\5c2c98e8-5708-4425-91e1-3ebd6de4090a\auto_471.py
+2026-03-06T03:39:33+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\resource\5c2c98e8-5708-4425-91e1-3ebd6de4090a\auto_471.py
+2026-03-06T03:39:34+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_2\PR2_Kalinin_RPA_Logic_ Problem2_var11\process\Процесс 1.json

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SecureIT Pro — Incident Registration Portal</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main id="app_root" class="app">
+    <!-- <section id="header_section" class="hero">
+      <div id="brand_block">
+        <p id="company_label" class="eyebrow">SecureIT Pro</p>
+        <h1 id="page_title">Information Security Incident Portal</h1>
+        <p id="page_description">
+          Register, classify and track security incidents in one training web interface.
+        </p>
+      </div>
+      <form class="logout-form" method="POST" action="/logout">
+        <button id="btn_logout" type="submit">Logout</button>
+      </form>
+    </section> -->
+
+    <section id="loading_section" class="card">
+      <p id="loading_text">Loading incident portal...</p>
+    </section>
+
+    <section id="form_section" class="card hidden">
+      <h2 id="form_title">Report Security Incident</h2>
+
+      <form id="incident_form" novalidate>
+        <div id="field_title_group" class="field-group">
+          <label id="label_incident_title" for="incident_title">Incident Title</label>
+          <input id="incident_title" name="incidentTitle" type="text" minlength="5"
+            placeholder="Unauthorized access attempt" autocomplete="off" />
+          <small id="error_incident_title" class="error-text"></small>
+        </div>
+
+        <div id="field_reporter_group" class="field-group">
+          <label id="label_reporter" for="reporter">Reporter</label>
+          <input id="reporter" name="reporter" type="text" minlength="3"
+            placeholder="Ivan Petrov" autocomplete="off" />
+          <small id="error_reporter" class="error-text"></small>
+        </div>
+
+        <div id="field_system_group" class="field-group">
+          <label id="label_system" for="system">System</label>
+          <select id="system" name="system">
+            <option id="system_default_option" value="">Select system</option>
+            <option id="system_auth_option" value="Authentication Server">Authentication Server</option>
+            <option id="system_database_option" value="Database">Database</option>
+            <option id="system_web_option" value="Web Portal">Web Portal</option>
+            <option id="system_network_option" value="Internal Network">Internal Network</option>
+          </select>
+          <small id="error_system" class="error-text"></small>
+        </div>
+
+        <div id="field_severity_group" class="field-group">
+          <label id="label_severity" for="severity">Severity</label>
+          <select id="severity" name="severity">
+            <option id="severity_default_option" value="">Select severity</option>
+            <option id="severity_low_option" value="Low">Low</option>
+            <option id="severity_medium_option" value="Medium">Medium</option>
+            <option id="severity_high_option" value="High">High</option>
+            <option id="severity_critical_option" value="Critical">Critical</option>
+          </select>
+          <small id="error_severity" class="error-text"></small>
+        </div>
+
+        <div id="form_actions" class="actions">
+          <button id="btn_report_static" class="secondary-btn" type="button">
+            Validate Only
+          </button>
+
+          <button id="btn_report_dynamic" class="primary-btn" type="submit" disabled>
+            Report Incident
+          </button>
+        </div>
+      </form>
+
+      <div id="message_container" class="message hidden">
+        <span id="status_message"></span>
+        <button id="btn_close_message" type="button" aria-label="Close message">×</button>
+      </div>
+    </section>
+
+    <section id="table_section" class="card hidden">
+      <div id="table_header_block" class="table-header">
+        <div id="table_title_block">
+          <h2 id="table_title">Incident Register</h2>
+          <span id="table_hint">Rows are updated instantly</span>
+        </div>
+
+        <div id="incident_actions" class="actions table-actions">
+          <button id="btn_clear_filters" class="secondary-btn" type="button">
+            Clear Filters
+          </button>
+          <button id="btn_start_investigation" class="primary-btn" type="button" disabled>
+            Start Investigation
+          </button>
+          <button id="btn_close_incident" class="danger-btn" type="button" disabled>
+            Close Incident
+          </button>
+        </div>
+      </div>
+
+      <div id="filter_search_block" class="filters">
+        <div id="filter_severity_group" class="field-group">
+          <label id="label_filter_severity" for="filter_severity">Filter by Severity</label>
+          <select id="filter_severity" name="filterSeverity">
+            <option id="filter_severity_all_option" value="All">All</option>
+            <option id="filter_severity_low_option" value="Low">Low</option>
+            <option id="filter_severity_medium_option" value="Medium">Medium</option>
+            <option id="filter_severity_high_option" value="High">High</option>
+            <option id="filter_severity_critical_option" value="Critical">Critical</option>
+          </select>
+        </div>
+
+        <div id="search_title_group" class="field-group">
+          <label id="label_search_title" for="search_title">Search by Title</label>
+          <input id="search_title" name="searchTitle" type="text"
+            placeholder="Search incident title" autocomplete="off" />
+        </div>
+      </div>
+
+      <div id="table_loader" class="table-loader hidden">Loading...</div>
+
+      <table id="incidents_table">
+        <thead id="incidents_table_head">
+          <tr id="incidents_header_row">
+            <th id="th_id">ID</th>
+            <th id="th_title">Title</th>
+            <th id="th_reporter">Reporter</th>
+            <th id="th_system">System</th>
+            <th id="th_severity">Severity</th>
+            <th id="th_status">Status</th>
+          </tr>
+        </thead>
+        <tbody id="incidents_table_body"></tbody>
+      </table>
+
+      <p id="no_incidents_message" class="empty-message hidden">No incidents found</p>
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

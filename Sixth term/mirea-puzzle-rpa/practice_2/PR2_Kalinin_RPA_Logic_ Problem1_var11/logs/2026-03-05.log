@@ -1,0 +1,12 @@
+2026-03-06T02:57:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:57:25+0300 Окно выполнения: Процесс 1: ERROR:  ["cannot access local variable 'max_engagement' where it is not associated with a value"]
+2026-03-06T02:57:32+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:58:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:58:08+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for /: 'str' and 'int'"]
+2026-03-06T02:58:26+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:59:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:59:11+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for /: 'str' and 'int'"]
+2026-03-06T02:59:22+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:59:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T02:59:48+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for /: 'str' and 'int'"]
+2026-03-06T02:59:49+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json

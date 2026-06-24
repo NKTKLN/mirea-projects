@@ -1,0 +1,36 @@
+2026-03-06T01:45:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:45:25+0300 Окно выполнения: Пример 1: ERROR:  ["Worksheet named 'Лист_1' not found"]
+2026-03-06T01:45:30+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:45:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:46:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:49:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:50:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:51:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:51:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 1.json
+2026-03-06T01:56:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:56:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:57:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:57:17+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:58:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:59:07+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:59:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T01:59:28+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T02:03:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T02:03:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T02:03:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T02:04:18+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 2.json
+2026-03-06T02:09:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 3.json
+2026-03-06T02:09:35+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 3.json
+2026-03-06T02:09:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 3.json
+2026-03-06T02:09:56+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 3.json
+2026-03-06T02:19:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:20:04+0300 Окно выполнения: Пример 4: ERROR:  ["'Worksheet Индексация does not exist.'"]
+2026-03-06T02:20:09+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:20:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:20:31+0300 Окно выполнения: Пример 4: ERROR:  ["[Errno 13] Permission denied: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\Сотрудники.xlsx'"]
+2026-03-06T02:20:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:20:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:21:04+0300 Окно выполнения: Пример 4: ERROR:  ["Failed to get child processes: program not found"]
+2026-03-06T02:21:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:21:14+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json
+2026-03-06T02:21:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\practice 2\process\Пример 4.json

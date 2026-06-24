@@ -1,0 +1,414 @@
+{
+  "clients": [
+    {
+      "name": "Иван Иванов",
+      "email": "ivan1@mail.com",
+      "accounts": [
+        {
+          "account_id": "A001",
+          "transactions": [
+            {"type": "income", "amount": 12000},
+            {"type": "expense", "amount": 3000},
+            {"type": "income", "amount": 4500}
+          ]
+        },
+        {
+          "account_id": "A002",
+          "transactions": [
+            {"type": "income", "amount": 8000},
+            {"type": "expense", "amount": 2000},
+            {"type": "expense", "amount": 1500}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Анна Смирнова",
+      "email": "anna2@mail.com",
+      "accounts": [
+        {
+          "account_id": "A003",
+          "transactions": [
+            {"type": "income", "amount": 15000},
+            {"type": "expense", "amount": 7000},
+            {"type": "expense", "amount": 2000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Пётр Петров",
+      "email": "petr3@mail.com",
+      "accounts": [
+        {
+          "account_id": "A004",
+          "transactions": [
+            {"type": "income", "amount": 3000},
+            {"type": "expense", "amount": 4500},
+            {"type": "expense", "amount": 1200}
+          ]
+        },
+        {
+          "account_id": "A005",
+          "transactions": [
+            {"type": "income", "amount": 7000},
+            {"type": "expense", "amount": 1000},
+            {"type": "income", "amount": 2000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Мария Кузнецова",
+      "email": "maria4@mail.com",
+      "accounts": [
+        {
+          "account_id": "A006",
+          "transactions": [
+            {"type": "income", "amount": 9000},
+            {"type": "expense", "amount": 1000},
+            {"type": "expense", "amount": 2000}
+          ]
+        },
+        {
+          "account_id": "A007",
+          "transactions": [
+            {"type": "income", "amount": 5000},
+            {"type": "income", "amount": 3500},
+            {"type": "expense", "amount": 1000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Дмитрий Волков",
+      "email": "dmitry5@mail.com",
+      "accounts": [
+        {
+          "account_id": "A008",
+          "transactions": [
+            {"type": "income", "amount": 4000},
+            {"type": "expense", "amount": 2500},
+            {"type": "expense", "amount": 1200}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Елена Соколова",
+      "email": "elena6@mail.com",
+      "accounts": [
+        {
+          "account_id": "A009",
+          "transactions": [
+            {"type": "income", "amount": 18000},
+            {"type": "expense", "amount": 3000},
+            {"type": "expense", "amount": 2000}
+          ]
+        },
+        {
+          "account_id": "A010",
+          "transactions": [
+            {"type": "income", "amount": 7000},
+            {"type": "expense", "amount": 1500},
+            {"type": "income", "amount": 2000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Сергей Морозов",
+      "email": "sergey7@mail.com",
+      "accounts": [
+        {
+          "account_id": "A011",
+          "transactions": [
+            {"type": "income", "amount": 6000},
+            {"type": "expense", "amount": 4000},
+            {"type": "expense", "amount": 1500}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ольга Новикова",
+      "email": "olga8@mail.com",
+      "accounts": [
+        {
+          "account_id": "A012",
+          "transactions": [
+            {"type": "income", "amount": 10000},
+            {"type": "expense", "amount": 2000},
+            {"type": "income", "amount": 5000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Алексей Фёдоров",
+      "email": "alex9@mail.com",
+      "accounts": [
+        {
+          "account_id": "A013",
+          "transactions": [
+            {"type": "income", "amount": 11000},
+            {"type": "expense", "amount": 3000},
+            {"type": "income", "amount": 2000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Наталья Орлова",
+      "email": "natalia10@mail.com",
+      "accounts": [
+        {
+          "account_id": "A014",
+          "transactions": [
+            {"type": "income", "amount": 7000},
+            {"type": "expense", "amount": 3500},
+            {"type": "expense", "amount": 2000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Роман Беляев",
+      "email": "roman11@mail.com",
+      "accounts": [
+        {
+          "account_id": "A015",
+          "transactions": [
+            {"type": "income", "amount": 9000},
+            {"type": "income", "amount": 4000},
+            {"type": "expense", "amount": 2500}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Татьяна Павлова",
+      "email": "tatiana12@mail.com",
+      "accounts": [
+        {
+          "account_id": "A016",
+          "transactions": [
+            {"type": "income", "amount": 3000},
+            {"type": "expense", "amount": 2000},
+            {"type": "expense", "amount": 1800}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Юрий Семёнов",
+      "email": "yuri13@mail.com",
+      "accounts": [
+        {
+          "account_id": "A017",
+          "transactions": [
+            {"type": "income", "amount": 12000},
+            {"type": "expense", "amount": 2000},
+            {"type": "expense", "amount": 1000}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Виктория Лебедева",
+      "email": "victoria14@mail.com",
+      "accounts": [
+        {
+          "account_id": "A018",
+          "transactions": [
+            {"type": "income", "amount": 14000},
+            {"type": "expense", "amount": 3000},
+            {"type": "income", "amount": 2000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Андрей Крылов",
+      "email": "andrey15@mail.com",
+      "accounts": [
+        {
+          "account_id": "A019",
+          "transactions": [
+            {"type": "income", "amount": 8000},
+            {"type": "expense", "amount": 4000},
+            {"type": "expense", "amount": 2000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Кирилл Громов",
+      "email": "kirill16@mail.com",
+      "accounts": [
+        {
+          "account_id": "A020",
+          "transactions": [
+            {"type": "income", "amount": 5000},
+            {"type": "expense", "amount": 3500},
+            {"type": "income", "amount": 1200}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Людмила Денисова",
+      "email": "ludmila17@mail.com",
+      "accounts": [
+        {
+          "account_id": "A021",
+          "transactions": [
+            {"type": "income", "amount": 20000},
+            {"type": "expense", "amount": 5000},
+            {"type": "expense", "amount": 3000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Максим Жуков",
+      "email": "max18@mail.com",
+      "accounts": [
+        {
+          "account_id": "A022",
+          "transactions": [
+            {"type": "income", "amount": 6000},
+            {"type": "expense", "amount": 4500},
+            {"type": "expense", "amount": 500}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Никита Богданов",
+      "email": "nikita19@mail.com",
+      "accounts": [
+        {
+          "account_id": "A023",
+          "transactions": [
+            {"type": "income", "amount": 7000},
+            {"type": "income", "amount": 4000},
+            {"type": "expense", "amount": 2000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Павел Ефимов",
+      "email": "pavel20@mail.com",
+      "accounts": [
+        {
+          "account_id": "A024",
+          "transactions": [
+            {"type": "income", "amount": 3000},
+            {"type": "expense", "amount": 5000},
+            {"type": "expense", "amount": 1000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Руслан Фомин",
+      "email": "ruslan21@mail.com",
+      "accounts": [
+        {
+          "account_id": "A025",
+          "transactions": [
+            {"type": "income", "amount": 12000},
+            {"type": "expense", "amount": 2000},
+            {"type": "income", "amount": 3000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Светлана Котова",
+      "email": "sveta22@mail.com",
+      "accounts": [
+        {
+          "account_id": "A026",
+          "transactions": [
+            {"type": "income", "amount": 5000},
+            {"type": "expense", "amount": 2000},
+            {"type": "expense", "amount": 1000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Тимур Сафонов",
+      "email": "timur23@mail.com",
+      "accounts": [
+        {
+          "account_id": "A027",
+          "transactions": [
+            {"type": "income", "amount": 11000},
+            {"type": "expense", "amount": 3000},
+            {"type": "income", "amount": 2000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Фёдор Алексеев",
+      "email": "fedor24@mail.com",
+      "accounts": [
+        {
+          "account_id": "A028",
+          "transactions": [
+            {"type": "income", "amount": 9000},
+            {"type": "expense", "amount": 4500},
+            {"type": "expense", "amount": 1500}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Юлия Мельникова",
+      "email": "yulia25@mail.com",
+      "accounts": [
+        {
+          "account_id": "A029",
+          "transactions": [
+            {"type": "income", "amount": 15000},
+            {"type": "expense", "amount": 3000},
+            {"type": "income", "amount": 5000}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Ярослав Титов",
+      "email": "yaroslav26@mail.com",
+      "accounts": [
+        {
+          "account_id": "A030",
+          "transactions": [
+            {"type": "income", "amount": 8000},
+            {"type": "expense", "amount": 9000},
+            {"type": "expense", "amount": 2000}
+          ]
+        }
+      ]
+    }
+  ]
+}

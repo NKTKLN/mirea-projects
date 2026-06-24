@@ -1,0 +1,217 @@
+2026-04-21T21:31:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:31:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\c4f296e2-7d32-41e5-b62d-2a0053b924dd\spark_271.py
+2026-04-21T21:31:28+0300 INFO: Завершение работы робота
+2026-04-21T21:31:28+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:33:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:33:22+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\db36bbb6-b099-4d73-8626-75187af7cd5a\spark_271.py
+2026-04-21T21:33:32+0300 INFO: Завершение работы робота
+2026-04-21T21:33:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:33:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:33:36+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\791c2d91-041c-4be8-9be2-69ed6afe63d1\spark_271.py
+2026-04-21T21:33:46+0300 INFO: Завершение работы робота
+2026-04-21T21:33:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ced74e51-a6c6-4f34-85e4-91358e767c43\spark_271.py
+2026-04-21T21:34:18+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ced74e51-a6c6-4f34-85e4-91358e767c43\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:34:18+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:34:21+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d480480d-4b65-4c53-a7e6-4512bd725a71\spark_271.py
+2026-04-21T21:34:39+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d480480d-4b65-4c53-a7e6-4512bd725a71\spark_271.py Ошибка: Find Control Timeout(10s): {Name: 'Package:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}
+2026-04-21T21:34:39+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: 'Package:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}"]
+2026-04-21T21:34:42+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:34:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d0eb1e20-599b-43f6-8c20-dde4febe1b9e\spark_271.py
+2026-04-21T21:35:04+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d0eb1e20-599b-43f6-8c20-dde4febe1b9e\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:35:04+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:35:06+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2c16523c-7d2b-451e-8d5a-a657e6e997a4\spark_271.py
+2026-04-21T21:35:12+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2c16523c-7d2b-451e-8d5a-a657e6e997a4\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:35:12+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:35:14+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6c96fde5-a767-4b58-81e9-e34cb59e479b\spark_271.py
+2026-04-21T21:35:18+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6c96fde5-a767-4b58-81e9-e34cb59e479b\spark_271.py Ошибка: 'EditControl' object has no attribute 'SetActive'
+2026-04-21T21:35:18+0300 Окно выполнения: Процесс 1: ERROR:  ["'EditControl' object has no attribute 'SetActive'"]
+2026-04-21T21:35:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\8b607e51-af3c-457b-9654-52e805d42a87\spark_271.py
+2026-04-21T21:35:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:35:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\567d29e8-6a28-42bc-a1a7-4ca1dcb236bf\spark_271.py
+2026-04-21T21:35:49+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\8b607e51-af3c-457b-9654-52e805d42a87\spark_271.py Ошибка: Find Control Timeout(10s): {Name: 'Driver:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}
+2026-04-21T21:35:49+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: 'Driver:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}"]
+2026-04-21T21:35:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:36:02+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\567d29e8-6a28-42bc-a1a7-4ca1dcb236bf\spark_271.py Ошибка: Find Control Timeout(10s): {Name: 'Driver:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}
+2026-04-21T21:36:02+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: 'Driver:', ClassName: 'WindowsForms10.Edit.app.0.21b46d2_r3_ad1', ControlType: EditControl}"]
+2026-04-21T21:36:06+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:36:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:36:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b39f60b3-571f-4e89-a20a-d983dcf1d2c7\spark_271.py
+2026-04-21T21:36:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b39f60b3-571f-4e89-a20a-d983dcf1d2c7\spark_271.py
+2026-04-21T21:36:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:44:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:44:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f41d9706-b4e7-4bc6-81de-2f1b0a4edcbb\spark_271.py
+2026-04-21T21:44:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f41d9706-b4e7-4bc6-81de-2f1b0a4edcbb\spark_271.py
+2026-04-21T21:44:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:45:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:45:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\35d65858-b786-4ce6-a8d6-952f1e642edc\spark_271.py
+2026-04-21T21:45:16+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\35d65858-b786-4ce6-a8d6-952f1e642edc\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:45:16+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:45:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:45:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:45:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d0b69aeb-6c8a-4270-b56e-69abad041bed\spark_271.py
+2026-04-21T21:46:07+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d0b69aeb-6c8a-4270-b56e-69abad041bed\spark_271.py Ошибка: Find Control Timeout(10s): {Name: '➕ Add', ClassName: 'WindowsForms10.Button.app.0.21b46d2_r3_ad1', ControlType: ButtonControl}
+2026-04-21T21:46:08+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: '➕ Add', ClassName: 'WindowsForms10.Button.app.0.21b46d2_r3_ad1', ControlType: ButtonControl}"]
+2026-04-21T21:46:10+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:46:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:46:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ad7511fb-7f5c-4d58-991f-add3c9231e9b\spark_271.py
+2026-04-21T21:46:46+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ad7511fb-7f5c-4d58-991f-add3c9231e9b\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:46:46+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:46:46+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:50:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:50:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f2ce2cb4-9257-457c-9fa3-fa7122527512\spark_271.py
+2026-04-21T21:50:29+0300 INFO: Завершение работы робота
+2026-04-21T21:50:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:50:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:50:54+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9c729bd8-801d-4370-b2dd-83b06b6351ce\spark_271.py
+2026-04-21T21:50:58+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9c729bd8-801d-4370-b2dd-83b06b6351ce\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T21:50:58+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T21:51:25+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:52:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:52:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\10fbbcfb-90ef-4e0a-9c6c-052a46aa6dd0\spark_271.py
+2026-04-21T21:52:56+0300 INFO: Завершение работы робота
+2026-04-21T21:52:56+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:52:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:53:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\3560220c-df4d-4e45-8879-6024e08cacfc\spark_271.py
+2026-04-21T21:53:15+0300 INFO: Завершение работы робота
+2026-04-21T21:53:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:55:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:55:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\45f2b98c-dad9-4da7-aecb-db1c8c871388\spark_271.py
+2026-04-21T21:55:21+0300 INFO: Завершение работы робота
+2026-04-21T21:55:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:56:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T21:56:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ba51e9be-2984-46b6-959e-6b9ee45ba4bd\spark_271.py
+2026-04-21T21:56:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ba51e9be-2984-46b6-959e-6b9ee45ba4bd\spark_271.py
+2026-04-21T21:56:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:17:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:17:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ae6eb7d1-bdc6-451e-80e5-2d5b9cf85bf6\spark_271.py
+2026-04-21T22:17:46+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ae6eb7d1-bdc6-451e-80e5-2d5b9cf85bf6\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T22:17:46+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T22:17:47+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:17:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:17:49+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\3d253e5e-254e-4ca7-984b-07ca480ce48d\spark_271.py
+2026-04-21T22:17:52+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\3d253e5e-254e-4ca7-984b-07ca480ce48d\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T22:17:53+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T22:17:54+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:17:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9bf48b7b-5db0-4e43-b65a-06dc2a129569\spark_271.py
+2026-04-21T22:18:11+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9bf48b7b-5db0-4e43-b65a-06dc2a129569\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T22:18:11+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T22:18:12+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0ebad6fe-64e1-44bf-8a2c-778f737a1eed\spark_271.py
+2026-04-21T22:18:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0ebad6fe-64e1-44bf-8a2c-778f737a1eed\spark_271.py
+2026-04-21T22:18:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6a7728b9-51e9-4a5d-9f0d-1dd649dcef0a\spark_271.py
+2026-04-21T22:18:53+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6a7728b9-51e9-4a5d-9f0d-1dd649dcef0a\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T22:18:53+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T22:18:54+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:18:59+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\bab90108-a62f-4bf8-adfc-a9d8fb6b8a26\spark_271.py
+2026-04-21T22:19:12+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\bab90108-a62f-4bf8-adfc-a9d8fb6b8a26\spark_271.py Ошибка: Find Control Timeout(10s): {Name: '0', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}
+2026-04-21T22:19:12+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: '0', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}"]
+2026-04-21T22:19:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:19:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:19:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ea645f39-9b42-4249-9481-76dc1346ea83\spark_271.py
+2026-04-21T22:19:50+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ea645f39-9b42-4249-9481-76dc1346ea83\spark_271.py Ошибка: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+2026-04-21T22:19:50+0300 Окно выполнения: Процесс 1: ERROR:  ["(-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))"]
+2026-04-21T22:19:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:24:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:24:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\7625c75f-45a2-4977-a2f5-2aabde6462cf\spark_271.py
+2026-04-21T22:24:17+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\7625c75f-45a2-4977-a2f5-2aabde6462cf\spark_271.py Ошибка: Find Control Timeout(10s): {Name: '1', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}
+2026-04-21T22:24:17+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: '1', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}"]
+2026-04-21T22:24:20+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:27:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:27:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\c65c1602-0c51-4bd5-bcde-a072008f8095\spark_271.py
+2026-04-21T22:27:32+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\c65c1602-0c51-4bd5-bcde-a072008f8095\spark_271.py Ошибка: Find Control Timeout(10s): {Name: '0', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}
+2026-04-21T22:27:32+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: '0', ClassName: 'WindowsForms10.Static.app.0.21b46d2_r3_ad1', ControlType: TextControl}"]
+2026-04-21T22:27:33+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:28:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:28:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\00a92c9b-7caa-420b-adf0-589c1d73c56a\spark_271.py
+2026-04-21T22:28:14+0300 INFO: Завершение работы робота
+2026-04-21T22:28:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:28:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:28:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\fa9670b5-0ca2-400c-971b-ffd06ff85007\spark_271.py
+2026-04-21T22:28:31+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\fa9670b5-0ca2-400c-971b-ffd06ff85007\spark_271.py
+2026-04-21T22:28:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:29:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:29:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2840fa65-3646-403c-aecd-96f194f8199e\spark_271.py
+2026-04-21T22:29:51+0300 INFO: Завершение работы робота
+2026-04-21T22:29:51+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:29:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:29:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\48c73d5b-7365-41d6-9a88-b32fbcccbe90\spark_271.py
+2026-04-21T22:30:13+0300 INFO: Завершение работы робота
+2026-04-21T22:30:13+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:44:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:44:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\dfe35078-08c6-4066-9d80-97e0d87e4a26\spark_271.py
+2026-04-21T22:44:38+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\dfe35078-08c6-4066-9d80-97e0d87e4a26\spark_271.py Ошибка: name 'my_array' is not defined
+2026-04-21T22:44:38+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'my_array' is not defined"]
+2026-04-21T22:44:41+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:44:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:44:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b995ba47-772b-4e13-a572-663ae54e3bcd\spark_271.py
+2026-04-21T22:45:35+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b995ba47-772b-4e13-a572-663ae54e3bcd\spark_271.py
+2026-04-21T22:45:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:46:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:46:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\adf52cf6-d318-4a1c-839b-b3dff17935e6\spark_271.py
+2026-04-21T22:46:30+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\adf52cf6-d318-4a1c-839b-b3dff17935e6\spark_271.py
+2026-04-21T22:46:31+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:47:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:47:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5666d58d-cfc0-4481-89e7-65962d1af12d\spark_271.py
+2026-04-21T22:47:50+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5666d58d-cfc0-4481-89e7-65962d1af12d\spark_271.py
+2026-04-21T22:47:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:48:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:48:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\41510acc-f96d-4d57-8c41-c04e834a17b2\spark_271.py
+2026-04-21T22:48:19+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-04-21T22:48:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:48:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ae743ca9-3530-4b4d-8fad-1d3e9ccdfd68\spark_271.py
+2026-04-21T22:48:46+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ae743ca9-3530-4b4d-8fad-1d3e9ccdfd68\spark_271.py
+2026-04-21T22:48:48+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:48:48+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\41510acc-f96d-4d57-8c41-c04e834a17b2\spark_271.py
+2026-04-21T22:48:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:49:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:49:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\c2a411e0-544c-4e0a-9b8d-9c1f7a5a2853\spark_271.py
+2026-04-21T22:49:40+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\c2a411e0-544c-4e0a-9b8d-9c1f7a5a2853\spark_271.py
+2026-04-21T22:49:41+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:49:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:49:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b37c311c-dada-4a6e-aea6-6f104feaf750\spark_271.py
+2026-04-21T22:50:14+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b37c311c-dada-4a6e-aea6-6f104feaf750\spark_271.py
+2026-04-21T22:50:16+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:53:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:53:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e9684d3d-04fd-4a64-91a0-f78c9c63a051\spark_271.py
+2026-04-21T22:53:48+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e9684d3d-04fd-4a64-91a0-f78c9c63a051\spark_271.py
+2026-04-21T22:53:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:54:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:54:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9b04cbfe-511e-4cc2-b8a1-2f656d72d131\spark_271.py
+2026-04-21T22:54:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9b04cbfe-511e-4cc2-b8a1-2f656d72d131\spark_271.py
+2026-04-21T22:54:56+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:55:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:55:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f07bba95-0fe3-4df6-ab9e-daebe1e4fee3\spark_271.py
+2026-04-21T22:55:53+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f07bba95-0fe3-4df6-ab9e-daebe1e4fee3\spark_271.py
+2026-04-21T22:55:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:56:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:56:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0497826d-4836-457c-be9c-20c9d7aec8a9\spark_271.py
+2026-04-21T22:56:38+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0497826d-4836-457c-be9c-20c9d7aec8a9\spark_271.py
+2026-04-21T22:56:39+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:57:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:57:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0b92ef75-5632-44d3-ae27-2568dc7f51b3\spark_271.py
+2026-04-21T22:57:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0b92ef75-5632-44d3-ae27-2568dc7f51b3\spark_271.py
+2026-04-21T22:57:53+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:57:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T22:58:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ab16766d-b9b2-4aeb-8f4a-5e8f8e75048c\spark_271.py
+2026-04-21T22:58:20+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ab16766d-b9b2-4aeb-8f4a-5e8f8e75048c\spark_271.py
+2026-04-21T22:58:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T23:00:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-21T23:00:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0dfde667-2321-4c9c-a3be-b9d751f767fe\spark_271.py
+2026-04-21T23:00:46+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0dfde667-2321-4c9c-a3be-b9d751f767fe\spark_271.py
+2026-04-21T23:00:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json

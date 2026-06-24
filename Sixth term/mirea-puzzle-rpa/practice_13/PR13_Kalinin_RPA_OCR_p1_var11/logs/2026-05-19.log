@@ -1,0 +1,319 @@
+2026-05-19T20:53:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T20:53:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\32fe0dcc-6524-464d-8c40-cbf5f6b56f75\node_535.py
+2026-05-19T20:53:02+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\32fe0dcc-6524-464d-8c40-cbf5f6b56f75\node_535.py Ошибка: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_13\\Data\\Incoming\\case_*.zip'
+2026-05-19T20:53:02+0300 Окно выполнения: Процесс 1: ERROR:  ["[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\MIREA\\\\PoCS\\\\practice_13\\\\Data\\\\Incoming\\\\case_*.zip'"]
+2026-05-19T20:53:49+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T20:54:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T20:54:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\fcc0921a-3389-4f57-8ec3-c99f1d461b13\node_535.py
+2026-05-19T20:54:32+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\fcc0921a-3389-4f57-8ec3-c99f1d461b13\node_535.py
+2026-05-19T20:54:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:02:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:02:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\05395905-d1ef-432a-8b9a-af3521e7a2ac\node_535.py
+2026-05-19T21:02:18+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\05395905-d1ef-432a-8b9a-af3521e7a2ac\node_535.py Ошибка: Файл C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\Data\Temp\Extracted\form.pdf уже существует. Установите отметку в поле 'Заменить существующие'.
+2026-05-19T21:02:18+0300 Окно выполнения: Процесс 1: ERROR:  ["Файл C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_13\\Data\\Temp\\Extracted\\form.pdf уже существует. Установите отметку в поле 'Заменить существующие'."]
+2026-05-19T21:02:37+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:02:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:02:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3c009403-b366-4fb6-9e0e-dcec5dcf79f5\node_535.py
+2026-05-19T21:02:53+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3c009403-b366-4fb6-9e0e-dcec5dcf79f5\node_535.py
+2026-05-19T21:02:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:07:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:07:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\54885168-3f55-4d04-9e69-838f5ac63800\node_535.py
+2026-05-19T21:07:45+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\54885168-3f55-4d04-9e69-838f5ac63800\node_535.py
+2026-05-19T21:07:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:08:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:08:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a7fae13d-ae60-48f9-bd51-63aa4e237e6a\node_535.py
+2026-05-19T21:08:05+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a7fae13d-ae60-48f9-bd51-63aa4e237e6a\node_535.py
+2026-05-19T21:08:05+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:08:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:08:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\067e7d23-cbcc-4ad9-81eb-9e5d868577eb\node_535.py
+2026-05-19T21:08:11+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\067e7d23-cbcc-4ad9-81eb-9e5d868577eb\node_535.py
+2026-05-19T21:08:11+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:12:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:12:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e596fd97-1013-4dfa-a072-e159d74f1b69\node_535.py
+2026-05-19T21:12:48+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e596fd97-1013-4dfa-a072-e159d74f1b69\node_535.py Ошибка: name 'folder' is not defined
+2026-05-19T21:12:48+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'folder' is not defined"]
+2026-05-19T21:12:52+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:12:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:13:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a49c47a6-25ad-48f4-844b-2e27a2a506e8\node_535.py
+2026-05-19T21:13:00+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a49c47a6-25ad-48f4-844b-2e27a2a506e8\node_535.py Ошибка: argument of type 'int' is not iterable
+2026-05-19T21:13:00+0300 Окно выполнения: Процесс 1: ERROR:  ["argument of type 'int' is not iterable"]
+2026-05-19T21:13:02+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:13:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:13:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\59b71619-4d1f-457b-8b00-928c4836557d\node_535.py
+2026-05-19T21:13:13+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\59b71619-4d1f-457b-8b00-928c4836557d\node_535.py Ошибка: argument of type 'int' is not iterable
+2026-05-19T21:13:13+0300 Окно выполнения: Процесс 1: ERROR:  ["argument of type 'int' is not iterable"]
+2026-05-19T21:13:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:14:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:14:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9691a191-0e06-46cc-8b1d-a69811c2637d\node_535.py
+2026-05-19T21:14:18+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9691a191-0e06-46cc-8b1d-a69811c2637d\node_535.py
+2026-05-19T21:14:18+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:15:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:15:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\d2e86525-b78f-477c-89d4-53e711f14824\node_535.py
+2026-05-19T21:15:34+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\d2e86525-b78f-477c-89d4-53e711f14824\node_535.py Ошибка: ParsingError: Invalid PDF: PdfiumLibraryInternalError: FormatError: Invalid PDF: PdfiumLibraryInternalError: FormatError
+2026-05-19T21:15:34+0300 Окно выполнения: Процесс 1: ERROR:  ["ParsingError: Invalid PDF: PdfiumLibraryInternalError: FormatError: Invalid PDF: PdfiumLibraryInternalError: FormatError"]
+2026-05-19T21:15:44+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:17:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:17:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\ec853c62-c160-48ed-bbc4-01bba7ee260b\node_535.py
+2026-05-19T21:17:34+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\ec853c62-c160-48ed-bbc4-01bba7ee260b\node_535.py Ошибка: ParsingError: Invalid PDF: PdfiumLibraryInternalError: FormatError: Invalid PDF: PdfiumLibraryInternalError: FormatError
+2026-05-19T21:17:34+0300 Окно выполнения: Процесс 1: ERROR:  ["ParsingError: Invalid PDF: PdfiumLibraryInternalError: FormatError: Invalid PDF: PdfiumLibraryInternalError: FormatError"]
+2026-05-19T21:17:42+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:18:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:18:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b0acc083-afc5-43d1-afca-d50dbd855f1c\node_535.py
+2026-05-19T21:18:52+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b0acc083-afc5-43d1-afca-d50dbd855f1c\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:18:52+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:19:02+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:20:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:20:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\6dfcb368-92bb-452e-912c-8c1f0a7198ec\node_535.py
+2026-05-19T21:20:54+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\6dfcb368-92bb-452e-912c-8c1f0a7198ec\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:20:54+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:21:01+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:22:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:22:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3cee3dd8-e1f0-4b7a-95bf-02b0e07f1b6c\node_535.py
+2026-05-19T21:22:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3cee3dd8-e1f0-4b7a-95bf-02b0e07f1b6c\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:22:06+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:22:09+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:22:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:22:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2c1b0180-110a-4ea6-8119-0c9278c0935c\node_535.py
+2026-05-19T21:22:32+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2c1b0180-110a-4ea6-8119-0c9278c0935c\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:22:32+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:22:50+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:24:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:24:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0470da05-e048-43cc-8747-3c47a8b364f8\node_535.py
+2026-05-19T21:24:49+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T21:25:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0470da05-e048-43cc-8747-3c47a8b364f8\node_535.py
+2026-05-19T21:25:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:25:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:26:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0196e188-dc39-44c3-b452-1fa2f48a559c\node_535.py
+2026-05-19T21:26:02+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0196e188-dc39-44c3-b452-1fa2f48a559c\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:26:02+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:26:06+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:27:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:27:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a8068c1c-92ef-49f4-b5a0-a4fa51779dfb\node_535.py
+2026-05-19T21:28:07+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a8068c1c-92ef-49f4-b5a0-a4fa51779dfb\node_535.py
+2026-05-19T21:28:09+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:28:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:28:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b87e192a-8468-4bf1-8ad4-0f1e1b80cb58\node_535.py
+2026-05-19T21:28:28+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b87e192a-8468-4bf1-8ad4-0f1e1b80cb58\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:28:28+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:28:29+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:28:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:28:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\85c86a92-9f0f-4731-a66c-0660cb8d6c76\node_535.py
+2026-05-19T21:28:57+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\85c86a92-9f0f-4731-a66c-0660cb8d6c76\node_535.py Ошибка: Ошибка при извлечении таблиц из PDF
+2026-05-19T21:28:57+0300 Окно выполнения: Процесс 1: ERROR:  ["Ошибка при извлечении таблиц из PDF"]
+2026-05-19T21:28:59+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:29:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:29:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\4153b9be-1fb9-42e4-b0bb-b8bf2c886511\node_535.py
+2026-05-19T21:29:20+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\4153b9be-1fb9-42e4-b0bb-b8bf2c886511\node_535.py
+2026-05-19T21:29:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:32:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:32:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\65ca0dbb-9ea9-42f6-b881-dc58b4bc419e\node_535.py
+2026-05-19T21:33:36+0300 INFO: Завершение работы робота
+2026-05-19T21:33:38+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b2847ef7-e390-41e1-9f66-a53f697a0ff9\node_535.py
+2026-05-19T21:35:15+0300 INFO: Завершение работы робота
+2026-05-19T21:35:16+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:28+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T21:35:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0aa2f3fd-c624-4478-9c37-17aecdfd6318\node_535.py
+2026-05-19T21:35:34+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0aa2f3fd-c624-4478-9c37-17aecdfd6318\node_535.py Ошибка: 'Дaтa'
+2026-05-19T21:35:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:40+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e6f9b8d1-4716-44d6-9d65-88b30ee0622b\node_535.py
+2026-05-19T21:35:42+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e6f9b8d1-4716-44d6-9d65-88b30ee0622b\node_535.py Ошибка: 'Дaтa'
+2026-05-19T21:35:42+0300 Окно выполнения: Процесс 1: ERROR:  ["'Дaтa'"]
+2026-05-19T21:35:45+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:35:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\51756c26-096d-45a7-a46a-a09245a6748c\node_535.py
+2026-05-19T21:36:35+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\51756c26-096d-45a7-a46a-a09245a6748c\node_535.py Ошибка: 'Дaтa'
+2026-05-19T21:36:35+0300 Окно выполнения: Процесс 1: ERROR:  ["'Дaтa'"]
+2026-05-19T21:36:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:39:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:39:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e164ff45-7a6a-43cf-879a-4321fd6708b0\node_535.py
+2026-05-19T21:39:52+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e164ff45-7a6a-43cf-879a-4321fd6708b0\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:39:52+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:40:07+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:41:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:41:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\72ea1c1f-720b-4609-a1d8-695cc5e36680\node_535.py
+2026-05-19T21:41:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\72ea1c1f-720b-4609-a1d8-695cc5e36680\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:41:42+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:41:52+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:43:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:43:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\11f364d0-574d-407b-9f97-567237cc41d7\node_535.py
+2026-05-19T21:43:42+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\11f364d0-574d-407b-9f97-567237cc41d7\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:43:42+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:43:45+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:43:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:43:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9e1c3b0d-a64f-4008-81c2-32ce57e5077b\node_535.py
+2026-05-19T21:44:09+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9e1c3b0d-a64f-4008-81c2-32ce57e5077b\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:44:09+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:44:21+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:44:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:44:36+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\20278de3-cb4d-42f4-8c5f-eac00d30a0a6\node_535.py
+2026-05-19T21:45:16+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-19T21:45:25+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\20278de3-cb4d-42f4-8c5f-eac00d30a0a6\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:45:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:45:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:45:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\f63f695e-041d-4151-878f-fae76ef1652b\node_535.py
+2026-05-19T21:45:57+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\f63f695e-041d-4151-878f-fae76ef1652b\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:45:57+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:46:00+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:47:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:47:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\8ec88adc-0641-4d48-9b46-96b3f4261791\node_535.py
+2026-05-19T21:47:48+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\8ec88adc-0641-4d48-9b46-96b3f4261791\node_535.py Ошибка: По указанному пути файл не найден
+2026-05-19T21:47:48+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-19T21:47:57+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:49:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:49:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9707ed1f-7ff5-4806-9fa4-deeadb606ca2\node_535.py
+2026-05-19T21:49:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9707ed1f-7ff5-4806-9fa4-deeadb606ca2\node_535.py
+2026-05-19T21:49:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:57:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:57:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9eb2d631-d02e-4065-8fc9-b0d23af20808\node_535.py
+2026-05-19T21:57:40+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\9eb2d631-d02e-4065-8fc9-b0d23af20808\node_535.py Ошибка: 'Клиент'
+2026-05-19T21:57:40+0300 Окно выполнения: Процесс 1: ERROR:  ["'Клиент'"]
+2026-05-19T21:57:54+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:58:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:58:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0f62a2a0-8443-4eb1-b223-25d223f171e3\node_535.py
+2026-05-19T21:58:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0f62a2a0-8443-4eb1-b223-25d223f171e3\node_535.py Ошибка: 'Клиент'
+2026-05-19T21:58:22+0300 Окно выполнения: Процесс 1: ERROR:  ["'Клиент'"]
+2026-05-19T21:58:26+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:59:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T21:59:22+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e3919cb6-a2ac-40b7-ba98-abcd309b3911\node_535.py
+2026-05-19T21:59:45+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e3919cb6-a2ac-40b7-ba98-abcd309b3911\node_535.py Ошибка: 'Клиент'
+2026-05-19T21:59:45+0300 Окно выполнения: Процесс 1: ERROR:  ["'Клиент'"]
+2026-05-19T21:59:59+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:01:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:01:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2aee5573-a8e1-4b43-a432-5e5db5105754\node_535.py
+2026-05-19T22:01:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2aee5573-a8e1-4b43-a432-5e5db5105754\node_535.py Ошибка: 'Клиент'
+2026-05-19T22:01:22+0300 Окно выполнения: Процесс 1: ERROR:  ["'Клиент'"]
+2026-05-19T22:01:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:01:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:01:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a5d4b353-f8b2-4d4a-adc2-434a6ae0647a\node_535.py
+2026-05-19T22:02:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a5d4b353-f8b2-4d4a-adc2-434a6ae0647a\node_535.py Ошибка: 'Клиент'
+2026-05-19T22:02:05+0300 Окно выполнения: Процесс 1: ERROR:  ["'Клиент'"]
+2026-05-19T22:02:07+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\cb692631-a33a-450e-8978-8c8600273511\node_535.py
+2026-05-19T22:02:17+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\cb692631-a33a-450e-8978-8c8600273511\node_535.py Ошибка: 'Комментарий'
+2026-05-19T22:02:17+0300 Окно выполнения: Процесс 1: ERROR:  ["'Комментарий'"]
+2026-05-19T22:02:20+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0dd7fdc5-0d85-42b8-a03a-b2d2d7bc6bb8\node_535.py
+2026-05-19T22:02:33+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\0dd7fdc5-0d85-42b8-a03a-b2d2d7bc6bb8\node_535.py Ошибка: 'Комментарий'
+2026-05-19T22:02:33+0300 Окно выполнения: Процесс 1: ERROR:  ["'Комментарий'"]
+2026-05-19T22:02:37+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:02:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\1b717bbf-b2ff-47b3-b73f-3484684bb02b\node_535.py
+2026-05-19T22:02:58+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\1b717bbf-b2ff-47b3-b73f-3484684bb02b\node_535.py Ошибка: 'Комментарий'
+2026-05-19T22:02:58+0300 Окно выполнения: Процесс 1: ERROR:  ["'Комментарий'"]
+2026-05-19T22:03:01+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:03:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:03:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2f21e2b1-31d3-4c2f-8941-be5c053e7b44\node_535.py
+2026-05-19T22:03:33+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\2f21e2b1-31d3-4c2f-8941-be5c053e7b44\node_535.py
+2026-05-19T22:03:35+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:06:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:06:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\c1b56141-13f6-43b4-90bd-ea59a06b4364\node_535.py
+2026-05-19T22:06:34+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\c1b56141-13f6-43b4-90bd-ea59a06b4364\node_535.py
+2026-05-19T22:06:35+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:06:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:06:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3bcc3a26-fc3b-4a9b-a5e6-f2ef02d92301\node_535.py
+2026-05-19T22:07:02+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\3bcc3a26-fc3b-4a9b-a5e6-f2ef02d92301\node_535.py
+2026-05-19T22:07:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:07:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:07:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\653b5e53-4e0f-4060-9d62-c5dc9e0e98d0\node_535.py
+2026-05-19T22:07:41+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\653b5e53-4e0f-4060-9d62-c5dc9e0e98d0\node_535.py
+2026-05-19T22:07:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:08:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:09:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\df93e629-8fa8-41e2-8acf-b8f819c95523\node_535.py
+2026-05-19T22:09:08+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\df93e629-8fa8-41e2-8acf-b8f819c95523\node_535.py
+2026-05-19T22:09:10+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:14:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:14:27+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\ee2a83b6-f964-43db-9f89-4c09237ac0b2\node_535.py
+2026-05-19T22:14:31+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\ee2a83b6-f964-43db-9f89-4c09237ac0b2\node_535.py Ошибка: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_13\\Data\\Reports\tickets_20260519221431.txt'
+2026-05-19T22:14:31+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\MIREA\\\\PoCS\\\\practice_13\\\\Data\\\\Reports\\tickets_20260519221431.txt'"]
+2026-05-19T22:14:57+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\4f05fd54-96e4-46f4-9b4d-7ff40a9ec659\node_535.py
+2026-05-19T22:15:12+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\4f05fd54-96e4-46f4-9b4d-7ff40a9ec659\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:15:12+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:15:16+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\04668efb-cb23-4f54-a46b-346d6e286fd6\node_535.py
+2026-05-19T22:15:24+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\04668efb-cb23-4f54-a46b-346d6e286fd6\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:15:24+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:15:26+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\380fe017-8649-49df-afc9-8c3ae24f0d22\node_535.py
+2026-05-19T22:15:40+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\380fe017-8649-49df-afc9-8c3ae24f0d22\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:15:40+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:15:42+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a1514ff4-55c1-43f1-8f31-b7d980ecef1b\node_535.py
+2026-05-19T22:15:54+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a1514ff4-55c1-43f1-8f31-b7d980ecef1b\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:15:54+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:15:55+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:15:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:16:02+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\d4576628-2a64-4512-ac0d-90b48d1d8c5e\node_535.py
+2026-05-19T22:16:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\d4576628-2a64-4512-ac0d-90b48d1d8c5e\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:16:05+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:16:07+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:16:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:16:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\60ef1fbc-0299-4a65-8817-7fd24b44a07a\node_535.py
+2026-05-19T22:16:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\60ef1fbc-0299-4a65-8817-7fd24b44a07a\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:16:22+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:16:24+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:16:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:16:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\17a53100-427c-4693-a78c-04fcc119d985\node_535.py
+2026-05-19T22:16:34+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\17a53100-427c-4693-a78c-04fcc119d985\node_535.py Ошибка: unhashable type: 'slice'
+2026-05-19T22:16:34+0300 Окно выполнения: Процесс 1: ERROR:  ["unhashable type: 'slice'"]
+2026-05-19T22:16:51+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:17:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:17:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b2fbe16c-0b2c-45ab-ad72-dde962b3792a\node_535.py
+2026-05-19T22:17:10+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\b2fbe16c-0b2c-45ab-ad72-dde962b3792a\node_535.py Ошибка: sequence item 2: expected str instance, int found
+2026-05-19T22:17:10+0300 Окно выполнения: Процесс 1: ERROR:  ["sequence item 2: expected str instance, int found"]
+2026-05-19T22:17:20+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:17:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:17:29+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\300b3ba1-2896-45ca-aa3f-352811f6f436\node_535.py
+2026-05-19T22:17:51+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\300b3ba1-2896-45ca-aa3f-352811f6f436\node_535.py
+2026-05-19T22:17:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:18:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:18:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\1cca694a-2534-42d4-ab8e-419ab6386087\node_535.py
+2026-05-19T22:18:59+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\1cca694a-2534-42d4-ab8e-419ab6386087\node_535.py
+2026-05-19T22:19:01+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:19:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:19:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\bc43351f-fb53-4a78-99cc-91690415502e\node_535.py
+2026-05-19T22:19:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\bc43351f-fb53-4a78-99cc-91690415502e\node_535.py
+2026-05-19T22:19:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:19:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:19:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\c2023f96-a803-482f-a682-5f04665846a1\node_535.py
+2026-05-19T22:19:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\c2023f96-a803-482f-a682-5f04665846a1\node_535.py
+2026-05-19T22:19:56+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:21:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:22:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\715dd90f-f250-4246-8301-3e434babfd4a\node_535.py
+2026-05-19T22:22:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\715dd90f-f250-4246-8301-3e434babfd4a\node_535.py
+2026-05-19T22:22:03+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:24:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:24:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e2f19cf0-66d6-4eaf-8ac4-1dfe452bf49b\node_535.py
+2026-05-19T22:24:42+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\e2f19cf0-66d6-4eaf-8ac4-1dfe452bf49b\node_535.py Ошибка: sequence item 0: expected str instance, dict found
+2026-05-19T22:24:42+0300 Окно выполнения: Процесс 1: ERROR:  ["sequence item 0: expected str instance, dict found"]
+2026-05-19T22:25:03+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:26:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:26:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\26031003-d3a3-4dbe-a56a-c3c1b43947d8\node_535.py
+2026-05-19T22:26:18+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\26031003-d3a3-4dbe-a56a-c3c1b43947d8\node_535.py
+2026-05-19T22:26:18+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:28:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:28:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a25de63c-c1f2-4c40-9be9-457213ce4775\node_535.py
+2026-05-19T22:28:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\a25de63c-c1f2-4c40-9be9-457213ce4775\node_535.py
+2026-05-19T22:28:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:28:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:28:33+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\91230062-7e6c-4e73-bf82-3a96cb75de05\node_535.py
+2026-05-19T22:28:37+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\91230062-7e6c-4e73-bf82-3a96cb75de05\node_535.py
+2026-05-19T22:28:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:29:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:29:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\980c136e-d4a7-4c32-bd61-6f01d15f0395\node_535.py
+2026-05-19T22:29:09+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\980c136e-d4a7-4c32-bd61-6f01d15f0395\node_535.py
+2026-05-19T22:29:10+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:32:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json
+2026-05-19T22:32:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\resource\300473fb-83e1-46e0-955c-d905b69dd32c\node_535.py
+2026-05-19T22:32:24+0300 INFO: Завершение работы робота
+2026-05-19T22:32:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_13\PR13_Kalinin_RPA_OCR_p1_var11\process\Процесс 1.json

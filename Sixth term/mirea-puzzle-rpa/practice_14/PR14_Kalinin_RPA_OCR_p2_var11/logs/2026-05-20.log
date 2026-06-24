@@ -1,0 +1,34 @@
+2026-05-20T00:20:45+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\983133b0-9f29-401d-b53c-c75d85105258\circuit_391.py
+2026-05-20T00:20:45+0300 INFO: Завершение работы робота
+2026-05-20T00:34:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\2a299ef2-c097-4b76-be4b-dd5e6b18af80\circuit_391.py
+2026-05-20T00:34:26+0300 INFO: Завершение работы робота
+2026-05-20T00:35:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\6703659f-c320-4c55-81a3-059789532a03\circuit_391.py
+2026-05-20T00:35:24+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\6703659f-c320-4c55-81a3-059789532a03\circuit_391.py Ошибка: [Errno 22] Invalid argument: 'C:\\Users\\NKTKLN\\Desktop\\MIREA\\PoCS\\practice_14\\Data\\Reports\x0berification.xlsx'
+2026-05-20T00:36:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\3cdf0fa9-9890-4004-8b7e-a0489f271b05\circuit_391.py
+2026-05-20T00:36:06+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\3cdf0fa9-9890-4004-8b7e-a0489f271b05\circuit_391.py
+2026-05-20T00:36:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\136e9b82-09d8-42df-9ca5-90efdbb7aca5\circuit_391.py
+2026-05-20T00:36:37+0300 INFO: Завершение работы робота
+2026-05-20T00:37:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\e117a6c6-9f39-42c9-b818-308740c09062\circuit_391.py
+2026-05-20T00:37:35+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\e117a6c6-9f39-42c9-b818-308740c09062\circuit_391.py
+2026-05-20T00:39:36+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\bfe1b3b3-7c9d-4cda-be09-23986a343bb6\circuit_391.py
+2026-05-20T00:39:40+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\bfe1b3b3-7c9d-4cda-be09-23986a343bb6\circuit_391.py Ошибка: По указанному пути файл не найден
+2026-05-20T00:40:06+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\1eafefcb-0b5d-47a2-9c7d-4c7b3df79ddc\circuit_391.py
+2026-05-20T00:40:10+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\1eafefcb-0b5d-47a2-9c7d-4c7b3df79ddc\circuit_391.py Ошибка: По указанному пути файл не найден
+2026-05-20T00:42:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\cedaa259-9fc5-460f-8900-3c46fbae9d4b\circuit_391.py
+2026-05-20T00:42:15+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\cedaa259-9fc5-460f-8900-3c46fbae9d4b\circuit_391.py
+2026-05-20T00:43:33+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\7c79e13a-43a6-46d5-bc2a-a2dc8fd87b61\circuit_391.py
+2026-05-20T00:43:34+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\7c79e13a-43a6-46d5-bc2a-a2dc8fd87b61\circuit_391.py
+2026-05-20T00:46:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\9a93ef07-1ff0-477c-b4ed-410d68d83e5f\circuit_391.py
+2026-05-20T00:46:01+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\9a93ef07-1ff0-477c-b4ed-410d68d83e5f\circuit_391.py Ошибка: list index out of range
+2026-05-20T00:47:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\50739b2c-840f-48b4-8926-090ba7f80db1\circuit_391.py
+2026-05-20T00:47:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\50739b2c-840f-48b4-8926-090ba7f80db1\circuit_391.py Ошибка: list index out of range
+2026-05-20T00:47:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\df362826-e073-443d-a247-f37a57c7f048\circuit_391.py
+2026-05-20T00:47:51+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\df362826-e073-443d-a247-f37a57c7f048\circuit_391.py Ошибка: list index out of range
+2026-05-20T00:48:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\d5502a95-004a-4acf-b5e1-32e216b7a18b\circuit_391.py
+2026-05-20T00:48:18+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\d5502a95-004a-4acf-b5e1-32e216b7a18b\circuit_391.py Ошибка: По указанному пути файл не найден
+2026-05-20T00:48:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\5924d790-a91e-46dc-af9b-08963c42812a\circuit_391.py
+2026-05-20T00:48:48+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\5924d790-a91e-46dc-af9b-08963c42812a\circuit_391.py Ошибка: По указанному пути файл не найден
+2026-05-20T00:49:30+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\bd2900d7-bb97-41a9-a8b2-ef8537f82e20\circuit_391.py
+2026-05-20T00:49:31+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\bd2900d7-bb97-41a9-a8b2-ef8537f82e20\circuit_391.py
+2026-05-20T00:51:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\637de6b2-df09-4c6f-acbd-08f387096b60\circuit_391.py
+2026-05-20T00:51:18+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\resource\637de6b2-df09-4c6f-acbd-08f387096b60\circuit_391.py

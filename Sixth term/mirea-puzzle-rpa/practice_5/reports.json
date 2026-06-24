@@ -1,0 +1,44 @@
+[
+  {
+    "employee_name": "Орлов О.О.",
+    "trip_days": 5,
+    "daily_allowance": 1000.00,
+    "receipts_total": 15000.00,
+    "advance_given": 20000.00
+  },
+  {
+    "employee_name": "Смирнова А.В.",
+    "trip_days": 3,
+    "daily_allowance": 1200.00,
+    "receipts_total": 9800.00,
+    "advance_given": 15000.00
+  },
+  {
+    "employee_name": "Кузнецов И.П.",
+    "trip_days": 4,
+    "daily_allowance": 1100.00,
+    "receipts_total": 0.00,
+    "advance_given": 12000.00
+  },
+  {
+    "employee_name": "Павлова Н.С.",
+    "trip_days": 2,
+    "daily_allowance": 900.00,
+    "receipts_total": 5400.00,
+    "advance_given": 8000.00
+  },
+  {
+    "employee_name": "Егоров Д.М.",
+    "trip_days": 6,
+    "daily_allowance": 1000.00,
+    "receipts_total": 0.00,
+    "advance_given": 25000.00
+  },
+  {
+    "employee_name": "Федорова Л.К.",
+    "trip_days": 5,
+    "daily_allowance": 950.00,
+    "receipts_total": 13250.00,
+    "advance_given": 18000.00
+  }
+]

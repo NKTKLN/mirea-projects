@@ -1,0 +1,80 @@
+2026-03-06T04:36:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:36:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\ef6eb2bd-1396-475c-acac-de40d4493580\matrix_397.py
+2026-03-06T04:36:07+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\ef6eb2bd-1396-475c-acac-de40d4493580\matrix_397.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-03-06T04:36:07+0300 Окно выполнения: Процесс 1: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-03-06T04:36:10+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:36:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:36:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\d8f6dff3-0295-4897-b948-c37d7c7ada2c\matrix_397.py
+2026-03-06T04:36:14+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\d8f6dff3-0295-4897-b948-c37d7c7ada2c\matrix_397.py
+2026-03-06T04:36:14+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:38:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:38:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\50154829-1a78-4897-8b2c-5824d70b3c26\matrix_397.py
+2026-03-06T04:38:30+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\50154829-1a78-4897-8b2c-5824d70b3c26\matrix_397.py
+2026-03-06T04:38:30+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:40:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:40:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\0e6a7f10-90a0-4467-aee7-0ec5ad494c6b\matrix_397.py
+2026-03-06T04:40:26+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\0e6a7f10-90a0-4467-aee7-0ec5ad494c6b\matrix_397.py Ошибка: name 'all_accounts' is not defined
+2026-03-06T04:40:26+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'all_accounts' is not defined"]
+2026-03-06T04:40:29+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:41:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:41:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\19d43260-90da-4854-a6df-f538c61756f8\matrix_397.py
+2026-03-06T04:41:14+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\19d43260-90da-4854-a6df-f538c61756f8\matrix_397.py
+2026-03-06T04:41:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7f34358a-1b80-44f9-942c-e3ad6f7cdcd8\matrix_397.py
+2026-03-06T04:42:09+0300 ERROR: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7f34358a-1b80-44f9-942c-e3ad6f7cdcd8\matrix_397.py Ошибка: list indices must be integers or slices, not str
+2026-03-06T04:42:09+0300 Окно выполнения: Процесс 1: ERROR:  ["list indices must be integers or slices, not str"]
+2026-03-06T04:42:19+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\b0af25f4-4b79-41bd-9b91-03c9bbb4455e\matrix_397.py
+2026-03-06T04:42:47+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\b0af25f4-4b79-41bd-9b91-03c9bbb4455e\matrix_397.py
+2026-03-06T04:42:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:42:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\b029bbad-8ceb-40b9-b52f-ef21718163c4\matrix_397.py
+2026-03-06T04:42:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\b029bbad-8ceb-40b9-b52f-ef21718163c4\matrix_397.py
+2026-03-06T04:42:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:43:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:43:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\5865c19e-829e-4c00-a5af-b0a8fa5b4f37\matrix_397.py
+2026-03-06T04:43:44+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\5865c19e-829e-4c00-a5af-b0a8fa5b4f37\matrix_397.py
+2026-03-06T04:43:44+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:46:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T04:46:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\ab9f859a-e6a0-4c8c-98a4-9dab9114fe1c\matrix_397.py
+2026-03-06T04:47:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\ab9f859a-e6a0-4c8c-98a4-9dab9114fe1c\matrix_397.py
+2026-03-06T04:47:04+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:05:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:05:10+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7a33bff0-8879-465f-bfa7-6af9a2a55224\matrix_397.py
+2026-03-06T05:05:23+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7a33bff0-8879-465f-bfa7-6af9a2a55224\matrix_397.py
+2026-03-06T05:05:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:07:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:07:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7d8f72bf-9277-4a80-b7fd-9c0e7e9a76e0\matrix_397.py
+2026-03-06T05:07:21+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\7d8f72bf-9277-4a80-b7fd-9c0e7e9a76e0\matrix_397.py
+2026-03-06T05:07:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:08:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:08:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\9b6b8572-caf4-4166-b3c3-060c0adecefd\matrix_397.py
+2026-03-06T05:08:49+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\9b6b8572-caf4-4166-b3c3-060c0adecefd\matrix_397.py
+2026-03-06T05:08:49+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:21+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\mirea-puzzle-rpa\\practice_3\\PR3_Kalinin_RPA_Struct_var11\\resource\\a1eb6785-faf8-4d6a-81a8-988a7c0a9cb0\\matrix_397.py\", line 229\r\n    '':\r\n      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-06T05:12:25+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:35+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\mirea-puzzle-rpa\\practice_3\\PR3_Kalinin_RPA_Struct_var11\\resource\\ef305f33-df9b-4e8a-893d-97435dd9882f\\matrix_397.py\", line 229\r\n    '':\r\n      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-06T05:12:53+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:54+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:12:55+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\NKTKLN\\Desktop\\mirea-puzzle-rpa\\practice_3\\PR3_Kalinin_RPA_Struct_var11\\resource\\5ec30cc2-ee94-47c0-a10a-e65ce94185fe\\matrix_397.py\", line 229\r\n    '':\r\n      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-03-06T05:12:59+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:13:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:13:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\8938f6bd-b51d-4b22-af3c-3f557f059d2d\matrix_397.py
+2026-03-06T05:13:07+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\8938f6bd-b51d-4b22-af3c-3f557f059d2d\matrix_397.py
+2026-03-06T05:13:07+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:14:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:14:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\d7bc555c-ca99-48d6-bd4a-97f6b0ee0a67\matrix_397.py
+2026-03-06T05:14:20+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\d7bc555c-ca99-48d6-bd4a-97f6b0ee0a67\matrix_397.py
+2026-03-06T05:14:21+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:16:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:16:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\f9141a84-2c0f-4966-8897-45c694b41690\matrix_397.py
+2026-03-06T05:16:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\f9141a84-2c0f-4966-8897-45c694b41690\matrix_397.py
+2026-03-06T05:16:30+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 1.json
+2026-03-06T05:29:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 2.json
+2026-03-06T05:29:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\c942c465-8193-4f4d-bda9-5954ea724c0e\matrix_227.py
+2026-03-06T05:30:06+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\resource\c942c465-8193-4f4d-bda9-5954ea724c0e\matrix_227.py
+2026-03-06T05:30:06+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\mirea-puzzle-rpa\practice_3\PR3_Kalinin_RPA_Struct_var11\process\Процесс 2.json

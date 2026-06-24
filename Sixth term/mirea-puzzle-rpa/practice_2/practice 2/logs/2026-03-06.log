@@ -1,0 +1,32 @@
+2026-03-06T01:45:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\ec2aad0c-7eba-4e8c-a8e2-46e0182a4a67\relay_7.py
+2026-03-06T01:45:25+0300 ERROR: C:\Users\NKTKLN\Desktop\practice 2\resource\ec2aad0c-7eba-4e8c-a8e2-46e0182a4a67\relay_7.py Ошибка: Worksheet named 'Лист_1' not found
+2026-03-06T01:45:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\ad7ffc62-1ee0-4eeb-a2f2-56c21e86400d\relay_7.py
+2026-03-06T01:45:59+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\ad7ffc62-1ee0-4eeb-a2f2-56c21e86400d\relay_7.py
+2026-03-06T01:49:33+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\d13f64a6-6c43-4e5d-b1ba-17acbfaa4385\relay_7.py
+2026-03-06T01:50:10+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\d13f64a6-6c43-4e5d-b1ba-17acbfaa4385\relay_7.py
+2026-03-06T01:51:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\dccf79ad-468a-46c5-a679-97c8eb839593\relay_7.py
+2026-03-06T01:51:35+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\dccf79ad-468a-46c5-a679-97c8eb839593\relay_7.py
+2026-03-06T01:56:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\91b9d086-c0e8-4d3a-9fb9-f5bf9c40bc1a\cortex_956.py
+2026-03-06T01:56:46+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\91b9d086-c0e8-4d3a-9fb9-f5bf9c40bc1a\cortex_956.py
+2026-03-06T01:57:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\103bca61-2693-404b-b833-77ac237a1ab2\cortex_956.py
+2026-03-06T01:57:15+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\103bca61-2693-404b-b833-77ac237a1ab2\cortex_956.py
+2026-03-06T01:59:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\8758d4ef-cfb6-4393-8ed1-88ae49e8e223\cortex_956.py
+2026-03-06T01:59:06+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\8758d4ef-cfb6-4393-8ed1-88ae49e8e223\cortex_956.py
+2026-03-06T01:59:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\46b00d2e-af6b-4902-b744-0db9252fdc96\cortex_956.py
+2026-03-06T01:59:26+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\46b00d2e-af6b-4902-b744-0db9252fdc96\cortex_956.py
+2026-03-06T02:03:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\38710b35-b4ee-49d2-97e3-1be56d1059c9\cortex_956.py
+2026-03-06T02:03:30+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\38710b35-b4ee-49d2-97e3-1be56d1059c9\cortex_956.py
+2026-03-06T02:03:57+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\4943151e-2fa6-457e-8bf9-0ac7321b502a\cortex_956.py
+2026-03-06T02:04:15+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\4943151e-2fa6-457e-8bf9-0ac7321b502a\cortex_956.py
+2026-03-06T02:09:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\5d723b96-5926-4d0e-bdd6-ddfc568b9dbc\sentry_862.py
+2026-03-06T02:09:33+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\5d723b96-5926-4d0e-bdd6-ddfc568b9dbc\sentry_862.py
+2026-03-06T02:09:42+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\258a6f38-af24-42eb-80cd-c830b261e4ae\sentry_862.py
+2026-03-06T02:09:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\258a6f38-af24-42eb-80cd-c830b261e4ae\sentry_862.py
+2026-03-06T02:20:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\c3ef104f-42fd-436a-9d6d-4ed5ec291755\makPal_610.py
+2026-03-06T02:20:04+0300 ERROR: C:\Users\NKTKLN\Desktop\practice 2\resource\c3ef104f-42fd-436a-9d6d-4ed5ec291755\makPal_610.py Ошибка: 'Worksheet Индексация does not exist.'
+2026-03-06T02:20:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\bd528e77-21a5-40b0-939d-b23ec116894c\makPal_610.py
+2026-03-06T02:20:31+0300 ERROR: C:\Users\NKTKLN\Desktop\practice 2\resource\bd528e77-21a5-40b0-939d-b23ec116894c\makPal_610.py Ошибка: [Errno 13] Permission denied: 'C:\\Users\\NKTKLN\\Desktop\\Сотрудники.xlsx'
+2026-03-06T02:20:39+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\71b59929-9fd0-43e4-be10-b7e9389b76b5\makPal_610.py
+2026-03-06T02:21:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\71b59929-9fd0-43e4-be10-b7e9389b76b5\makPal_610.py
+2026-03-06T02:21:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\practice 2\resource\90416e6b-38d6-4b53-8823-4f400828f5a3\makPal_610.py
+2026-03-06T02:21:31+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\practice 2\resource\90416e6b-38d6-4b53-8823-4f400828f5a3\makPal_610.py

@@ -1,0 +1,201 @@
+2026-04-17T11:28:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:28:09+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\dae25fa8-b0ac-45a5-b0dc-2f778aa4f5e9\spark_271.py
+2026-04-17T11:28:09+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\dae25fa8-b0ac-45a5-b0dc-2f778aa4f5e9\spark_271.py
+2026-04-17T11:28:09+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:28:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:28:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e255954d-3cb4-4065-942e-906d4b91ee08\spark_271.py
+2026-04-17T11:29:05+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e255954d-3cb4-4065-942e-906d4b91ee08\spark_271.py
+2026-04-17T11:29:05+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:39:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:39:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6cd5c409-12ad-4037-b3e6-59de30f3c721\spark_271.py
+2026-04-17T11:39:11+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\6cd5c409-12ad-4037-b3e6-59de30f3c721\spark_271.py Ошибка: 'PaneControl' object has no attribute 'GetValuePattern'
+2026-04-17T11:39:11+0300 Окно выполнения: Процесс 1: ERROR:  ["'PaneControl' object has no attribute 'GetValuePattern'"]
+2026-04-17T11:39:18+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:41:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:41:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b3a577e5-1581-4dea-aa46-f9f4523177ef\spark_271.py
+2026-04-17T11:41:39+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b3a577e5-1581-4dea-aa46-f9f4523177ef\spark_271.py Ошибка: Find Control Timeout(10s): {ClassName: 'TkChild', ControlType: PaneControl}
+2026-04-17T11:41:39+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {ClassName: 'TkChild', ControlType: PaneControl}"]
+2026-04-17T11:41:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:42:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:42:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9d5448d4-0cf0-4779-b880-9b9ba1f3e790\spark_271.py
+2026-04-17T11:42:48+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9d5448d4-0cf0-4779-b880-9b9ba1f3e790\spark_271.py Ошибка: Find Control Timeout(10s): {ClassName: 'TkChild', ControlType: PaneControl}
+2026-04-17T11:42:48+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {ClassName: 'TkChild', ControlType: PaneControl}"]
+2026-04-17T11:42:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:47:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:47:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\fd60ed9e-1356-4619-b276-8b3b913f4cae\spark_271.py
+2026-04-17T11:47:51+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\fd60ed9e-1356-4619-b276-8b3b913f4cae\spark_271.py Ошибка: 'PaneControl' object has no attribute 'GetValuePattern'
+2026-04-17T11:47:52+0300 Окно выполнения: Процесс 1: ERROR:  ["'PaneControl' object has no attribute 'GetValuePattern'"]
+2026-04-17T11:47:57+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:49:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:49:35+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0f2cd52a-38d6-4b4d-a6c8-d0c5a93ef3d8\spark_271.py
+2026-04-17T11:49:39+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0f2cd52a-38d6-4b4d-a6c8-d0c5a93ef3d8\spark_271.py Ошибка: 'PaneControl' object has no attribute 'GetValuePattern'
+2026-04-17T11:49:39+0300 Окно выполнения: Процесс 1: ERROR:  ["'PaneControl' object has no attribute 'GetValuePattern'"]
+2026-04-17T11:49:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:50:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:50:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\1d8c19d7-a1af-4a87-9edd-1462f9d2ed6b\spark_271.py
+2026-04-17T11:50:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\1d8c19d7-a1af-4a87-9edd-1462f9d2ed6b\spark_271.py Ошибка: 'PaneControl' object has no attribute 'GetValuePattern'
+2026-04-17T11:50:41+0300 Окно выполнения: Процесс 1: ERROR:  ["'PaneControl' object has no attribute 'GetValuePattern'"]
+2026-04-17T11:51:12+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:51:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:51:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ed9c6aa7-009e-4c0e-9580-e4addf24f2a6\spark_271.py
+2026-04-17T11:51:20+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\ed9c6aa7-009e-4c0e-9580-e4addf24f2a6\spark_271.py
+2026-04-17T11:51:20+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:51:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:51:28+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\cb8439e3-8ffd-4c16-89a6-0f8e8e349544\spark_271.py
+2026-04-17T11:51:31+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\cb8439e3-8ffd-4c16-89a6-0f8e8e349544\spark_271.py
+2026-04-17T11:51:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:52:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:52:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5a391373-b5df-4876-a385-338d9d8978a3\spark_271.py
+2026-04-17T11:52:13+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5a391373-b5df-4876-a385-338d9d8978a3\spark_271.py
+2026-04-17T11:52:13+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:53:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:53:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2eabc70f-d309-4e1a-ac6c-b73ac505b281\spark_271.py
+2026-04-17T11:53:42+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2eabc70f-d309-4e1a-ac6c-b73ac505b281\spark_271.py
+2026-04-17T11:53:42+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:54:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:54:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\35b5a2af-e12d-4403-b202-0838baa97f24\spark_271.py
+2026-04-17T11:54:49+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\35b5a2af-e12d-4403-b202-0838baa97f24\spark_271.py Ошибка: string indices must be integers, not 'str'
+2026-04-17T11:54:49+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-04-17T11:54:57+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:55:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:55:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\a7ddbdbd-564b-4796-a4fa-4738c159f886\spark_271.py
+2026-04-17T11:55:46+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\a7ddbdbd-564b-4796-a4fa-4738c159f886\spark_271.py Ошибка: string indices must be integers, not 'str'
+2026-04-17T11:55:46+0300 Окно выполнения: Процесс 1: ERROR:  ["string indices must be integers, not 'str'"]
+2026-04-17T11:55:49+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:56:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:56:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5efc29fb-ba95-4542-b944-016f02682de0\spark_271.py
+2026-04-17T11:56:47+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5efc29fb-ba95-4542-b944-016f02682de0\spark_271.py Ошибка: tuple indices must be integers or slices, not str
+2026-04-17T11:56:47+0300 Окно выполнения: Процесс 1: ERROR:  ["tuple indices must be integers or slices, not str"]
+2026-04-17T11:56:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:57:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:57:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\837af4bf-b54f-45e3-b45b-2ad0ae725480\spark_271.py
+2026-04-17T11:57:29+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\837af4bf-b54f-45e3-b45b-2ad0ae725480\spark_271.py Ошибка: tuple indices must be integers or slices, not str
+2026-04-17T11:57:29+0300 Окно выполнения: Процесс 1: ERROR:  ["tuple indices must be integers or slices, not str"]
+2026-04-17T11:57:32+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:57:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:57:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5a832df9-0908-43fc-9e89-a10d7f598d1e\spark_271.py
+2026-04-17T11:57:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5a832df9-0908-43fc-9e89-a10d7f598d1e\spark_271.py Ошибка: 'numpy.ndarray' object is not callable
+2026-04-17T11:57:41+0300 Окно выполнения: Процесс 1: ERROR:  ["'numpy.ndarray' object is not callable"]
+2026-04-17T11:57:47+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:59:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:59:14+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f968ab01-624f-4ae3-acab-6397ae50eec1\spark_271.py
+2026-04-17T11:59:31+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f968ab01-624f-4ae3-acab-6397ae50eec1\spark_271.py Ошибка: Find Control Timeout(10s): {Name: 'Система регистрации доставок', ClassName: 'TkTopLevel', ControlType: WindowControl}
+2026-04-17T11:59:31+0300 Окно выполнения: Процесс 1: ERROR:  ["Find Control Timeout(10s): {Name: 'Система регистрации доставок', ClassName: 'TkTopLevel', ControlType: WindowControl}"]
+2026-04-17T11:59:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:59:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e41c9077-ef56-4859-920d-d50d4612697e\spark_271.py
+2026-04-17T11:59:34+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T11:59:38+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e41c9077-ef56-4859-920d-d50d4612697e\spark_271.py
+2026-04-17T11:59:38+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:03+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9f9a3396-a9b9-463b-86d8-b77ff1cab5e9\spark_271.py
+2026-04-17T12:00:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\9f9a3396-a9b9-463b-86d8-b77ff1cab5e9\spark_271.py
+2026-04-17T12:00:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d44af7fa-6c64-4999-8a1a-cd62572d7f72\spark_271.py
+2026-04-17T12:00:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\d44af7fa-6c64-4999-8a1a-cd62572d7f72\spark_271.py
+2026-04-17T12:00:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:00:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2591be00-ac18-4ec7-848b-e899f02b870a\spark_271.py
+2026-04-17T12:00:45+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2591be00-ac18-4ec7-848b-e899f02b870a\spark_271.py
+2026-04-17T12:00:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:02:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:02:20+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\76c7e32c-d185-4cf4-8fac-863e5c845912\spark_271.py
+2026-04-17T12:02:23+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\76c7e32c-d185-4cf4-8fac-863e5c845912\spark_271.py
+2026-04-17T12:02:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:04:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:04:21+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e1489695-93a7-4570-8814-e1845fac529b\spark_271.py
+2026-04-17T12:04:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e1489695-93a7-4570-8814-e1845fac529b\spark_271.py
+2026-04-17T12:04:22+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:05:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:05:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2387c3c7-341e-442f-9b39-a86708769670\spark_271.py
+2026-04-17T12:05:33+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2387c3c7-341e-442f-9b39-a86708769670\spark_271.py
+2026-04-17T12:05:33+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:07:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:07:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\821c606d-c72e-4cf9-a9d7-d77e51e9b001\spark_271.py
+2026-04-17T12:07:24+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\821c606d-c72e-4cf9-a9d7-d77e51e9b001\spark_271.py
+2026-04-17T12:07:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:07:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:07:37+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\56325df0-cf9d-447e-be33-791852456875\spark_271.py
+2026-04-17T12:07:44+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\56325df0-cf9d-447e-be33-791852456875\spark_271.py
+2026-04-17T12:07:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:08:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:08:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\585f51fe-185e-43ec-bf71-1cf947befd94\spark_271.py
+2026-04-17T12:08:49+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\585f51fe-185e-43ec-bf71-1cf947befd94\spark_271.py
+2026-04-17T12:08:50+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:47:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:47:19+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\704733ab-b724-4da8-bf12-ab5dd6d4c469\spark_271.py
+2026-04-17T12:47:26+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\704733ab-b724-4da8-bf12-ab5dd6d4c469\spark_271.py
+2026-04-17T12:47:27+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:48:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:49:01+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e832fe80-5948-4e09-8c0c-866b2e386a78\spark_271.py
+2026-04-17T12:49:05+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\e832fe80-5948-4e09-8c0c-866b2e386a78\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T12:49:05+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T12:49:10+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:58:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T12:58:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\1ed6d7da-7c23-468c-b24e-1cc4333d4bc6\spark_271.py
+2026-04-17T12:58:41+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\1ed6d7da-7c23-468c-b24e-1cc4333d4bc6\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T12:58:41+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T12:58:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:02:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:02:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\4fda8b50-5756-4189-b4b8-e52bbf0666d0\spark_271.py
+2026-04-17T13:02:58+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\4fda8b50-5756-4189-b4b8-e52bbf0666d0\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T13:02:58+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T13:03:06+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:03:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:03:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\70b8fb9b-aeae-4446-9f8b-618bd7c9ae80\spark_271.py
+2026-04-17T13:03:39+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\70b8fb9b-aeae-4446-9f8b-618bd7c9ae80\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T13:03:39+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T13:03:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:03:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:03:46+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\78a3e28b-8a43-4780-8c01-7503cc49019a\spark_271.py
+2026-04-17T13:03:51+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\78a3e28b-8a43-4780-8c01-7503cc49019a\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T13:03:51+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T13:03:53+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:04:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:04:15+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\56bac52c-1184-403c-9efa-2f55323b8f0c\spark_271.py
+2026-04-17T13:04:22+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\56bac52c-1184-403c-9efa-2f55323b8f0c\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T13:04:23+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T13:04:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:05:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:05:24+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\7d64d121-2015-4e08-898e-a3b664b07edf\spark_271.py
+2026-04-17T13:05:29+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\7d64d121-2015-4e08-898e-a3b664b07edf\spark_271.py Ошибка: Invalid control character at: line 1 column 177 (char 176)
+2026-04-17T13:05:29+0300 Окно выполнения: Процесс 1: ERROR:  ["Invalid control character at: line 1 column 177 (char 176)"]
+2026-04-17T13:05:34+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:05+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b9d00a06-d974-43f5-b634-0b8f8b477793\spark_271.py
+2026-04-17T13:06:13+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-04-17T13:06:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:16+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\4af11452-639a-4460-99b1-e21baec844f8\spark_271.py
+2026-04-17T13:06:22+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\b9d00a06-d974-43f5-b634-0b8f8b477793\spark_271.py
+2026-04-17T13:06:23+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:28+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\4af11452-639a-4460-99b1-e21baec844f8\spark_271.py
+2026-04-17T13:06:28+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:06:49+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2ff04aed-90cf-47cb-b856-8ef749ce499b\spark_271.py
+2026-04-17T13:06:52+0300 ERROR: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\2ff04aed-90cf-47cb-b856-8ef749ce499b\spark_271.py Ошибка: Элемент не поддерживает InvokePattern. Ошибка взаимодействия: 'PaneControl' object has no attribute 'GetInvokePattern'
+2026-04-17T13:06:53+0300 Окно выполнения: Процесс 1: ERROR:  ["Элемент не поддерживает InvokePattern. Ошибка взаимодействия: 'PaneControl' object has no attribute 'GetInvokePattern'"]
+2026-04-17T13:06:55+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:07:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:07:53+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\11d6111d-ee32-4535-b85a-41c77d60a352\spark_271.py
+2026-04-17T13:08:03+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\11d6111d-ee32-4535-b85a-41c77d60a352\spark_271.py
+2026-04-17T13:08:03+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:08:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:08:31+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f0ce57b4-3945-438c-a6ae-36947194deb4\spark_271.py
+2026-04-17T13:08:42+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\f0ce57b4-3945-438c-a6ae-36947194deb4\spark_271.py
+2026-04-17T13:08:43+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:09:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:09:17+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\50920774-e52d-4eca-84c7-00fff5375072\spark_271.py
+2026-04-17T13:09:29+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\50920774-e52d-4eca-84c7-00fff5375072\spark_271.py
+2026-04-17T13:09:29+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:09:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:09:41+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5f6b22af-8c8d-428a-848e-bc6381c26856\spark_271.py
+2026-04-17T13:09:52+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\5f6b22af-8c8d-428a-848e-bc6381c26856\spark_271.py
+2026-04-17T13:09:52+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:10:23+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:10:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0acec469-5eed-4c2b-a7a1-f0d3ac541b82\spark_271.py
+2026-04-17T13:10:36+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\0acec469-5eed-4c2b-a7a1-f0d3ac541b82\spark_271.py
+2026-04-17T13:10:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:11:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json
+2026-04-17T13:11:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\a4703a82-7386-4303-b77d-a9d4dfc4196d\spark_271.py
+2026-04-17T13:11:24+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\resource\a4703a82-7386-4303-b77d-a9d4dfc4196d\spark_271.py
+2026-04-17T13:11:24+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_7\PR7_Kalinin_RPA_Desktop_p1_Problem2_var11\process\Процесс 1.json

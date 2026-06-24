@@ -1,0 +1,67 @@
+2026-03-06T02:57:25+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\6c95ec0a-ad3f-4f03-b23d-6c88d6076128\circuit_513.py
+2026-03-06T02:57:25+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\6c95ec0a-ad3f-4f03-b23d-6c88d6076128\circuit_513.py Ошибка: cannot access local variable 'max_engagement' where it is not associated with a value
+2026-03-06T02:58:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\b8c07c8e-2fea-4fed-a82f-caca34fd8af7\circuit_513.py
+2026-03-06T02:58:08+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\b8c07c8e-2fea-4fed-a82f-caca34fd8af7\circuit_513.py Ошибка: unsupported operand type(s) for /: 'str' and 'int'
+2026-03-06T02:59:11+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\86354ef5-db15-4e46-8b91-a468ce2ba1fc\circuit_513.py
+2026-03-06T02:59:11+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\86354ef5-db15-4e46-8b91-a468ce2ba1fc\circuit_513.py Ошибка: unsupported operand type(s) for /: 'str' and 'int'
+2026-03-06T02:59:38+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\3cc277fa-3475-4e0f-80a8-a764e48d66e5\circuit_513.py
+2026-03-06T02:59:48+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\3cc277fa-3475-4e0f-80a8-a764e48d66e5\circuit_513.py Ошибка: unsupported operand type(s) for /: 'str' and 'int'
+2026-03-06T03:00:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:00:22+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\4533b3e0-908a-4865-ab6e-4c88a9ccc581\circuit_513.py
+2026-03-06T03:00:25+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\4533b3e0-908a-4865-ab6e-4c88a9ccc581\circuit_513.py Ошибка: division by zero
+2026-03-06T03:00:25+0300 Окно выполнения: Процесс 1: ERROR:  ["division by zero"]
+2026-03-06T03:00:29+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:00:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:00:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\a89194dc-5633-486c-b395-574f78150ff3\circuit_513.py
+2026-03-06T03:00:46+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\a89194dc-5633-486c-b395-574f78150ff3\circuit_513.py Ошибка: cannot access local variable 'commented_works' where it is not associated with a value
+2026-03-06T03:00:46+0300 Окно выполнения: Процесс 1: ERROR:  ["cannot access local variable 'commented_works' where it is not associated with a value"]
+2026-03-06T03:00:54+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:02:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:02:23+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\a03dfb3e-6da7-4eee-b483-771cf477469a\circuit_513.py
+2026-03-06T03:02:23+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\a03dfb3e-6da7-4eee-b483-771cf477469a\circuit_513.py Ошибка: 'Worksheet Analysis_Jan does not exist.'
+2026-03-06T03:02:23+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Analysis_Jan does not exist.'"]
+2026-03-06T03:02:30+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:02:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:02:48+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\041ce7eb-7985-4bfe-b3ed-5adc77affb4a\circuit_513.py
+2026-03-06T03:02:48+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\041ce7eb-7985-4bfe-b3ed-5adc77affb4a\circuit_513.py Ошибка: Value must be a list, tuple, range or generator, or a dict. Supplied value is <class 'int'>
+2026-03-06T03:02:48+0300 Окно выполнения: Процесс 1: ERROR:  ["Value must be a list, tuple, range or generator, or a dict. Supplied value is <class 'int'>"]
+2026-03-06T03:02:56+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:03:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:03:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\84e75cab-8b88-4442-a9d8-67b60a0e556c\circuit_513.py
+2026-03-06T03:03:12+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\84e75cab-8b88-4442-a9d8-67b60a0e556c\circuit_513.py Ошибка: Value must be a list, tuple, range or generator, or a dict. Supplied value is <class 'int'>
+2026-03-06T03:03:12+0300 Окно выполнения: Процесс 1: ERROR:  ["Value must be a list, tuple, range or generator, or a dict. Supplied value is <class 'int'>"]
+2026-03-06T03:03:15+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:03:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:03:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\17c81780-1b20-4d1b-b55a-0b8d40e0c282\circuit_513.py
+2026-03-06T03:03:44+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\17c81780-1b20-4d1b-b55a-0b8d40e0c282\circuit_513.py Ошибка: 9
+2026-03-06T03:03:44+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:03:47+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:04:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:04:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\2cbd6ad9-993f-4e54-84dc-f850dd4d1b94\circuit_513.py
+2026-03-06T03:04:09+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\2cbd6ad9-993f-4e54-84dc-f850dd4d1b94\circuit_513.py Ошибка: 9
+2026-03-06T03:04:09+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:04:33+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:06:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:06:47+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\24eab883-af17-44d6-934f-2246edd3cb54\circuit_513.py
+2026-03-06T03:06:47+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\24eab883-af17-44d6-934f-2246edd3cb54\circuit_513.py Ошибка: 9
+2026-03-06T03:06:47+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:07:03+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:07:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:07:32+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\35147a61-131f-4f4c-9b2d-d77c2b3caaae\circuit_513.py
+2026-03-06T03:07:32+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\35147a61-131f-4f4c-9b2d-d77c2b3caaae\circuit_513.py Ошибка: 9
+2026-03-06T03:07:32+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:07:34+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:07:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:07:52+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\6c0e198d-35e0-49eb-934e-f91607984f69\circuit_513.py
+2026-03-06T03:07:52+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\6c0e198d-35e0-49eb-934e-f91607984f69\circuit_513.py Ошибка: 9
+2026-03-06T03:07:52+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:08:00+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:08:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:08:13+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\e5ecb4e5-e0a8-4d0d-8ab8-6e7075489da3\circuit_513.py
+2026-03-06T03:08:25+0300 ERROR: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\e5ecb4e5-e0a8-4d0d-8ab8-6e7075489da3\circuit_513.py Ошибка: 9
+2026-03-06T03:08:25+0300 Окно выполнения: Процесс 1: ERROR:  ["9"]
+2026-03-06T03:08:28+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:09:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json
+2026-03-06T03:09:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\4fd0453d-80f0-49a8-974b-12638535b4bd\circuit_513.py
+2026-03-06T03:09:25+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\resource\4fd0453d-80f0-49a8-974b-12638535b4bd\circuit_513.py
+2026-03-06T03:09:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\PR2_Kalinin_RPA_Logic_ Problem1_var1\process\Процесс 1.json

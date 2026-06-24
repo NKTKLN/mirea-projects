@@ -1,0 +1,43 @@
+2026-05-20T00:20:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:20:45+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-20T00:20:46+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:34:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:34:26+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:35:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:35:24+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 22] Invalid argument: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\MIREA\\\\PoCS\\\\practice_14\\\\Data\\\\Reports\\x0berification.xlsx'"]
+2026-05-20T00:35:51+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:36:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:36:06+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:36:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:36:37+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:37:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:37:36+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:39:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:39:40+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-20T00:39:47+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:40:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:40:10+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-20T00:40:13+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:42:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:42:15+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:43:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:43:34+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:45:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:46:01+0300 Окно выполнения: Процесс 1: ERROR:  ["list index out of range"]
+2026-05-20T00:46:05+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:47:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:47:05+0300 Окно выполнения: Процесс 1: ERROR:  ["list index out of range"]
+2026-05-20T00:47:17+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:47:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:47:52+0300 Окно выполнения: Процесс 1: ERROR:  ["list index out of range"]
+2026-05-20T00:47:54+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:48:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:48:18+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-20T00:48:21+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:48:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:48:48+0300 Окно выполнения: Процесс 1: ERROR:  ["По указанному пути файл не найден"]
+2026-05-20T00:48:51+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:49:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:49:31+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:51:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json
+2026-05-20T00:51:18+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\MIREA\PoCS\practice_14\PR14_Kalinin_RPA_OCR_p2_var11\process\Процесс 1.json

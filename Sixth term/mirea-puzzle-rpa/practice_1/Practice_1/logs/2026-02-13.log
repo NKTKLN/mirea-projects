@@ -1,0 +1,69 @@
+2026-02-13T11:27:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:27:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:27:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\f94241a4-7fe1-473f-8e15-8e198b6efe67\sentry_583.py
+2026-02-13T11:27:44+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\796a5bb9-626a-490c-a731-151c95e1a468\sentry_583.py
+2026-02-13T11:27:50+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-02-13T11:27:54+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\796a5bb9-626a-490c-a731-151c95e1a468\sentry_583.py
+2026-02-13T11:27:55+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\f94241a4-7fe1-473f-8e15-8e198b6efe67\sentry_583.py
+2026-02-13T11:27:55+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:27:56+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:28:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:28:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\b7658f6b-c641-4417-9a24-36ed7b0a144b\sentry_583.py
+2026-02-13T11:28:26+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\b7658f6b-c641-4417-9a24-36ed7b0a144b\sentry_583.py
+2026-02-13T11:28:28+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:29:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:29:33+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\8b6cd9a9-9ead-4590-8212-2ac93e0b0878\sentry_583.py
+2026-02-13T11:29:33+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\8b6cd9a9-9ead-4590-8212-2ac93e0b0878\sentry_583.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\NKTKLN\\Desktop\\Practice_1\\resource\\Result.xlsx'
+2026-02-13T11:29:33+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\Practice_1\\\\resource\\\\Result.xlsx'"]
+2026-02-13T11:29:38+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:29:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:00+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\b8d6baf0-89da-4aa7-8063-4611d798639f\sentry_583.py
+2026-02-13T11:30:00+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\b8d6baf0-89da-4aa7-8063-4611d798639f\sentry_583.py Ошибка: 'Worksheet Лист1 does not exist.'
+2026-02-13T11:30:00+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Лист1 does not exist.'"]
+2026-02-13T11:30:05+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\6eebe07b-97d4-4a24-889c-162ab721ef45\sentry_583.py
+2026-02-13T11:30:18+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\6eebe07b-97d4-4a24-889c-162ab721ef45\sentry_583.py Ошибка: 'Worksheet Лист1 does not exist.'
+2026-02-13T11:30:18+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Лист1 does not exist.'"]
+2026-02-13T11:30:21+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:26+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\d6421a7d-56fa-4d86-bf67-a3a6701b8930\sentry_583.py
+2026-02-13T11:30:26+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\d6421a7d-56fa-4d86-bf67-a3a6701b8930\sentry_583.py Ошибка: [Errno 13] Permission denied: 'C:\\Users\\NKTKLN\\Desktop\\Practice_1\\resource\\Result.xlsx'
+2026-02-13T11:30:26+0300 Окно выполнения: Процесс 1: ERROR:  ["[Errno 13] Permission denied: 'C:\\\\Users\\\\NKTKLN\\\\Desktop\\\\Practice_1\\\\resource\\\\Result.xlsx'"]
+2026-02-13T11:30:31+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:30:34+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\66104b98-a676-4dcb-aaeb-d359e8bd5f39\sentry_583.py
+2026-02-13T11:30:34+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\66104b98-a676-4dcb-aaeb-d359e8bd5f39\sentry_583.py
+2026-02-13T11:30:34+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:34:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:34:18+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\61723ac2-794a-48ef-af40-e07d7311374b\sentry_583.py
+2026-02-13T11:34:41+0300 Окно выполнения: Процесс 1: ERROR:  ["Failed to get child processes: program not found"]
+2026-02-13T11:34:42+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\61723ac2-794a-48ef-af40-e07d7311374b\sentry_583.py
+2026-02-13T11:34:45+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:08+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\1e31a90d-55ae-4bea-a906-5759f1e24ee8\sentry_583.py
+2026-02-13T11:51:08+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\1e31a90d-55ae-4bea-a906-5759f1e24ee8\sentry_583.py Ошибка: Worksheet named 'Журналы ' not found
+2026-02-13T11:51:08+0300 Окно выполнения: Процесс 1: ERROR:  ["Worksheet named 'Журналы ' not found"]
+2026-02-13T11:51:12+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:43+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\a8896f3f-5a8a-4c50-b463-ed5791902e79\sentry_583.py
+2026-02-13T11:51:43+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\a8896f3f-5a8a-4c50-b463-ed5791902e79\sentry_583.py Ошибка: name 'my_range' is not defined
+2026-02-13T11:51:43+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'my_range' is not defined"]
+2026-02-13T11:51:46+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:53+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:51:55+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\e9637798-29b2-47df-a92e-4f6cca95da7b\sentry_583.py
+2026-02-13T11:51:55+0300 ERROR: C:\Users\NKTKLN\Desktop\Practice_1\resource\e9637798-29b2-47df-a92e-4f6cca95da7b\sentry_583.py Ошибка: 'Worksheet Импорт does not exist.'
+2026-02-13T11:51:55+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Импорт does not exist.'"]
+2026-02-13T11:51:58+0300 ERROR: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:52:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:52:12+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\dcede4e0-32b4-4bc0-ab96-515471aaf08a\sentry_583.py
+2026-02-13T11:52:12+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\dcede4e0-32b4-4bc0-ab96-515471aaf08a\sentry_583.py
+2026-02-13T11:52:13+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:56:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:56:07+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\fd015562-b03c-47a4-9ca4-90101195f09e\sentry_583.py
+2026-02-13T11:56:08+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\fd015562-b03c-47a4-9ca4-90101195f09e\sentry_583.py
+2026-02-13T11:56:08+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:56:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json
+2026-02-13T11:56:51+0300 INFO: Старт робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\689fdf28-a89f-419c-9a6e-e85f181aa0a4\sentry_583.py
+2026-02-13T11:56:51+0300 INFO: Завершение работы робота: C:\Users\NKTKLN\Desktop\Practice_1\resource\689fdf28-a89f-419c-9a6e-e85f181aa0a4\sentry_583.py
+2026-02-13T11:56:51+0300 INFO: Завершение выполнения процесса. C:\Users\NKTKLN\Desktop\Practice_1\process\Процесс 1.json

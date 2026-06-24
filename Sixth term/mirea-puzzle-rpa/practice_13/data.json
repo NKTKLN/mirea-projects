@@ -1,0 +1,68 @@
+{
+  "case_20260420": {
+    "file_name": "case_20260420.zip",
+    "file_hash": "cd4e313796b0d8f3511b2068130a2b92adfe4427",
+    "file_size": 87706,
+    "date": "19.05.2026 21:17:12",
+    "pdf": {
+      "form": {
+        "new_name": "form_CASE-1001_20.04.2026.pdf",
+        "id": "CASE-1001",
+        "client": "OOO Beктop",
+        "date": "20.04.2026",
+        "comment": ""
+      },
+      "request": {
+        "new_name": "request_CASE-1001_20.04.2026.pdf",
+        "id": "CASE-1001",
+        "client": "OOO Beктop",
+        "date": "20.04.2026",
+        "comment": "Диaгнocтикa cepвepнoгo oбopудoвaния"
+      }
+    }
+  },
+  "case_20260421": {
+    "file_name": "case_20260421.zip",
+    "file_hash": "b5b913a143ce197d3e70672b899bdd7a50367244",
+    "file_size": 88373,
+    "date": "19.05.2026 21:17:12",
+    "pdf": {
+      "form": {
+        "new_name": "form_CASE-1002_21.04.2026.pdf",
+        "id": "CASE-1002",
+        "client": "ИП Cидopoв A.B.",
+        "date": "21.04.2026",
+        "comment": ""
+      },
+      "request": {
+        "new_name": "request_CASE-1002_21.04.2026.pdf",
+        "id": "CASE-1002",
+        "client": "ИП Cидopoв A.B.",
+        "date": "21.04.2026",
+        "comment": "Пpoвepкa лицeнзий ПO"
+      }
+    }
+  },
+  "case_20260422": {
+    "file_name": "case_20260422.zip",
+    "file_hash": "a944a9596b170d719fa484143ecc7509bee46057",
+    "file_size": 87702,
+    "date": "19.05.2026 21:17:12",
+    "pdf": {
+      "form": {
+        "new_name": "form_CASE-1003_22.04.2026.pdf",
+        "id": "CASE-1003",
+        "client": "AO Пpoгpecc",
+        "date": "22.04.2026",
+        "comment": ""
+      },
+      "request": {
+        "new_name": "request_CASE-1003_22.04.2026.pdf",
+        "id": "CASE-1003",
+        "client": "AO Пpoгpecc",
+        "date": "22.04.2026",
+        "comment": "Aудит инфopмaциoннoй бeзoпacнocти"
+      }
+    }
+  }
+}
